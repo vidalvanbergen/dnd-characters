@@ -1,0 +1,1483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc version="5">
+<character><version>38</version><uid>10492</uid><name>Doctor “Doc” Watt</name><race><name>Warforged</name><age>50</age><height>6’8”</height><weight>318 lbs</weight><eyes>Light yellow shine</eyes><skin>Fixed Patchwork</skin><hair>Broken sparking electrical wires</hair><feat><name>Description</name><text>The warforged were built to fight in the Last War. The first warforged were mindless automatons, but House Cannith devoted vast resources to improving these steel soldiers. An unexpected breakthrough produced fully sentient soldiers, blending organic and inorganic materials. Warforged are made from wood and metal, but they can feel pain and emotion. Built as weapons, they must now find a purpose beyond the war. A warforged can be a steadfast ally, a cold-hearted killing machine, or a visionary in search of purpose and meaning.
+
+Source:	Eberron: Rising from the Last War p. 35,
+		Wayfinder&#39;s Guide to Eberron p. 67</text></feat><feat><name>Ability Score Increases</name><text>Your Constitution score increases by 2. In addition, one other ability score of your choice increases by 1.</text></feat><feat><name>Quirks</name><text>Warforged often display an odd personality trait or two, given how new they are to the world. The Warforged Quirks table contains example quirks.
+
+d8 | Quirk
+1 | You analyze—out loud—the potential threat posed by every creature you meet.
+2 | You often misread emotional cues.
+3 | You are fiercely protective of your friends.
+4 | You try to apply wartime discipline to every situation.
+5 | You don&#39;t know how to filter your feelings and are prone to dramatic emotional outbursts.
+6 | You don&#39;t understand clothing beyond its utility and assume it denotes a person&#39;s function.
+7 | You are obsessed with your appearance and constantly polish and buff yourself.
+8 | War is the only thing that makes sense to you, and you&#39;re always looking for a fight.</text></feat><feat><name>Life Span</name><text>A typical warforged is between two and thirty years old. The maximum warforged lifespan remains a mystery; so far, warforged have shown no signs of deterioration due to age. You are immune to magical aging effects.</text></feat><feat><name>Alignment</name><text>Most warforged take comfort in order and discipline, tending toward law and neutrality. But some have absorbed the morality, or lack thereof, of the beings with which they served.</text></feat><feat><name>Size</name><text>Your size is Medium. To set your height and weight randomly, start with rolling a size modifier.
+
+To set your height and weight randomly, start with rolling a size modifier:
+
+Size modifier = 2d6
+Height = 5 feet + 10 inches + your size modifier in inches
+Weight in pounds = 270 + (1d4 × your size modifier)</text></feat><feat><name>Constructed Resilience</name><text>You were created to have remarkable fortitude, represented by the following benefits:
+
+	• You have advantage on saving throws against being poisoned, and you have resistance to poison damage.
+	• You don&#39;t need to eat, drink, or breathe.
+	• You are immune to disease.
+	• You don&#39;t need to sleep, and magic can&#39;t put you to sleep.</text></feat><feat><name>Sentry&#39;s Rest</name><text>When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn&#39;t render you unconscious, and you can see and hear as normal.</text></feat><feat><name>Integrated Protection</name><text>Your body has built-in defensive layers, which can be enhanced with armor:
+
+	• You gain a +1 bonus to Armor Class.
+
+	• You can don only armor with which you have proficiency. To don armor other than a shield, you must incorporate it into your body over the course of 1 hour, during which you remain in contact with the armor. To doff armor, you must spend 1 hour removing it. You can rest while donning or doffing armor in this way.
+
+	• While you live, the armor incorporated into your body can&#39;t be removed against your will.</text><mod><type>10</type><value>1</value></mod></feat><feat><name>Specialized Design</name><text>You gain one skill proficiency and one tool proficiency of your choice.</text><proficiency>105</proficiency></feat><feat><name>Languages</name><text>You can speak, read, and write Common, Goblin and Dwarvish.</text></feat><mod><category>1</category><type>2</type><value>2</value></mod><mod><category>1</category><type>3</type><value>1</value></mod></race><class><id>10469</id><name>Artificer</name><hd>2</hd><wealth>5d4x10</wealth><proficiency>102</proficiency><proficiency>2</proficiency><proficiency>3</proficiency><proficiency>109</proficiency><numClassSkills>2</numClassSkills><armor>Light Armor, Medium Armor, Shields</armor><weapons>Simple Weapons</weapons><tools>Thieves&#39; Tools, Tinker&#39;s Tools, Alchemist Supplies, Herbalist Kit</tools><slots>2,2,0,0,0,0,0,0,0,0,</slots><slotsCurrent>2,2,0,0,0,0,0,0,0,0,</slotsCurrent><feat><name>Starting Artificer</name><text>As a 1st-level Artificer, you begin play with 8 + your Constitution modifier hit points.
+
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+
+	• Armor: light armor, medium armor, shields
+	• Weapons: simple weapons
+	• Tools: thieves&#39; tools, tinker&#39;s tools, one type of artisan&#39;s tools of your choice
+	• Skills: Choose 2 from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+	• any two simple weapons of your choice
+	• a light crossbow and 20 bolts
+	• your choice of studded leather armor or scale mail
+	• thieves&#39; tool and a dungeoneer&#39;s pack
+
+If you forgo this starting equipment, as well as the items offered by your background, you start with 5d4 × 10 gp to buy your equipment.
+
+Source:	Eberron: Rising from the Last War p. 54,
+		Tasha&#39;s Cauldron of Everything p. 10</text><optional>1</optional></feat><feat><name>Optional Rule: Firearm Proficiency</name><text>The secrets of gunpowder weapons have been discovered in various corners of the D&#38;D multiverse. If your Dungeon Master uses the rules on firearms in Chapter 9 of the Dungeon Master&#39;s Guide and your artificer has been exposed to the operation of such weapons, your artificer is proficient with them.
+
+Source:	Eberron: Rising from the Last War p. 54,
+		Player&#39;s Handbook, p. 163,
+		Tasha&#39;s Cauldron of Everything p. 10</text><expanded>0</expanded><optional>1</optional></feat><feat><name>Magical Tinkering</name><text>At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have thieves&#39; tools or artisan&#39;s tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
+
+	• The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+
+	• Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
+
+	• The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
+
+	• A static visual effect appears on one of the object&#39;s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
+
+The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.
+
+You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.
+
+Source:	Eberron: Rising from the Last War p. 55,
+		Tasha&#39;s Cauldron of Everything p. 11</text><expanded>0</expanded></feat><feat><name>Spellcasting</name><text>You&#39;ve studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don&#39;t appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions.
+
+Tools Required:
+You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically thieves&#39; tools or some kind of artisan&#39;s tool—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an &#39;M&#39; component when you cast it). You must be proficient with the tool to use it in this way. See chapter 5, &#34;Equipment,&#34; in the Player&#39;s Handbook for descriptions of these tools.
+
+After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.
+
+The Magic of Artifice:
+As an artificer, you use tools when you cast your spells. When describing your spellcasting, think about how you&#39;re using a tool. For example, if you cast cure wounds using alchemist&#39;s supplies, you could be quickly producing a salve. If you cast it using tinker&#39;s tools, you might have a miniature mechanical spider that binds wounds. The effect of the spell is the same either way.
+
+Such details don&#39;t limit you in any way or provide you with any benefit beyond the spell&#39;s effects. You don&#39;t have to justify how you&#39;re using tools to cast a spell. But describing your spellcasting creatively is a fun way to distinguish yourself from other spellcasters.
+
+Cantrips: (0-Level Spells)
+You know two cantrips of your choice from the artificer spell list. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.
+
+When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.
+
+Preparing and Casting Spells:
+The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell&#39;s level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of artificer spells that are available for you to cast, choosing from the artificer spell list. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn&#39;t remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.
+
+Spellcasting Ability:
+Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one.
+
+Spell save DC = 8 + Intelligence modifier + Proficiency Bonus
+
+Spell attack modifier = Intelligence modifier + Proficiency Bonus
+
+Ritual Casting:
+You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+
+Source:	Eberron: Rising from the Last War p. 55,
+		Tasha&#39;s Cauldron of Everything p. 11</text></feat><autolevel><slots>2,2,0,0,0,0,0,0,0,0,</slots><feat><name>Starting Artificer</name><text>As a 1st-level Artificer, you begin play with 8 + your Constitution modifier hit points.
+
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+
+	• Armor: light armor, medium armor, shields
+	• Weapons: simple weapons
+	• Tools: thieves&#39; tools, tinker&#39;s tools, one type of artisan&#39;s tools of your choice
+	• Skills: Choose 2 from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand
+
+You start with the following equipment, in addition to the equipment granted by your background:
+
+	• any two simple weapons of your choice
+	• a light crossbow and 20 bolts
+	• your choice of studded leather armor or scale mail
+	• thieves&#39; tool and a dungeoneer&#39;s pack
+
+If you forgo this starting equipment, as well as the items offered by your background, you start with 5d4 × 10 gp to buy your equipment.
+
+Source:	Eberron: Rising from the Last War p. 54,
+		Tasha&#39;s Cauldron of Everything p. 10</text><optional>1</optional></feat><feat><name>Multiclass Artificer</name><text>If your group uses the optional rule on multiclassing in the Player&#39;s Handbook, here&#39;s what you need to know if you choose artificer as one of your classes.
+
+Ability Score Minimum:
+As a multiclass character, you must have at least the following ability score(s) to take a level in this class, or to take a level in another class if you are already an artificer.
+
+	• Inteligence 13
+
+Proficiencies Gained:
+If artificer isn&#39;t your initial class, here are the proficiencies you gain when you take your first level as an artificer.
+
+	• Armor: light armor, medium armor, shields
+	• Weapons: none
+	• Tools: thieves&#39; tools, tinker&#39;s tools.
+
+Spell Slots:
+Add half your levels (rounded up) in the artificer class to the appropriate levels from other classes to determine your available spell slots.
+
+Source:	Eberron: Rising from the Last War p. 54,
+		Tasha&#39;s Cauldron of Everything p. 10</text><optional>1</optional></feat><feat><name>Optional Rule: Firearm Proficiency</name><text>The secrets of gunpowder weapons have been discovered in various corners of the D&#38;D multiverse. If your Dungeon Master uses the rules on firearms in Chapter 9 of the Dungeon Master&#39;s Guide and your artificer has been exposed to the operation of such weapons, your artificer is proficient with them.
+
+Source:	Eberron: Rising from the Last War p. 54,
+		Player&#39;s Handbook, p. 163,
+		Tasha&#39;s Cauldron of Everything p. 10</text><optional>1</optional></feat><feat><name>Magical Tinkering</name><text>At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have thieves&#39; tools or artisan&#39;s tools in hand. You then touch a Tiny nonmagical object as an action and give it one of the following magical properties of your choice:
+
+	• The object sheds bright light in a 5-foot radius and dim light for an additional 5 feet.
+
+	• Whenever tapped by a creature, the object emits a recorded message that can be heard up to 10 feet away. You utter the message when you bestow this property on the object, and the recording can be no more than 6 seconds long.
+
+	• The object continuously emits your choice of an odor or a nonverbal sound (wind, waves, chirping, or the like). The chosen phenomenon is perceivable up to 10 feet away.
+
+	• A static visual effect appears on one of the object&#39;s surfaces. This effect can be a picture, up to 25 words of text, lines and shapes, or a mixture of these elements, as you like.
+
+The chosen property lasts indefinitely. As an action, you can touch the object and end the property early.
+
+You can bestow magic on multiple objects, touching one object each time you use this feature, though a single object can only bear one property at a time. The maximum number of objects you can affect with this feature at one time is equal to your Intelligence modifier (minimum of one object). If you try to exceed your maximum, the oldest property immediately ends, and then the new property applies.
+
+Source:	Eberron: Rising from the Last War p. 55,
+		Tasha&#39;s Cauldron of Everything p. 11</text></feat><feat><name>Spellcasting</name><text>You&#39;ve studied the workings of magic and how to cast spells, channeling the magic through objects. To observers, you don&#39;t appear to be casting spells in a conventional way; you appear to produce wonders from mundane items and outlandish inventions.
+
+Tools Required:
+You produce your artificer spell effects through your tools. You must have a spellcasting focus—specifically thieves&#39; tools or some kind of artisan&#39;s tool—in hand when you cast any spell with this Spellcasting feature (meaning the spell has an &#39;M&#39; component when you cast it). You must be proficient with the tool to use it in this way. See chapter 5, &#34;Equipment,&#34; in the Player&#39;s Handbook for descriptions of these tools.
+
+After you gain the Infuse Item feature at 2nd level, you can also use any item bearing one of your infusions as a spellcasting focus.
+
+The Magic of Artifice:
+As an artificer, you use tools when you cast your spells. When describing your spellcasting, think about how you&#39;re using a tool. For example, if you cast cure wounds using alchemist&#39;s supplies, you could be quickly producing a salve. If you cast it using tinker&#39;s tools, you might have a miniature mechanical spider that binds wounds. The effect of the spell is the same either way.
+
+Such details don&#39;t limit you in any way or provide you with any benefit beyond the spell&#39;s effects. You don&#39;t have to justify how you&#39;re using tools to cast a spell. But describing your spellcasting creatively is a fun way to distinguish yourself from other spellcasters.
+
+Cantrips: (0-Level Spells)
+You know two cantrips of your choice from the artificer spell list. At higher levels, you learn additional artificer cantrips of your choice, as shown in the Cantrips Known column of the Artificer table.
+
+When you gain a level in this class, you can replace one of the artificer cantrips you know with another cantrip from the artificer spell list.
+
+Preparing and Casting Spells:
+The Artificer table shows how many spell slots you have to cast your artificer spells. To cast one of your artificer spells of 1st level or higher, you must expend a slot of the spell&#39;s level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of artificer spells that are available for you to cast, choosing from the artificer spell list. When you do so, choose a number of artificer spells equal to your Intelligence modifier + half your artificer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you are a 5th-level artificer, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn&#39;t remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of artificer spells requires time spent tinkering with your spellcasting focuses: at least 1 minute per spell level for each spell on your list.
+
+Spellcasting Ability:
+Intelligence is your spellcasting ability for your artificer spells; your understanding of the theory behind magic allows you to wield these spells with superior skill. You use your Intelligence whenever an artificer spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an artificer spell you cast and when making an attack roll with one.
+
+Spell save DC = 8 + Intelligence modifier + Proficiency Bonus
+
+Spell attack modifier = Intelligence modifier + Proficiency Bonus
+
+Ritual Casting:
+You can cast an artificer spell as a ritual if that spell has the ritual tag and you have the spell prepared.
+
+Source:	Eberron: Rising from the Last War p. 55,
+		Tasha&#39;s Cauldron of Everything p. 11</text></feat></autolevel><autolevel><level>2</level><slots>2,2,0,0,0,0,0,0,0,0,</slots><feat><name>Infuse Item</name><text>At 2nd level, you&#39;ve gained the ability to imbue mundane items with certain magical infusions, turning those objects into magic items.
+
+Infusions Known:
+When you gain this feature, pick four artificer infusions to learn, choosing from the &#34;Artificer Infusions&#34; spell list. You learn additional infusions of your choice when you reach certain levels in this class, as shown in the Infusions Known column of the Artificer table.
+
+Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.
+
+Artificer Infusions:
+Artificers have invented numerous magical infusions, extraordinary processes that rapidly create magic items. To many, artificers seem like wonderworkers, accomplishing in hours what others need weeks to complete.
+
+Some infusions specify a minimum artificer level. You can&#39;t learn such an infusion until you are at least that level.
+
+Unless an infusion&#39;s description says otherwise, you can&#39;t learn an infusion more than once.
+
+Infusing an Item:
+Whenever you finish a long rest, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion&#39;s description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see &#34;Attunement&#34; in chapter 7 of the Dungeon Master&#39;s Guide).
+
+Your infusion remains in an item indefinitely, but when you die, the infusion vanishes after a number of days equal to your Intelligence modifier (minimum of 1 day). The infusion also vanishes if you replace your knowledge of the infusion.
+
+You can infuse more than one nonmagical object at the end of a long rest; the maximum number of objects appears in the Infused Items column of the Artificer table. You must touch each of the objects, and each of your infusions can be in only one object at a time. Moreover, no object can bear more than one of your infusions at a time. If you try to exceed your maximum number of infusions, the oldest infusion immediately ends, and then the new infusion applies.
+
+If an infusion ends on an item that contains other things, like a bag of holding, its contents harmlessly appear in and around its space.
+
+Infusions Table:
+Level | Known | Active
+2nd | 4 | 2
+6th | 6 | 3
+10th | 8 | 4
+14th | 10 | 5
+18th | 12 | 6
+
+Source:	Eberron: Rising from the Last War p. 56,
+		Tasha&#39;s Cauldron of Everything p. 12</text></feat></autolevel><autolevel><level>3</level><slots>2,3,0,0,0,0,0,0,0,0,</slots><feat><name>Artificer Specialist</name><text>At 3rd level, you choose the type of specialist you are: Alchemist, Armorer, Artillerist, or Battle Smith, each of which is detailed after the class&#39;s description. Your choice grants you features at 5th level and again at 9th and 15th level.
+
+Source:	Eberron: Rising from the Last War p. 57,
+		Tasha&#39;s Cauldron of Everything p. 13</text></feat><feat><name>Artificer Specialist: Alchemist</name><text>An Alchemist is an expert at combining reagents to produce mystical effects. Alchemists use their creations to give life and to leech it away. Alchemy is the oldest of artificer traditions, and its versatility has long been valued during times of war and peace.
+
+Source:	Eberron: Rising from the Last War p. 58,
+		Tasha&#39;s Cauldron of Everything p. 14</text><optional>1</optional></feat><feat><name>Alchemist: Tool Proficiency</name><text>When you adopt this specialization at 3rd level, you gain proficiency with alchemist&#39;s supplies. If you already have this proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice.
+
+Source:	Eberron: Rising from the Last War p. 58,
+		Tasha&#39;s Cauldron of Everything p. 14</text><optional>1</optional></feat><feat><name>Alchemist: Alchemist Spells</name><text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.
+
+Alchemist Spells:
+Artificer Level | Spell
+3rd | healing word, ray of sickness
+5th | flaming sphere, Melf&#39;s acid arrow
+9th | gaseous form, mass healing word
+13th | blight, death ward
+17th | cloudkill, raise dead
+
+Source:	Eberron: Rising from the Last War p. 58,
+		Tasha&#39;s Cauldron of Everything p. 14</text><optional>1</optional></feat><feat><name>Alchemist: Experimental Elixir</name><text>Beginning at 3rd level, whenever you finish a long rest, you can magically produce an experimental elixir in an empty flask you touch. Roll on the Experimental Elixir table for the elixir&#39;s effect, which is triggered when someone drinks the elixir. As an action, a creature can drink the elixir or administer it to an incapacitated creature.
+
+You can create additional experimental elixirs by expending a spell slot of 1st level or higher for each one. When you do so, you use your action to create the elixir in an empty flask you touch, and you choose the elixir&#39;s effect from the Experimental Elixir table.
+
+Creating an experimental elixir requires you to have alchemist&#39;s supplies on your person, and any elixir you create with this feature lasts until it is drunk or until the end of your next long rest.
+
+When you reach certain levels in this class, you can make more elixirs at the end of a long rest: two at 6th level and three at 15th level. Roll for each elixir&#39;s effect separately. Each elixir requires its own flask.
+
+Experimental Elixer:
+d6 | Effect
+1 | Healing. The drinker regains a number of hit points equal to 2d4 + your Intelligence modifier.
+2 | Swiftness. The drinker&#39;s walking speed increases by 10 feet for 1 hour.
+3 | Resilience. The drinker gains a +1 bonus to AC for 10 minutes.
+4 | Boldness. The drinker can roll a d4 and add the number rolled to every attack roll and saving throw they make for the next minute.
+5 | Flight. The drinker gains a flying speed of 10 feet for 10 minutes.
+6 | Transformation. The drinker&#39;s body is transformed as if by the alter self spell. The drinker determines the transformation caused by the spell, the effects of which last for 10 minutes.
+
+Source:	Eberron: Rising from the Last War p. 58,
+		Tasha&#39;s Cauldron of Everything p. 14</text><optional>1</optional></feat><feat><name>Artificer Specialist: Armorer</name><text>An artificer who specializes as an Armorer modifies armor to function almost like a second skin. The armor is enhanced to hone the artificer&#39;s magic, unleash potent attacks, and generate a formidable defense. The artificer bonds with this armor, becoming one with it even as they experiment with it and refine its magical capabilities.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 15</text><optional>1</optional></feat><feat><name>Armorer: Tools of the Trade</name><text>When you adopt this specialization at 3rd level, you gain proficiency with heavy armor. You also gain proficiency with smith&#39;s tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 15</text><optional>1</optional></feat><feat><name>Armorer: Armorer Spells</name><text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Armorer Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.
+
+Armorer Spells:
+Artificer Level | Spell
+3rd | magic missile, thunderwave
+5th | mirror image, shatter
+9th | hypnotic pattern, lightning bolt
+13th | fire shield, greater invisibility
+17th | passwall, wall of force
+
+Source:	Tasha&#39;s Cauldron of Everything p. 15</text><optional>1</optional></feat><feat><name>Armorer: Arcane Armor</name><text>Beginning at 3rd level, your metallurgical pursuits have led to you making armor a conduit for your artificer magic.
+
+As an action, you can turn a suit of armor you are wearing into Arcane Armor, provided you have smith&#39;s tools in hand.
+
+You gain the following benefits while wearing this armor:
+
+	• If the armor normally has a Strength requirement, the arcane armor lacks this requirement for you.
+	• You can use the arcane armor as a spellcasting focus for your artificer spells.
+	• The armor attaches to you and can&#39;t be removed against your will. It also expands to cover your entire body, although you can retract or deploy the helmet as a bonus action. The armor replaces any missing limbs, functioning identically to a limb it replaces.
+	• You can doff or don the armor as an action.
+
+The armor continues to be Arcane Armor until you don another suit of armor or you die.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 15</text><optional>1</optional></feat><feat><name>Armorer: Armor Model</name><text>At 3rd level, you can customize your Arcane Armor. When you do so, choose one of the following armor models: Guardian or Infiltrator. The model you choose gives you special benefits while you wear it.
+
+Each model includes a special weapon. When you attack with that weapon, you can add your Intelligence modifier, instead of Strength or Dexterity, for the attack and damage rolls.
+
+You can change the armor&#39;s model whenever you finish a short or long rest, provided you have smith&#39;s tools in hand.
+
+Guardian:
+You design your armor to be in the front line of conflict. It has the following features:
+
+	• Thunder Gauntlets.
+	Each of the armor&#39;s gauntlets counts as a simple melee weapon while you aren&#39;t holding anything in it, and it deals 1d8 thunder damage on a hit. A creature hit by the gauntlet has disadvantage on attack rolls against targets other than you until the start of your next turn, as the armor magically emits a distracting pulse when the creature attacks someone else.
+
+	• Defensive Field.
+	As a bonus action you can gain temporary hit points equal to your level in this class, replacing any temporary hit points you already have. You lose these temporary hit points if you doff the armor. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+Infiltrator:
+You customize your armor for subtle undertakings. It has the following features:
+
+	• Lightning Launcher.
+	A gemlike node appears on one of your armored fists or on the chest (your choice). It counts as a simple ranged weapon, with a normal range of 90 feet and a long range of 300 feet, and it deals 1d6 lightning damage on a hit. Once on each of your turns when you hit a creature with it, you can deal an extra 1d6 lightning damage to that target.
+
+	• Powered Steps.
+	Your walking speed increases by 5 feet.
+
+	• Dampening Field.
+	You have advantage on Dexterity (Stealth) checks. If the armor normally imposes disadvantage on such checks, the advantage and disadvantage cancel each other, as normal.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 16</text><optional>1</optional></feat><feat><name>Artificer Specialist: Artillerist</name><text>An Artillerist specializes in using magic to hurl energy, projectiles, and explosions on a battlefield. This destructive power is valued by armies in the wars of many different worlds. And when war passes, some members of this specialization seek to build a more peaceful world by using their powers to fight the resurgence of strife.
+
+The world-hopping gnome artificer Vi, an unlikely yet key member of House Cannith&#39;s warforged project, has been especially vocal about making things right: &#34;It&#39;s about time we fixed things instead of blowing them all to hell.&#34;
+
+Source:	Eberron: Rising from the Last War p. 58,
+		Tasha&#39;s Cauldron of Everything p. 17</text><optional>1</optional></feat><feat><name>Artillerist: Tool Proficiency</name><text>When you adopt this specialization at 3rd level, you gain proficiency with woodcarver&#39;s tools. If you already have this proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice.
+
+Source:	Eberron: Rising from the Last War p. 59,
+		Tasha&#39;s Cauldron of Everything p. 17</text><optional>1</optional></feat><feat><name>Artillerist: Artillerist Spells</name><text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Artillerist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.
+
+Artillerist Spells:
+Artificer Level | Spell
+3rd | shield, thunderwave
+5th | scorching ray, shatter
+9th | fireball, wind wall
+13th | ice storm, wall of fire
+17th | cone of cold, wall of force
+
+Source:	Eberron: Rising from the Last War p. 59,
+		Tasha&#39;s Cauldron of Everything p. 17</text><optional>1</optional></feat><feat><name>Artillerist: Eldritch Cannon</name><text>At 3rd level, you&#39;ve learned how to create a magical cannon. Using woodcarver&#39;s tools or smith&#39;s tools, you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.
+
+Once you create a cannon, you can&#39;t do so again until you finish a long rest or until you expend a spell slot to create one. You can have only one cannon at a time and can&#39;t create one while your cannon is present.
+
+The cannon is a magical object. Regardless of size, the cannon has an AC of 18 and a number of hit points equal to five times your artificer level. It is immune to poison damage and psychic damage. If it is forced to make an ability check or a saving throw, treat all its ability scores as 10 (+0). If the mending spell is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 1 hour. You can dismiss it early as an action.
+
+When you create the cannon, you determine its appearance and whether it has legs. You also decide which type it is, choosing from the options on the Eldritch Cannons table. On each of your turns, you can take a bonus action to cause the cannon to activate if you are within 60 feet of it. As part of the same bonus action, you can direct the cannon to walk or climb up to 15 feet to an unoccupied space, provided it has legs.
+
+Flamethrower:
+The cannon exhales fire in an adjacent 15-foot cone that you designate. Each creature in that area must make a Dexterity saving throw against your spell save DC, taking 2d8 fire damage on a failed save or half as much damage on a successful one. The fire ignites any flammable objects in the area that aren&#39;t being worn or carried.
+
+Force Ballista:
+Make a ranged spell attack, originating from the cannon, at one creature or object within 120 feet of it. On a hit, the target takes 2d8 force damage, and if the target is a creature, it is pushed up to 5 feet away from the cannon.
+
+Protector:
+The cannon emits a burst of positive energy that grants itself and each creature of your choice within 10 feet of it a number of temporary hit points equal to 1d8 + your Intelligence modifier (minimum of +1).
+
+Source:	Eberron: Rising from the Last War p. 59,
+		Tasha&#39;s Cauldron of Everything p. 17</text><optional>1</optional></feat><feat><name>Artificer Specialist: Battle Smith</name><text>Armies require protection, and someone has to put things back together if defenses fail. A combination of protector and medic, a Battle Smith is an expert at defending others and repairing both material and personnel. To aid in their work, Battle Smiths are accompanied by a steel defender, a protective companion of their own creation. Many soldiers tell stories of nearly dying before being saved by a Battle Smith and a steel defender.
+
+In the world of Eberron, Battle Smiths played a key role in House Cannith&#39;s work on battle constructs and the original warforged, and after the Last War, these artificers led efforts to aid those who were injured in the war&#39;s horrific battles.
+
+Source:	Eberron: Rising from the Last War p. 61,
+		Tasha&#39;s Cauldron of Everything p. 18</text><optional>1</optional></feat><feat><name>Battle Smith: Tool Proficiency</name><text>When you adopt this specialization at 3rd level, you gain proficiency with smith&#39;s tools. If you already have this proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice.
+
+Source:	Eberron: Rising from the Last War p. 59,
+		Tasha&#39;s Cauldron of Everything p. 19</text><optional>1</optional></feat><feat><name>Battle Smith: Battle Smith Spells</name><text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Battle Smith Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.
+
+Battle Smith Spells:
+Artificer Level | Spell
+3rd | heroism, shield
+5th | branding smite, warding bond
+9th | aura of vitality, conjure barrage
+13th | aura of purity, fire shield
+17th | banishing smite, mass cure wounds
+
+Source:	Eberron: Rising from the Last War p. 59,
+		Tasha&#39;s Cauldron of Everything p. 19</text><optional>1</optional></feat><feat><name>Battle Smith: Battle Ready</name><text>When you reach 3rd level, your combat training and your experiments with magic have paid off in two ways:
+
+	• You gain proficiency with martial weapons.
+
+	• When you attack with a magic weapon, you can use your Intelligence modifier, instead of Strength or Dexterity modifier, for the attack and damage rolls.
+
+Source:	Eberron: Rising from the Last War p. 59,
+		Tasha&#39;s Cauldron of Everything p. 19</text><optional>1</optional></feat><feat><name>Battle Smith: Steel Defender</name><text>By 3rd level, your tinkering has borne you a companion, a steel defender. It&#39;s friendly to you and your companions, and it obeys your commands. See its game statistics in the Steel Defender stat block, which uses your proficiency bonus (PB) in several places. You determine the creature&#39;s appearance and whether it has two legs or four; your choice has no effect on its game statistics.
+
+In combat, the defender shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the defender can take any action of its choice, not just Dodge.
+
+If the mending spell is cast on it, it regains 2d6 hit points. If it has died within the last hour, you can use your smith&#39;s tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The defender returns to life after 1 minute with all its hit points restored.
+
+At the end of a long rest, you can create a new steel defender if you have smith&#39;s tools with you. If you already have a defender from this feature, the first one immediately perishes. The defender also perishes if you die.
+
+Source:	Eberron: Rising from the Last War p. 59,
+		Tasha&#39;s Cauldron of Everything p. 19</text><optional>1</optional></feat><feat><name>The Right Tool for the Job</name><text>At 3rd level, you&#39;ve learned how to produce exactly the tool you need: with thieves&#39; tools or artisan&#39;s tools in hand, you can magically create one set of artisan&#39;s tools in an unoccupied space within 5 feet of you. This creation requires 1 hour of uninterrupted work, which can coincide with a short or long rest. Though the product of magic, the tools are nonmagical, and they vanish when you use this feature again.
+
+Source:	Eberron: Rising from the Last War p. 57,
+		Tasha&#39;s Cauldron of Everything p. 13</text></feat><feat><name>Artificer Specialist: Effigist (HB)</name><text>Effigists use a combination of arcane and eldritch arts to manipulate the bodies of other creatures by way of dolls and figurines. Many effigists come from rural tribes, but the tradition is slowly gaining students in more populated areas.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 1 p. 5 (Homebrew)</text><optional>1</optional></feat><feat><name>Effigist (HB): Tool Proficiency</name><text>You gain proficiency with one of the following: mason&#39;s tools, potter&#39;s tools, or weaver&#39;s tools.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 1 p. 5 (Homebrew)</text><optional>1</optional></feat><feat><name>Effigist (HB): Effigist Spells</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Effigist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prep.
+
+Effigist Spells:
+Artificer Level | Spells
+3rd | hex, sleep
+5th | hold person, silence
+9th | bestow curse, slow
+13th | compulsion, dominate beast
+17th | dominate person, hold monster
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 1 p. 5 (Homebrew)</text><optional>1</optional></feat><feat><name>Effigist (HB): Effigy Connection</name><text>You learn how to create magical effigies. Using any set of artisan&#39;s tools of your choice, you can take an action to magically create a Tiny figurine in your hands. This figurine can be held in one hand, and you can use it as a spellcasting focus. When you create the effigy, you determine its appearance. It may be a jade figurine, a sackcloth doll, a clay mock-up, or even spoons in a pickle jar.
+
+Once you create a magical effigy, you can&#39;t do so again until you finish a long rest or until you expend a spell slot of 1st level or higher. You can only have one magical effigy at a time. If you create a new one, the original one loses its magic. The effigy also loses its magic after 1 hour, and you can dismiss its magic early as an action.
+
+When you create an effigy you designate a creature within 60 feet of you that you can see or hear for it to represent. This connection remains even if the creature moves out of range. As an action on each of your turns, you can designate for the effigy to represent a new qualifying creature. This connection ends when the effigy loses its magic.
+
+You can target the represented creature with spells that have a range of Touch, by casting such a spell on the effigy. The effigy counts as a creature that you can see for the purposes of what you can target with such a spell.
+
+As a bonus action on each of your turns, you can expose the effigy to a harmful effect within 5 feet of you to potentially damage the represented creature. The harmful effect must deal bludgeoning, piercing, slashing, acid, cold, fire, lightning, necrotic, radiant, or thunder damage. When you harm the effigy, the represented creature must succeed on a Wisdom saving throw or else take 2d8 of the corresponding damage type.
+
+If you use your action to cast a spell that deals a qualifying type of damage, you can choose for the effigy connection to deal that type of damage. For example, if you use your action to cast frostbite, you can choose for the effigy connection to deal cold damage, regardless of whether you exposed the effigy to the actual spell effects or not.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 1 p. 5 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Kobold Engineer (HB)</name><text>Kobold engineers aren&#39;t all kobolds, but many are. The practice was named after the most prominent practitioners, kobold inventors that specialize in devising madcap, improvised weapons and traps designed to distract enemies while their companions attack. These weapons often include odd chemicals and animals collected from nature or conjured from thin air.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Kobold Engineer (HB): Kobolt Engineer Spells</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Kobold Engineer spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.
+
+Kobolt Engineer Spells:
+Artificer Level | Spells
+3rd | find familiar, speak with animals
+5th | darkness, find traps
+9th | conjure animals, fireball
+13th | greater invisibility, polymorph
+17th | passwall, telekinesis
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Kobold Engineer (HB): Bonus Proficiency</name><text>You gain proficiency in Animal Handling.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Kobold Engineer (HB): Supply Bag</name><text>You have a magical bag that you can pull supplies for quickly improvised weapons and traps from. When you finish a long rest, you prepare a number of Improvised Attacks, described below, equal to half your level in this class (rounded up). You can choose which ones to prepare or roll 1d10 to determine randomly. You can use each prepared Improvised Attack three times, and you regain expended uses when you finish a long rest. You can also expend a spell slot of 1st level or higher to use an Improvised Attack that you have not prepared or that you have expended all uses for.
+
+Improvised Attacks and creatures made by them use your spell attack bonus and spell save DC for their attacks and saving throw effects. Creatures conjured by these attacks have a number of hit points equal to your Intelligence modifier + the creature&#39;s Constitution modifier + twice your level in this class. Such creatures use your spell save DC for their abilities that require saving throws.
+
+Unless otherwise noted, Improvised Attacks can target creatures, objects, structures, and spaces, and require a ranged spell attack roll.
+
+You can expend a spell slot of 1st level or higher to use an Improvised Attack of your choice.
+
+Improvised Attacks:
+
+Angry Cat:
+As a bonus action, you toss an angry cat at a target of your choice within 15 feet. The creature must succeed on a Dexterity saving throw, or else take 1d6 slashing damage and have an angry cat on it. A creature with an angry cat on it is distracted, and attack rolls against it are made with advantage. A creature with an angry cat on it repeats this saving throw at the start of each of its turns, taking 1d6 on a failed save, or ending the effect on a success. The cat then disappears.
+
+Basket of Centipedes:
+As a bonus action, you throw a wicker basket of centipedes onto a target within 20 feet. A swarm of insects (centipedes) emerges from the basket and rolls initiative, attacking any creatures that occupy its space. At the end of each of the swarm&#39;s turns, there&#39;s a 25% chance that the swarm and basket disappear.
+
+Bear Trap:
+As a bonus action, you throw a bear trap at a target within 20 feet. On a hit, the creature takes 1d6 piercing damage, and its speed is halved until it regains at least 1 hit point. If the attack is a critical hit and it reduces a creature to 0 hit points, the creature is decapitated.
+
+Green Slime:
+As a bonus action, you throw a pot of green slime at a target within 30 feet. On a hit, a target is covered in green slime and takes 1d6 acid damage, or 2d6 acid damage if it is a nonmagical object or struc ture made of wood or metal. A target covered in green slime takes this damage again at the start of each of its turns. Sunlight, any effect that cures disease, and any effect that deals cold, fire, or radiant damage destroys the green slime. A creature can also use its action to scrape green slime off of a target. The slime disappears after 1 minute.
+
+Otyugh Bile:
+As a bonus action, you throw a vial of acid at a target of your choice within 30 feet. On a hit, the target takes 3d6 acid damage.
+
+Sack of Frogs:
+As a bonus action, you throw a burlap sack of frogs at a target within 20 feet. A swarm of frogs (see chapter 3) emerges from the sack and rolls initiative, attacking any creatures that occupy its space. At the end of each of the swarm&#39;s turns, there&#39;s a 25% chance that the swarm disappears.
+
+Scorpion on a Stick:
+As a bonus action, you pull a 10-foot-long pole out of your supply bag and make a melee spell attack with it at a creature within 10 feet of you. On a hit, the creature takes 1d6 poison damage and is poisoned for 1 minute. The creature can make a Constitution saving throw at the end of each of its turns, ending the effect on a success.
+
+Skunk:
+As a bonus action, you pull a friendly skunk out of your bag and toss it into an unoccupied space within 15 feet. It rolls initiative. It is friendly to all crea tures, has a speed of 15 feet, has no meaningful attacks, and always walks towards the nearest creature. At the end of each of its turns, there is a 50% chance it sprays a random adjacent creature. A sprayed creature makes a Constitution saving throw at the start of each of its turns. On a failed save, the creature spends its action on that turn retching and reeling. On a success, the effect ends. After 1 minute, the effect ends. Once the skunk has sprayed its musk, it disappears.
+
+Smoke Bomb:
+As a bonus action, you throw a small packet of questionable contents at a space within 30 feet of you. Thick black smoke quietly erupts from that space, filling a 15-foot cube centered on that spot. The area of the smoke is heavily obscured. The smoke disappears after 1 minute or until a strong wind disperses it.
+
+Wasp Nest:
+As a bonus action, you throw a nest of angry wasps at a target within 20 feet. A swarm of insects (wasps) emerges from the nest and rolls initia tive. It always moves towards and attacks the nearest creature with more than 0 hit points remaining. At the end of each of the swarm&#39;s turns, there&#39;s a 50% chance that the swarm and nest disappear.
+
+Oops:
+Consider asking your Dungeon Master if your supply bag can function as a bag of holding as well. If so, any time you attempt to pull an item out of the bag, there is a 10% chance you accidentally pull a random Improvised Attack out instead, targeting yourself. This does not count as one of your uses for each prepared Improvised Attack.
+
+d10 | Random Improvised Attack
+1 | Angry cat
+2 | Basket of centipedes
+3 | Bear trap
+4 | Green slime
+5 | Otyugh bile
+6 | Sack of frogs
+7 | Scorpion on a stick
+8 | Skunk
+9 | Smoke bomb
+10 | Wasp nest
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Kobold Engineer (HB)</name><text>Kobold engineers aren&#39;t all kobolds, but many are. The practice was named after the most prominent practitioners, kobold inventors that specialize in devising madcap, improvised weapons and traps designed to distract enemies while their companions attack. These weapons often include odd chemicals and animals collected from nature or conjured from thin air.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Kobold Engineer (HB): Kobolt Engineer Spells</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Kobold Engineer spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.
+
+Kobolt Engineer Spells:
+Artificer Level | Spells
+3rd | find familiar, speak with animals
+5th | darkness, find traps
+9th | conjure animals, fireball
+13th | greater invisibility, polymorph
+17th | passwall, telekinesis
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Kobold Engineer (HB): Bonus Proficiency</name><text>You gain proficiency in Animal Handling.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Kobold Engineer (HB): Supply Bag</name><text>You have a magical bag that you can pull supplies for quickly improvised weapons and traps from. When you finish a long rest, you prepare a number of Improvised Attacks, described below, equal to half your level in this class (rounded up). You can choose which ones to prepare or roll 1d10 to determine randomly. You can use each prepared Improvised Attack three times, and you regain expended uses when you finish a long rest. You can also expend a spell slot of 1st level or higher to use an Improvised Attack that you have not prepared or that you have expended all uses for.
+
+Improvised Attacks and creatures made by them use your spell attack bonus and spell save DC for their attacks and saving throw effects. Creatures conjured by these attacks have a number of hit points equal to your Intelligence modifier + the creature&#39;s Constitution modifier + twice your level in this class. Such creatures use your spell save DC for their abilities that require saving throws.
+
+Unless otherwise noted, Improvised Attacks can target creatures, objects, structures, and spaces, and require a ranged spell attack roll.
+
+You can expend a spell slot of 1st level or higher to use an Improvised Attack of your choice.
+
+Improvised Attacks:
+
+Angry Cat:
+As a bonus action, you toss an angry cat at a target of your choice within 15 feet. The creature must succeed on a Dexterity saving throw, or else take 1d6 slashing damage and have an angry cat on it. A creature with an angry cat on it is distracted, and attack rolls against it are made with advantage. A creature with an angry cat on it repeats this saving throw at the start of each of its turns, taking 1d6 on a failed save, or ending the effect on a success. The cat then disappears.
+
+Basket of Centipedes:
+As a bonus action, you throw a wicker basket of centipedes onto a target within 20 feet. A swarm of insects (centipedes) emerges from the basket and rolls initiative, attacking any creatures that occupy its space. At the end of each of the swarm&#39;s turns, there&#39;s a 25% chance that the swarm and basket disappear.
+
+Bear Trap:
+As a bonus action, you throw a bear trap at a target within 20 feet. On a hit, the creature takes 1d6 piercing damage, and its speed is halved until it regains at least 1 hit point. If the attack is a critical hit and it reduces a creature to 0 hit points, the creature is decapitated.
+
+Green Slime:
+As a bonus action, you throw a pot of green slime at a target within 30 feet. On a hit, a target is covered in green slime and takes 1d6 acid damage, or 2d6 acid damage if it is a nonmagical object or struc ture made of wood or metal. A target covered in green slime takes this damage again at the start of each of its turns. Sunlight, any effect that cures disease, and any effect that deals cold, fire, or radiant damage destroys the green slime. A creature can also use its action to scrape green slime off of a target. The slime disappears after 1 minute.
+
+Otyugh Bile:
+As a bonus action, you throw a vial of acid at a target of your choice within 30 feet. On a hit, the target takes 3d6 acid damage.
+
+Sack of Frogs:
+As a bonus action, you throw a burlap sack of frogs at a target within 20 feet. A swarm of frogs (see chapter 3) emerges from the sack and rolls initiative, attacking any creatures that occupy its space. At the end of each of the swarm&#39;s turns, there&#39;s a 25% chance that the swarm disappears.
+
+Scorpion on a Stick:
+As a bonus action, you pull a 10-foot-long pole out of your supply bag and make a melee spell attack with it at a creature within 10 feet of you. On a hit, the creature takes 1d6 poison damage and is poisoned for 1 minute. The creature can make a Constitution saving throw at the end of each of its turns, ending the effect on a success.
+
+Skunk:
+As a bonus action, you pull a friendly skunk out of your bag and toss it into an unoccupied space within 15 feet. It rolls initiative. It is friendly to all crea tures, has a speed of 15 feet, has no meaningful attacks, and always walks towards the nearest creature. At the end of each of its turns, there is a 50% chance it sprays a random adjacent creature. A sprayed creature makes a Constitution saving throw at the start of each of its turns. On a failed save, the creature spends its action on that turn retching and reeling. On a success, the effect ends. After 1 minute, the effect ends. Once the skunk has sprayed its musk, it disappears.
+
+Smoke Bomb:
+As a bonus action, you throw a small packet of questionable contents at a space within 30 feet of you. Thick black smoke quietly erupts from that space, filling a 15-foot cube centered on that spot. The area of the smoke is heavily obscured. The smoke disappears after 1 minute or until a strong wind disperses it.
+
+Wasp Nest:
+As a bonus action, you throw a nest of angry wasps at a target within 20 feet. A swarm of insects (wasps) emerges from the nest and rolls initia tive. It always moves towards and attacks the nearest creature with more than 0 hit points remaining. At the end of each of the swarm&#39;s turns, there&#39;s a 50% chance that the swarm and nest disappear.
+
+Oops:
+Consider asking your Dungeon Master if your supply bag can function as a bag of holding as well. If so, any time you attempt to pull an item out of the bag, there is a 10% chance you accidentally pull a random Improvised Attack out instead, targeting yourself. This does not count as one of your uses for each prepared Improvised Attack.
+
+d10 | Random Improvised Attack
+1 | Angry cat
+2 | Basket of centipedes
+3 | Bear trap
+4 | Green slime
+5 | Otyugh bile
+6 | Sack of frogs
+7 | Scorpion on a stick
+8 | Skunk
+9 | Smoke bomb
+10 | Wasp nest
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Baker (HB)</name><text>The Artificer Baker is a master of culinary magic, blending the art of baking with arcane innovation to create delectable treats infused with spellbound effects. At the heart of their craft lies the Magical Cookbook, a spellcasting focus that allows the baker to prepare spells as easily as pastries, storing them for just the right moment.
+
+Source:	Subclasses That Shouldn&#39;t Exist v1 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Baker (HB): Baker Spells</name><text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.
+
+Baker Spells:
+Spell Level | Spells
+3rd | unseen servant, detect poison and disease
+5th | wristpocket, locate animals or plants
+9th | Leomund&#39;s tiny hut, feign death
+13th | divination, polymorph
+17th | mass cure wounds, contagion
+
+Source:	Subclasses That Shouldn&#39;t Exist v1 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Baker (HB): Culinary School</name><text>When you adopt this specialization at 3rd level, you gain proficiency with cook&#39;s utensils. If you already have this proficiency, you gain proficiency with one other type of artisan&#39;s tools of your choice.
+
+Source:	Subclasses That Shouldn&#39;t Exist v1 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Baker (HB): Magical Cookbook</name><text>At 3rd level, you create a Magical Cookbook that acts as your spellcasting focus. It can transform into a cooking vessel to prepare meals and spells. You can cast ritual spells without preparing them.
+
+Mise en Place:
+You start with a number of Mise en Place equal to your proficiency bonus. This number doubles at 9th level and triples at 15th level.
+
+Baking Spells:
+You can cast a spell as a 10-minute ritual using Mise en Place per spell level. After baking, the spell can be released within the next 24 hours as a bonus action. After casting, the spell creates a treat that can be eaten as a bonus action, granting temporary hit points equal to your Intelligence modifier. Your cookbook can only bake one spell at a time.
+
+Source:	Subclasses That Shouldn&#39;t Exist v1 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Aeronaut (HB)</name><text>One of the most dangerous obsessions an artificer can pursue has always been mechanical flight. Many strive for this lofty goal, and all but the most dedicated, and often the most foolhardy, artificers fail in their pursuits. Experiments that end in disastrous explosions, catastrophic falls from the sky, and deadly malfunctions are not out of the norm for an Aeronaut perfecting their mechanical flying machine.
+
+You constantly strive to achieve the lofty goal of every Aeronaut, the creation of an arcane flying machine.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 2 (Homebrew)</text><optional>1</optional></feat><feat><name>Aeronaut (HB): Tools of the Trade</name><text>At 3rd level, you gain proficiency with woodcarver&#39;s tools. If you are already proficient in woodcarver&#39;s tools you gain proficiency with another type of artisan&#39;s tools of your choice.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 2 (Homebrew)</text><optional>1</optional></feat><feat><name>Aeronaut (HB): Aeronaut Spells</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Aeronaut Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prep.
+
+Aeronaut Spells:
+Artificer Level | Spell
+3rd | feather fall, zephyr strike
+5th | dust devil, warding wind
+9th | fly, wind wall
+13th | death ward, summon elemental (air)
+17th | control winds, steel wind strike
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 2 (Homebrew)</text><optional>1</optional></feat><feat><name>Aeronaut (HB): Flying Machine</name><text>Starting at 3rd level, at the end of a long rest, you can use your woodcarver&#39;s tools to construct a Flying Machine.
+
+You choose the Machine&#39;s appearance, but it has no effect on its abilities. Your Flying Machine has the following features:
+
+	• It can be used as a spellcasting focus by you.
+
+	• It is built to fit you, and can be worn over light armor.
+
+	• When you fall, and aren&#39;t incapacitated, you subtract up to 100 feet from your fall when calculating falling damage, and can move 2 feet horizontally every 1 foot you fall.
+
+	• You gain a flying speed of 15 feet, which increases as you gain levels in this class; at 5th level (20 feet), 9th level (30 feet), and in finally at 15th level (60 feet).
+
+	• When you make a weapon attack while at least 5 feet off the ground, you can use your Intelligence, in place of Strength or Dexterity, for the attack and damage rolls.
+
+You can only have one Flying Machine at a time, and creating another causes the other to fall into disrepair.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 2 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Archivist (HB)</name><text>For centuries chroniclers have sought the best way to store vast amounts of information. Where most are satisfied with scrolls, Archivists strove for something greater. They have learned to store libraries worth of information in a single object, awakening the first Artificial Minds. Working in tandem with these wondrous Minds, Archivists wield the potentially limitless power of these arcane intelligences. How will you use your ability to create artificial intelligence?
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Archivist (HB): Tools of the Trade</name><text>When you become an Archivist Specialist at 3rd level, you gain proficiency with calligrapher&#39;s supplies. If you are already proficient in calligrapher&#39;s supplies you instead gain proficiency with another type of artisan&#39;s tools of your choice.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Archivist (HB): Archivist Spells</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Archivist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prep.
+
+Archivist Spells:
+Artificer Level | Spell
+3rd | comprehend languages, dissonant whispers
+5th | detect thoughts, mind spike
+9th | hypnotic pattern, tongues
+13th | locate creature, phantasmal killer
+17th | modify memory, synaptic static
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Archivist (HB): Artificial Mind</name><text>Beginning at 3rd level, you learn to awaken Artificial Minds within objects. At the end of a long rest, you can touch a Tiny, non-magical object, and use your calligrapher&#39;s supplies to awaken an Artificial Mind within it. While the Artificial Mind is awakened within an object, it is considered a magic item that requires attunement, and it can be used as a spellcasting focus for your artificer spells. If you attempt to rouse a second Artificial Mind while you already have one from this feature, the first Artificial Mind ceases to exist. While attuned to your Artificial Mind, you gain the following abilities:
+
+Information Overload:
+You can cause your Artificial Mind to overload the mind&#39;s of your foes by channelling information at them. As an action, you can force a creature that you can see within 30 feet to make an Intelligence saving throw. On a failed save, it takes 1d8 psychic damage and disadvantage on the next attack roll it makes before the start of your next turn.
+
+The damage of Information Overload increases when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+Magical Telephony:
+You can communicate telepathically with any creature carrying one of your infused items within a 1-mile radius. The creature can respond telepathically.
+
+Skill Proficiencies:
+You gain proficiency in two skills of your choice from the column on the Artificial Mind table. The material of the object determines the skills you choose from, as the object&#39;s nature affects the mind&#39;s knowledge.
+
+Material | Examples | Skill Proficiencies
+Animal | parchment, leather, bone | Animal Handling, Insight, Perception, Survival
+Mineral | gems, glass, metal, stone | Deception, Intimidation, Performance, Persuasion
+Plant | paper, wood, vegetable | Arcana, History, Nature, Religion
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Biomancer (HB)</name><text>While most artificers are content with mechanical innovation, some see biology, the science of living things, as an area rife with potential. Biomancers are those who use their talents to supplement their own anatomy and create life. Combining necromancy and transmutation magic, Biomancers see all living things as prototypes that can be magically evolved.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 4 (Homebrew)</text><optional>1</optional></feat><feat><name>Biomancer (HB): Tools of the Trade</name><text>At 3rd level, you gain proficiency with leatherworker&#39;s tools. If you are already proficient with leatherworker&#39;s tools, you gain proficiency with another set of artisan&#39;s tools of your choice.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 4 (Homebrew)</text><optional>1</optional></feat><feat><name>Biomancer (HB): Biomancer Spells</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Biomancer Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prep.
+
+Biomancer Spells:
+Artificer Level | Spell
+3rd | false life, find familiar
+5th | alter self, dragon&#39;s breath
+9th | haste, life transference
+13th | giant insect, polymorph
+17th | insect plague, reincarnate
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 4 (Homebrew)</text><optional>1</optional></feat><feat><name>Biomancer (HB): Aberrant Chimera</name><text>You can use your understanding of Biomancy magic to create an aberrant life form. Starting at 3rd level, whenever you cast find familiar, you instead create a Chimera, which functions as a normal familiar, but has the following changes:
+
+	• The material component is 1 pound of organic matter.
+	• It is a monstrosity (instead of a celestial, fey, or fiend).
+	• It has additional hit points equal to your artificer level.
+	• As an action, the Chimera can touch a creature and sacrifice any amount of its hit points, healing the target for the same amount by grafting its flesh to theirs.
+
+As an action, the Chimera can merge with a creature it can touch, granting it temporary hit points equal to the Chimera&#39;s remaining hit points. While merged, the target gains one of the Chimeric Traits below. The creatures remain merged until you create another Chimera, or the temporary hit points are depleted, at which point the Chimera is destroyed.
+
+Amphibious Physiology:
+While merged, the creature can breathe both air and water, and gains a 30 foot swim speed.
+
+Resilient Hide:
+While merged and not wearing any armor or using a shield, the creature&#39;s Armor Class is equal to 10 + your Intelligence modifier + their Constitution modifier.
+
+Vestigial Limb:
+While merged, the creature grows an additional limb which resembles their own limbs. It has a reach of 5 feet, and can lift a number of pounds equal to your Intelligence score. The limb can&#39;t use weapons or shields nor can it do anything that requires manual precision.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 4 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Chronothief (HB)</name><text>For those that pursue the magic of artifice, no area of study is too dangerous. Perhaps against their better judgment, some artificers choose to experiment with Chronomancy, the magic of time. Known as Chronothieves, these bold artificers are marked by their signature Chronometers, a wondrous object which they use to steal moments and adjust the flow of time.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 5 (Homebrew)</text><optional>1</optional></feat><feat><name>Chronothief (HB): Tools of the Trade</name><text>At 3rd level, you gain proficiency with jeweler&#39;s tools. If you are already proficient with jeweler&#39;s tools, you instead gain proficiency with another set of artisan&#39;s tools of your choice.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 5 (Homebrew)</text><optional>1</optional></feat><feat><name>Chronothief (HB): Chronothief Spells</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Chronothief Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prep.
+
+Chronothief Spells:
+Artificer Level | Spell
+3rd | expeditious retreat, featherfall
+5th | hold person, misty step
+9th | haste, slow
+13th | banishment, dimension door
+17th | hold monster, modify memory
+
+Chronothieves &#38; Dunamancy Magic:
+If your table uses the Dunamancy magic found in Explorer&#39;s Guide to Wildemount, a Chronothief can choose to use time related Dunamancy spells, in place of the list of Chronothief Spells above.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 5 (Homebrew)</text><optional>1</optional></feat><feat><name>Chronothief (HB): Chronometer</name><text>At 3rd level, you can create a Chronometer, marking you as a true Chronothief. At the end of a long rest, you can use your jeweler&#39;s tools to construct a Tiny timekeeping device, like a watch, hourglass, or small sun dial, which can be used as a spellcasting focus by you for your artificer spells.
+
+You can only have one Chronometer at a time, and creating another causes the magic within the first to dissipate.
+
+Your Chronometer has a number of charges equal to twice your Intelligence modifier. It regains all expended charges when you finish a long rest. While your Chronometer is in hand, you can expend a charge to use the following abilities:
+
+Accelerate:
+As an action, you increase the speed of a creature within 60 feet by a number feet equal to 5 times your Intelligence modifier until the end of their next turn.
+
+Decelerate:
+As an action, you force a creature that within 60 feet to make a Charisma saving throw. On a failed save, its movement speed is reduced by a number feet equal to 5 times your Intelligence modifier until the end of its next turn.
+
+Slip:
+As a reaction when a creature within 60 feet makes an attack roll, ability check, or saving throw, you can force them to re-roll. You must use this reaction before you know
+if the triggering attack, check, or saving throw succeed.
+
+Warp:
+As an action, you can switch places with a creature within 60 feet, each instantly teleporting to the other&#39;s space. An unwilling creature must succeed on a Charisma saving throw or be forced to switch places with you.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 5 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Composer (HB)</name><text>Behind every great musician, every standing ovation, every sold out concert, there is most often Composer who put quill to parchment and penned the notes. These great minds are unlike other bards and entertainers, Composers take a more cerebral approach to music. They are masters of patterns and repetition, and when they apply their analytical minds to a problem it is only a matter of time before they find a solution.
+
+The signature invention of every Composer is their Musical Apparatus, a totally unique invention of their own design that allows them to produce wondrous musical effects.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Composer (HB): Tools of the Trade</name><text>When you become a Composer Specialist at 3rd level, you gain proficiency with smith&#39;s tools and one instrument of your choice. If you already proficient with smith&#39;s tools, you gain proficiency with another set of artisan&#39;s tools of your choice.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Composer (HB): Composer Spells</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Composer Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prep.
+
+Composer Spells:
+Artificer Level | Spell
+3rd | sleep, thunderwave
+5th | shatter, silence
+9th | beacon of hope, fear
+13th | charm monster, dominate beast
+17th | destructive wave, dominate person
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Composer (HB): Musical Apparatus</name><text>At 3rd level, you create a signature musical instrument. At the end of a long rest, you can use your smith&#39;s tools to create a Musical Apparatus. You are proficient with this Apparatus and it can be used as a spellcasting focus by you. When you make an ability check with your Musical Apparatus, you can add double your proficiency bonus to the result of your roll.
+
+You can only maintain one Apparatus at a time. If you create a second, the previous Apparatus becomes unusable.
+
+Upon creating your Musical Apparatus, you can weaponize it, choosing one of the following options below:
+
+Raucous Blast:
+Your Apparatus can assault creatures with a blast of sound. As an action, make a spell attack against a creature within 60 feet that can hear you. On hit, the creature takes 1d8 thunder damage and is deafened until the start of your next turn. The damage increases by 1d8 at 5th level (2d8), and again at 11th level (3d8), and 17th level (4d8).
+
+Ringing Strike:
+Your Apparatus is a simple weapon with the versatile property, and it deals 1d8 (1d10) bludgeoning damage on hit. You are considered proficient with it, and you can use your Intelligence, in place of Strength, for attack and damage rolls. In addition, you can cast the booming blade* cantrip as long as your Apparatus is the material component.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Dungeoneer (HB)</name><text>While most artificers iterate on one invention, Dungeoneers use their know-how to weaponize mundane objects. Trusted to safeguard untold riches and powerful artifacts, these slick inventors use basic adventuring gear to construct defensive traps, puzzles, and structures that can repel all but the most hardy and determined adventurers and marauders.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 7 (Homebrew)</text><optional>1</optional></feat><feat><name>Dungeoneer (HB): Tools of the Trade</name><text>When you become a Dungeoneer Specialist at 3rd level, you gain proficiency with carpenters and smith&#39;s tools. If you already proficient in carpenter&#39;s or smith&#39;s tools, you gain proficiency with another set of artisan&#39;s tools of your choice.
+
+You also gain proficiency with improvised weapons. When you make an improvised weapon attack, you can use your Intelligence, in place of Strength or Dexterity, for the attack and damage rolls, and the damage die for any improvised weapon attacks you make becomes a d8 if it would be lower.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 7 (Homebrew)</text><optional>1</optional></feat><feat><name>Dungeoneer (HB): Dungeoneer Spells</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Dungeoneer Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prep.
+
+Dungeoneer Spells:
+Artificer Level | Spell
+2nd | alarm, unseen servant
+5th | arcane lock, spike growth
+9th | glyph of warding, tiny hut
+13th | guardian of faith, resilient sphere
+17th | passwall, wall of stone
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 7 (Homebrew)</text><optional>1</optional></feat><feat><name>Dungeoneer (HB): Dungeoncraft</name><text>Beginning at 3rd level, whenever you finish a long rest, you craft a number of objects of your choice from the table below equal to your Intelligence modifier (minimum of 1 object). They appear as mundane versions of those objects, but turn to ash the following dawn after they are created. You can craft normal versions of these objects in one quarter of the time.
+
+If an object you craft with this feature forces a creature to make a saving throw, they use your artificer Spell Save DC.
+
+Dungeoncraft Objects:
+	• acid (1 vial)
+	• alchemist&#39;s fire (1 vial)
+	• ball bearings (1,000)
+	• caltrops (200)
+	• chain (25 feet)
+	• crowbar
+	• grappling hook
+	• hunting trap
+	• lock/manacles and key
+	• oil (1 vial)
+	• portable ram
+	• rope (50 feet)
+	• sledge hammer
+	• torches (5)
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 7 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Forgewright (HB)</name><text>While most artificers are primarily inventors that take up a life of adventure to test experiments in the field, those known as Forgewrights seek out battle for its own sake. Reveling in the thrill of combat, they combine their innovation with their skill as warriors to forge their signature Arcane Armament.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 8 (Homebrew)</text><optional>1</optional></feat><feat><name>Forgewright (HB): Tools of the Trade</name><text>When you become a Forgewright Specialist at 3rd level, you gain proficiency with smith&#39;s tools and all martial weapons. If you already proficient in smith&#39;s tools, you gain proficiency with another set of artisan&#39;s tools of your choice.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 8 (Homebrew)</text><optional>1</optional></feat><feat><name>Forgewright (HB): Forgewright Spells</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Dungeoneer Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prep.
+
+Forgewright Spells:
+Artificer Level | Spell
+3rd | compelled duel, zephyr strike
+5th | cloud of daggers, misty step
+9th | blinding smite, conjure barrage
+13th | fire shield, staggering smite
+17th | conjure volley, steel wind strike
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 8 (Homebrew)</text><optional>1</optional></feat><feat><name>Forgewright (HB): Arcane Armament</name><text>Your intimate knowledge of warfare and arcane magic allows you to combine both with ease. Starting at 3rd level, you learn to forge an arcane armament. At the end of each long rest, you touch one melee weapon and turn it into your arcane armament, granting it the following properties:
+
+	• The weapon you is considered magic if it was not already.
+
+	• You can use your Intelligence modifier, in place of Strength or Dexterity, for the attack and damage rolls.
+
+	• You gain a +1 bonus to your attack and damage rolls with it, unless the base weapon granted a higher bonus. This bonus increases at 9th level (+2) and at 15th level (+3).
+
+	• It can bear one of your Infusions, even if it was already a magic item before becoming your Arcane Armament.
+
+	• It gains the thrown property (range 20/60) and the returning property, and the weapon returns to your hand immediately after every ranged attack you make.
+
+Your Arcane Armament is usable only by you. Enchanting a second weapon causes the magic imbued the first to dispel.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 8 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Machinist (HB)</name><text>While some artificers spend their lives perfection one solitary creation, Machinist artificer value quantity over quality. They are known for creating their signature Automatons, small clockwork men that are created for a single, but temporary purpose. Armed with their tools, and an army of strange and wondrous servants, Machinists are ready for any challenge.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 9 (Homebrew)</text><optional>1</optional></feat><feat><name>Machinist (HB): Tools of the Trade</name><text>At 3rd level, you gain proficiency with smith&#39;s tools. If you already proficient in smith&#39;s tools, you gain proficiency with another set of artisan&#39;s tools of your choice.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 9 (Homebrew)</text><optional>1</optional></feat><feat><name>Machinist (HB): Machinist Spells</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Machinist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prep.
+
+Machinist Spells:
+Artificer Level | Spell
+3rd | color spray, unseen servant
+5th | cloud of daggers, cordon of arrows
+9th | spirit guardians, tiny servant
+13th | Mordenkainen&#39;s faithful hound, summon construct
+17th | animate objects, awaken
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 9 (Homebrew)</text><optional>1</optional></feat><feat><name>Machinist (HB): Automatons</name><text>At 3rd level, you learn to craft Automatons. At the end of each long rest, you use your smith&#39;s tools to magically create a Small Automaton in an unoccupied space within 5 feet. Once you create an Automaton, you can&#39;t do so again until you finish a long rest or until you expend a spell slot of 1st-level or higher to create another one. You can have one Automaton at a time, creating a second causes the first to fall apart.
+
+Automatons are magical constructs with an Armor Class equal to 12 + your Intelligence modifier, and hit points equal to your artificer level + your Intelligence modifier. When they make an ability check or a saving throw, its ability scores are 10 (+0). If mending is cast on it, it regains 2d6 hit points. It disappears if it is reduced to 0 hit points or after 1 hour.
+
+When you create you Automaton, you decide which type it is, choosing from the options on the table below. As a bonus action on your turn, you can activate the Automaton if you are within 60 feet. As part that bonus action, you can direct the Automaton to walk up to 25 feet to an unoccupied space.
+
+Automaton Model:
+Model | Activation
+Agent | You can see and hear through the senses of your Automaton, so long as you are within 100 feet. You are deaf and blind to your senses until you end this link as a bonus action.
+Anchor | The Automaton latches onto a creature within 5 feet, reducing the target&#39;s movement speed by a number of feet equal to 5 times your Intelligence modifier (minimum of 5 feet).
+Armor | The Automaton attaches itself to a willing creature within 5 feet. While attached, the creature&#39;s Armor Class cannot be less than 13 + your Intelligence modifier.
+Artisan | The Automaton gains proficiency in one set of tools, and adds your Intelligence modifier to any check it makes using that set of tools.
+Assault | The Automaton makes a melee spell attack against a creature within 5 feet. On hit, it deals bludgeoning damage equal to 1d6 + your Intelligence modifier.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 9 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Puppeteer (HB)</name><text>Though all artificers have their quirks, Puppeteers tend to be the strangest subset of arcane inventors. They dedicate their research and intellect towards mastery of manipulation and control of other creatures through the use of their Marionette Strings. Often found literally pulling the strings from behind the scenes, these strange artificers prefer to empower their allies rather than risk their own lives on the front lines.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 10 (Homebrew)</text><optional>1</optional></feat><feat><name>Puppeteer (HB): Tools of the Trade</name><text>At 3rd level, you gain proficiency with weaver&#39;s tools. If you are already proficient with weaver&#39;s tools, you instead gain proficiency with another set of artisan&#39;s tools of your choice.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 10 (Homebrew)</text><optional>1</optional></feat><feat><name>Puppeteer (HB): Puppeteer Spells</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Puppeteer Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prep.
+
+Puppeteer Spells:
+Artificer Level | Spell
+3rd | ensnaring strike, entangle
+5th | crown of madness, hold person
+9th | hypnotic pattern, slow
+13th | dominate beast, grasping vine
+17th | dominate person, hold monster
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 10 (Homebrew)</text><optional>1</optional></feat><feat><name>Puppeteer (HB): Marionette Strings</name><text>At 3rd level, you learn to fashion the strange Strings that mark you as a Puppeteer. When you finish a long rest, you can use your weaver&#39;s tools to construct a set of Marionette Strings, usable only by you. As an action, you can cause your Strings to fly out and magically attach to a willing creature within 30 feet. You must have a free hand to use your Strings.
+
+While a creature is attached to your Strings, you gain the features listed below. Your Marionette Strings detach after 1 minute, if you use a bonus action to detach them, or if you and the creature are ever more than 30 feet apart.
+
+You can attach your Marionette Strings a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+
+Corrected Strike:
+When the attached creature makes a melee attack, you can use your reaction to have them re-roll their attack roll, and they must use the new roll. You must use this reaction before you know if the attack hits or misses.
+
+Channel Spell:
+As an action on your turn, you can cast an artificer spell as if it originated from the attached creature. If the spell requires concentration, you concentrate on it.
+
+Puppeteer&#39;s Guidance:
+When the attached creature makes an ability check that uses a skill with which you are proficient , you can grant them a bonus to their roll equal to your Intelligence modifier (minimum of +1).
+
+Strange Movement:
+As a bonus action on your turn, you can move the attached creature a number of feet equal to 5 times your Intelligence modifier (minimum of 5 feet). This movement does not provoke opportunity attacks.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 10 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Alternate Alchemist (HB)</name><text>Alchemy is a delicate art, tip the ratio of ingredients too far out of line and the effects could be disastrous. Those that study the magic of arcane potions and brews are known as Alchemists. They are experts at combining exotic reagents to produce a variety of materials and effects. From healing droughts that can mend a wound in moments, to sticky goo that explodes when it comes in contact with open flame. With careful preparation, and a bit of luck, Alchemists are masters of both giving life and leeching it away.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 11 (Homebrew)</text><optional>1</optional></feat><feat><name>Alternate Alchemist (HB): Tools of the Trade</name><text>At 3rd level, you gain proficiency with alchemist&#39;s supplies. If you are already proficient with alchemist&#39;s supplies, you gain proficiency with another set of artisan&#39;s tools of your choice.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 11 (Homebrew)</text><optional>1</optional></feat><feat><name>Alternate Alchemist (HB): Alternate Alchemist Spells</name><text>You always have certain spells prepared after you reach particular levels in this class, as shown in the Alternate Alchemist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prep.
+
+Alternate Alchemist Spells:
+Artificer Level | Spell
+3rd | healing word, inflict wounds
+5th | acid arrow, flaming sphere
+9th | gaseous form, mass healing word
+13th | blight, death ward
+17th | cloudkill, reincarnate
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 11 (Homebrew)</text><optional>1</optional></feat><feat><name>Alternate Alchemist (HB): Alchemical Elixers</name><text>Beginning at 3rd level, at the end of each long rest, you can use your alchemist&#39;s supplies produce an Elixir in an empty flask you touch. At creation, you choose the Elixir&#39;s effect from the table below, some of which include your proficiency bonus (PB). The effect of an Elixir is triggered when someone drinks the Elixir. As a bonus action, a creature can drink the Elixir or administer it to a creature within 5 feet. A creature can only be under the effects of one Elixir at a time, and drinking another immediately ends any other Elixir effects.
+
+Any Elixir you create through this feature lasts until it is consumed, or until the end of your next long rest.
+
+As an action on your turn, you can expend a spell slot of 1st-level or higher to create an Elixir in an empty flask you touch. You can use the Elixir as part of the same action.
+
+At certain levels in this class, you can make more Elixirs at the end of a long rest:
+at 6th level (two), and 15th level (three).
+
+Alchemical Elixirs:
+Elixir | Effect
+Alteration | The drinker is transformed as if by the alter self spell. They determine the effect of the spell, which lasts for 10 minutes.
+Boldness | The drinker can add 1d4 to any attack rolls and saving throws they make for 1 minute.
+Flight | The drinker gains a flying speed equal to 5 times your PB in feet for 10 minutes.
+Healing | The drinker regains a number of hit points equal to PB(d4) + your Intelligence Modifier.
+Resilience | The drinker gains a bonus to their Armor Class equal to half your PB for 10 minutes.
+Swiftness | The drinker&#39;s speed increases by a number of feet equal to 5 times your PB for 1 hour.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 11 (Homebrew)</text><optional>1</optional></feat><feat><name>Artificer Specialist: Archivist (UA)</name><text>What are the best ways to store vast amounts of information? That question has occupied chroniclers and librarians for centuries. Scrolls and books were the finest information-storing methods for a long time, but the first Archivists imagined something greater: storing information in a real or an artificial mind. What library could match a mental archive capable of accessing information in seconds? As they work towards this goal, Archivists have become masters of storing knowledge and creating artificial intelligences fueled by magic. These techniques have yet to be perfected and institutionalized, and of all artificers, archivists are on the cutting edge of arcane science.
+
+Source:	Unearthed Arcana: Artificer Revisited p. 7</text><optional>1</optional></feat><feat><name>Archivist (UA): Archivist Spells</name><text>Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Archivist Spells table. These spells count as artificer spells for you, but they don&#39;t count against the number of artificer spells you prepare.
+
+Archivist Spells:
+Artificer Level | Spell
+3rd | comprehend languages, dissonant whispers
+5th | detect thoughts, locate object
+9th | hypnotic pattern, tongues
+13th | locate creature, phantasmal killer
+17th | legend lore, modify memory
+
+Source:	Unearthed Arcana: Artificer Revisited p. 7</text><optional>1</optional></feat><feat><name>Archivist (UA): Artificial Mind</name><text>At 3rd level, you discover how to awaken a mind inside an object. Whenever you finish a long rest and your calligrapher&#39;s supplies are with you, you can magically rouse a keen mind within a Tiny, nonmagical object on which you write mystical symbols. The object is a magic item while the mind is inside it, and you can use it as a spellcasting focus. If you already have an artificial mind from this feature, the first one immediately dissipates.
+
+The magic item has the following properties.
+
+Archivist: Telepathic Advisor
+The artificial mind telepathically supplies you with advice and information about certain topics: while the item is on your person, you have proficiency in two skills of your choice; the item&#39;s main material determines which skills you can choose from, as shown on the Artificial Mind table in the Skill Proficiencies column, for the nature of the object affects the mind&#39;s knowledge.
+
+Archivist: Manifest Mind
+As a bonus action while the item is on your person, you can cause the mind to manifest as a Tiny spectral presence, hovering in an unoccupied space of your choice within 60 feet of you. This presence is intangible and invulnerable, and it sheds dim light in a 10-foot radius. You determine its appearance; the Artificial Mind table offers suggested appearances based on the object&#39;s main material.
+
+While manifested, the spectral mind can hear and see, and it has darkvision with a range of 60 feet. As an action, you can hear and see using the mind&#39;s senses, instead of your own, until your concentration ends (as if concentrating on a spell).
+
+As a bonus action, you can cause the spectral mind to hover up to 30 feet to an unoccupied space that you or it can see. It can pass through creatures but not objects. The spectral mind stops manifesting if it is ever more than 300 feet away from its magic item or if you dismiss it as a bonus action.
+
+When you cast an artificer spell on your turn, you can cast it as if you were in the spectral mind&#39;s space, instead of your own, using its senses. You can do so a number of times per day equal to your Intelligence modifier (at least once), and you regain all expended uses when you finish a long rest.
+
+Archivist: Information Overload
+As an action while the item is on your person, you can try to magically overload the thoughts of one creature you or the mind can see that is within 5 feet of the manifested mind, channeling a jumble of information from the artificial mind. Unless the target succeeds on an Intelligence saving throw against your spell save DC, the target takes 1d8 psychic damage, and the next attack roll against it before the end of your next turn has advantage, since it is temporarily too distracted to defend itself well. The damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8) in this class.
+
+Whenever you deal damage with this feature, you can expend a spell slot to deal extra damage to the target. The extra damage is 2d8 for a 1st-level spell slot, plus 1d8 for each spell level higher than first.
+
+Artificial Mind
+Main Material | Skill Proficiencies | Suggested Appearance
+Animal (parchment, leather, bone) | Animal Handling, Insight, Medicine, Perception, Survival | A beast or a humanoid visage with antlers
+Mineral (glass, stone, metal) | Deception, Intimidation, Performance, Persuasion | A robotic or golem-like face
+Plant (paper, wood) | Arcana, History, Investigation, Nature, Religion | A bespectacled visage or a treant
+
+Source:	Unearthed Arcana: Artificer Revisited p. 7</text><optional>1</optional></feat><feat><name>Archivist (UA): The First Warforged Minds</name><text>Warforged were originally created by House Cannith to fight as subservient beings, having limited self-awareness. The development of the autonomous warforged consciousness has been presented as an accidental breakthrough. However, rumors abound that it was the work of pioneering archivist Aaren d&#39;Cannith, who planted the seed of autonomy in the warforged mind. This fact is now difficult to verify, for the development team&#39;s records were destroyed and Aaren d&#39;Cannith disappeared under mysterious circumstances. Many believe that Aaren is still determined to help the warforged evolve and that he might be working with the sinister Lord of Blades.
+
+Source:	Unearthed Arcana: Artificer Revisited p. 7</text><optional>1</optional></feat><feat><name>Archivist (UA): Tools of the Trade</name><text>By the time you adopt this specialty at 3rd level, you&#39;re deeply familiar with employing its tools.
+
+Archivist: Proficiencies
+You gain proficiency with calligrapher&#39;s supplies and the forgery kit, assuming you don&#39;t already have them. You also gain calligrapher&#39;s supplies and a forgery kit for free—the result of tinkering you&#39;ve done as you&#39;ve prepared for this specialization.
+
+Archivist: Crafting
+If you craft a magic item in the scroll category, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
+
+Source:	Unearthed Arcana: Artificer Revisited p. 7</text><optional>1</optional></feat><tracker><label>Defensive Field</label><resetType>2</resetType><value>2</value><formula>2</formula></tracker><tracker><label>Mise en Place</label><resetType>2</resetType><value>2</value><formula>2</formula></tracker></autolevel><autolevel><level>4</level><scoreImprovement>1</scoreImprovement><slots>2,3,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 4th level and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+Source:	Eberron: Rising from the Last War p. 57,
+		Tasha&#39;s Cauldron of Everything p. 13</text></feat></autolevel><autolevel><level>5</level><slots>2,4,2,0,0,0,0,0,0,0,</slots><feat><name>Alchemist: Alchemical Savant</name><text>At 5th level, you&#39;ve developed masterful command of magical chemicals, enhancing the healing and damage you create through them. Whenever you cast a spell using your alchemist&#39;s supplies as the spellcasting focus, you gain a bonus to one roll of the spell. That roll must restore hit points or be a damage roll that deals acid, fire, necrotic, or poison damage, and the bonus equals your Intelligence modifier (minimum of +1).
+
+Source:	Eberron: Rising from the Last War p. 58,
+		Tasha&#39;s Cauldron of Everything p. 15</text><optional>1</optional></feat><feat><name>Armorer: Extra Attack</name><text>At 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 16</text><optional>1</optional></feat><feat><name>Artillerist: Arcane Firearm</name><text>At 5th level, you know how to turn a wand, staff, or rod into an arcane firearm, a conduit for your destructive spells. When you finish a long rest, you can use woodcarver&#39;s tools to carve special sigils into a wand, staff, or rod and thereby turn it into your arcane firearm. The sigils disappear from the object if you later carve them on a different item. The sigils otherwise last indefinitely.
+
+You can use your arcane firearm as a spellcasting focus for your artificer spells. When you cast an artificer spell through the firearm, roll a d8, and you gain a bonus to one of the spell&#39;s damage rolls equal to the number rolled.
+
+Source:	Eberron: Rising from the Last War p. 60,
+		Tasha&#39;s Cauldron of Everything p. 18</text><optional>1</optional></feat><feat><name>Battle Smith: Extra Attack</name><text>Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
+
+Source:	Eberron: Rising from the Last War p. 61,
+		Tasha&#39;s Cauldron of Everything p. 20</text><optional>1</optional></feat><feat><name>Effigist (HB): Modify Movement</name><text>If your represented creature makes a Strength or Dexterity based saving throw, attack roll, or ability check, you can use your reaction to force them to do it with advantage or disadvantage (your choice).
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 1 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Kobold Engineer (HB): Better Bag</name><text>The initial damage of all of your Improvised Attacks increases by 1d6, and increases by another 1d6 again at 9th level.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 7 (Homebrew)</text><optional>1</optional></feat><feat><name>Kobold Engineer (HB): Better Bag</name><text>The initial damage of all of your Improvised Attacks increases by 1d6, and increases by another 1d6 again at 9th level.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 7 (Homebrew)</text><optional>1</optional></feat><feat><name>Baker (HB): Enchanted Confections</name><text>At 5th level, your pasty treats gain an additional buff based on the school of magic from the baked spell it was created from.
+
+	• Abjuration: Grants +2 bonus to AC and saving throws for 1 minute.
+	• Conjuration: Allows the eater to teleport up to 15 feet.
+	• Divination: Grants advantage on skill checks for 1 minute.
+	• Enchantment: Gives advantage on Charisma checks for 10 minutes.
+	• Evocation: Gain advantage on your next attack.
+	• Illusion: Casts Disguise Self.
+	• Necromancy: Gain twice the number of temporary hit points.
+	• Transmutation: Choose your own buff.
+
+Source:	Subclasses That Shouldn&#39;t Exist v1 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Aeronaut (HB): Extra Attack</name><text>Beginning at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 2 (Homebrew)</text><optional>1</optional></feat><feat><name>Archivist (HB): Acute Overload</name><text>Starting at 5th level, you can expend a spell slot to increase the psychic damage of Information Overload. The damage increases by 2d8 for a 1st-level spell slot, and an additional 1d8 for each spell level higher than 1st-level.
+
+Also, when you deal psychic damage using your Artificial Mind as a spellcasting focus, you gain a bonus to the damage roll equal to your Intelligence modifier (minimum of +1).
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Biomancer (HB): Augmented Flesh</name><text>The power your Chimera works best when merged with its master. Starting at 5th level, you gain the following benefits while you are merged with your Aberrant Chimera:
+
+	• Whenever you make an attack or damage roll, ability check, or saving throw that would normally use your Strength, you can use your Intelligence score instead.
+
+	• You gain a climbing speed equal to your movement speed, and you can climb difficult surfaces, including upside down on ceilings, without making an ability check.
+
+	• As a bonus action, you can expend a spell slot to grant yourself temporary hit points equal to five times the level of the spell slot + your Intelligence modifier. These temporary hit points are added to any temporary hit points you have from merging with your Aberrant Chimera.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 4 (Homebrew)</text><optional>1</optional></feat><feat><name>Biomancer (HB): Extra Attack</name><text>Also starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 4 (Homebrew)</text><optional>1</optional></feat><feat><name>Chronothief (HB): Stolen Moments</name><text>You have improved your Chronometer so that you can literally save moments in time for later. Beginning at 5th level, when you successfully paralyze, stun, or reduce a creature&#39;s movement speed to 0 with a spell or Chronotheif ability, your Chronometer regains one of its expended charges.
+
+Also, any of your Chronometer abilities that require an action to use can also be used as a bonus action on your turn.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 5 (Homebrew)</text><optional>1</optional></feat><feat><name>Composer (HB): Thunderous Note</name><text>Beginning at 5th level, when you hit a creature with a Musical Apparatus attack, you can expend a spell slot to knock Large or smaller targets back with a thunderous burst of sound. The creature is knocked back 10 feet for a 1st-level spell slot, and an additional 10 feet for each spell level higher than 1st-level.
+
+Also, whenever you deal thunder damage, you add your Intelligence modifier (minimum of +1) to your damage roll.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Dungeoneer (HB): Extra Attack</name><text>Beginning at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 7 (Homebrew)</text><optional>1</optional></feat><feat><name>Forgewright (HB): Extra Attack</name><text>Starting at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+Also, you can cast one of your cantrips in place of one of those attacks.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 8 (Homebrew)</text><optional>1</optional></feat><feat><name>Machinist (HB): Arcane Conduit</name><text>Beginning at 5th level, you learn to channel magic through your Automatons. When you cast an artificer spell, you can choose for the spell to originate from an Automaton, instead of yourself so long as you are within 60 feet of it.
+
+When you cast a spell in this way, you roll a d8, and add the number rolled to one damage, or healing, roll of the spell.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 9 (Homebrew)</text><optional>1</optional></feat><feat><name>Machinist (HB): Automated Army</name><text>You can create and control Automatons even more efficiently. Starting at 5th level, you can control up to two Automatons at one time, and at the end of each long rest you can create two Automatons of your choice, without expending a spell slot. You can activate all Automatons as one bonus action.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 9 (Homebrew)</text><optional>1</optional></feat><feat><name>Puppeteer (HB): Strange Strikes</name><text>The degree of control you exert through your Strings grows. Starting at 5th level, when the creature attached to your Marionette Strings makes an attack, you can use your reaction to cause them to make one additional attack.
+
+In addition, when a creature attached to your Strings hits a creature with a melee attack, you can expend a spell slot to empower their strike. Their strike deals an additional 2d6 force damage for a 1st-level spell slot, and an additional 1d6 force damage for each spell slot level above 1st.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 10 (Homebrew)</text><optional>1</optional></feat><feat><name>Alternate Alchemist (HB): Alchemical Savant</name><text>Starting at 5th level, when you cast an artificer spell that deals acid, fire, necrotic, or poison damage, or restores hit points, you gain a bonus to the damage, or healing, roll equal to your Intelligence modifier (minimum of +1).
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 11 (Homebrew)</text><optional>1</optional></feat><tracker><label>Defensive Field</label><resetType>2</resetType><value>3</value><formula>3</formula></tracker></autolevel><autolevel><level>6</level><slots>2,4,2,0,0,0,0,0,0,0,</slots><feat><name>Tool Expertise</name><text>Starting at 6th level, your proficiency bonus is now doubled for any ability check you make that uses your proficiency with a tool.
+
+Source:	Eberron: Rising from the Last War p. 57,
+		Tasha&#39;s Cauldron of Everything p. 13</text></feat><feat><name>Archivist (UA): Mind Network</name><text>At 6th level, you&#39;ve learned how to use your artifices to access minds, both to communicate and to harm.
+
+Archivist: Magical Telephony
+While you have your Artificial Mind item on your person, you can communicate telepathically with anyone carrying an item bearing one of your artificer infusions, as the mind transmits your thoughts to each other. That person can also communicate telepathically with you as long as they have the item. This two-way communication can even cross planar boundaries.
+
+Archivist: Psychic Damage
+When you make a psychic damage roll for an artificer spell or for Information Overload, you gain a bonus to the damage roll equal to your Intelligence modifier (minimum bonus of +1).
+
+Source:	Unearthed Arcana: Artificer Revisited p. 7</text><optional>1</optional></feat></autolevel><autolevel><level>7</level><slots>2,4,3,0,0,0,0,0,0,0,</slots><feat><name>Flash of Genius</name><text>Starting at 7th level, you&#39;ve gained the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.
+
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
+
+Source:	Eberron: Rising from the Last War p. 57,
+		Tasha&#39;s Cauldron of Everything p. 13</text></feat></autolevel><autolevel><level>8</level><scoreImprovement>1</scoreImprovement><slots>2,4,3,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 8th level and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+Source:	Eberron: Rising from the Last War p. 57,
+		Tasha&#39;s Cauldron of Everything p. 13</text></feat></autolevel><autolevel><level>9</level><slots>2,4,3,2,0,0,0,0,0,0,</slots><feat><name>Alchemist: Restorative Reagents</name><text>Starting at 9th level, you can incorporate restorative reagents into some of your works:
+
+	• Whenever a creature drinks an experimental elixir you created, the creature gains temporary hit points equal to 2d6 + your Intelligence modifier (minimum of 1 temporary hit point).
+	• You can cast lesser restoration without expending a spell slot and without preparing the spell, provided you use alchemist&#39;s supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+
+Source:	Eberron: Rising from the Last War p. 59,
+		Tasha&#39;s Cauldron of Everything p. 15</text><optional>1</optional></feat><feat><name>Armorer: Armor Modifications</name><text>Starting at 9th level, you learn how to use your artificer infusions to specially modify your Arcane Armor. That armor now counts as separate items for the purposes of your Infuse Items feature: armor (the chest piece), boots, helmet, and the armor&#39;s special weapon. Each of those items can bear one of your infusions, and the infusions transfer over if you change your armor&#39;s model with the Armor Model feature. In addition, the maximum number of items you can infuse at once increases by 2, but those extra items must be part of your Arcane Armor.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 17</text><optional>1</optional></feat><feat><name>Artillerist: Explosive Cannon</name><text>Starting at 9th level, every eldritch cannon you create is more destructive:
+
+	• The cannon&#39;s damage rolls all increase by 1d8.
+	• As an action, you can command the cannon to detonate if you are within 60 feet of it. Doing so destroys the cannon and forces each creature within 20 feet of it to make a Dexterity saving throw against your spell save DC, taking 3d8 force damage on a failed save or half as much damage on a successful one.
+
+Source:	Eberron: Rising from the Last War p. 60,
+		Tasha&#39;s Cauldron of Everything p. 18</text><optional>1</optional></feat><feat><name>Battle Smith: Arcane Jolt</name><text>At 9th level, you&#39;ve learned new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:
+
+	• The target takes an extra 2d6 force damage.
+	• Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.
+
+You can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest.
+
+Source:	Eberron: Rising from the Last War p. 61,
+		Tasha&#39;s Cauldron of Everything p. 20</text><optional>1</optional></feat><feat><name>Effigist (HB): Concentrated Connection</name><text>The damage rolls caused by your effigy increase by 1d8.
+
+As an action, you can see through the creature&#39;s eyes and hear what it hears, and continue to do so until you use your action to return to your normal senses or until the effigy disappears. The creature is aware someone is perceiving through its senses, but does not necessarily know who it is or how they can do it.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 1 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Kobold Engineer (HB): Warrens Excavator</name><text>You&#39;ve discovered esoteric secrets of civil engineering magic. You gain a burrowing speed of 10 feet and can choose to leave a tunnel behind you that is just big enough to fit a creature of your size. This speed cannot be used to burrow through solid rock, ice, metal, wood, or similar substances.
+
+Creatures one size larger than you can also fit in the area, but must squeeze to do so. While squeezing, such a creature&#39;s speed is halved, it has disadvantage on attack rolls and Dexterity saving throws, and attack rolls against it have advantage.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 7 (Homebrew)</text><optional>1</optional></feat><feat><name>Kobold Engineer (HB): Warrens Excavator</name><text>You&#39;ve discovered esoteric secrets of civil engineering magic. You gain a burrowing speed of 10 feet and can choose to leave a tunnel behind you that is just big enough to fit a creature of your size. This speed cannot be used to burrow through solid rock, ice, metal, wood, or similar substances.
+
+Creatures one size larger than you can also fit in the area, but must squeeze to do so. While squeezing, such a creature&#39;s speed is halved, it has disadvantage on attack rolls and Dexterity saving throws, and attack rolls against it have advantage.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 7 (Homebrew)</text><optional>1</optional></feat><feat><name>Baker (HB): Prepared Delicacies</name><text>At 9th level, you can now begin each day with treats equal to your intelligence modifier. These do not require Mise en Place. You can also prepare a spell up to 3rd level in your cookbook at the start of each day without using your Mise en Place. Treats now grant temporary hit points equal to twice your Intelligence modifier.
+
+Source:	Subclasses That Shouldn&#39;t Exist v1 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Aeronaut (HB): Aerial Maneuvers</name><text>Starting at 9th level, while wearing your Flying Machine, you can take the Dash action as a bonus action on your turn.
+
+In addition, while you have your flying machine equipped, you gain a bonus to your Dexterity ability checks and saving throws equal to your Intelligence modifier (minimum of +1).
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 2 (Homebrew)</text><optional>1</optional></feat><feat><name>Archivist (HB): Improvised Consciousness</name><text>The cognitive abilities of your Artificial Mind are powerful enough to aid your spellcasting. Starting at 9th level, when you are forced to make a Constitution saving throw to maintain concentration on a spell, you gain a bonus to your roll equal to your Intelligence modifier (minimum of +1).
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Biomancer (HB): Strange Evolution</name><text>You have enhanced your own physiology with strange magic. At 9th level, your movement speed increases by 10 feet, and you permanently gain one Chimeric Trait of your choice.
+
+When you reach 15th level in this class, you gain a second permanent Chimeric Trait of your choice (for a total of two).
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 4 (Homebrew)</text><optional>1</optional></feat><feat><name>Chronothief (HB): Empowered Chronomancy</name><text>Your understanding and control over the magic of time has greatly increased. Upon reaching 9th level in this class, the magic of your Chronometer improves in the following ways:
+
+Accelerate:
+Opportunity attacks against the target creature have disadvantage until the end of their next turn.
+
+Decelerate:
+You can spend an additional charge to double the movement speed reduction. If this feature reduces a target&#39;s speed to 0, it must succeed on a Constitution saving throw or be stunned until the end of its next turn.
+
+Slip:
+You can spend two charges to use this reaction after you know if the triggering attack roll, ability check, or saving throw succeeded or failed.
+
+Warp:
+You can spend additional charges to increase the range by an additional 30 feet for each charge you expend.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 5 (Homebrew)</text><optional>1</optional></feat><feat><name>Composer (HB): Resonant Frequency</name><text>Starting at 9th level, you can use an action to play a note that causes a target within 10 feet to resonate with undetectable music for 1 hour. The next time that creature is hit by a melee attack, the attacker must succeed on a Constitution saving throw or take 2d8 thunder damage and not be able take reactions until the start of their next turn.
+
+You may use this feature a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Dungeoneer (HB): Arcane Improvisation</name><text>Starting at 9th level, your improvised weapon attacks and Dungeoncraft Objects are considered magical for the sake of overcoming resistance and immunity to non-magical attacks.
+
+Also, you can cast one of your Dungeoneer Spells without providing the material component once per long rest.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 7 (Homebrew)</text><optional>1</optional></feat><feat><name>Forgewright (HB): Arcane Smite</name><text>You can channel raw arcane power through your Armament. Beginning at 9th level, when you hit a target with your Arcane Armament you can channel arcane energy through it to create one of the following effects of your choice:
+
+	• The target takes an extra 2d6 force damage. You can expend a spell slot to increase this damage. The damage increases by 1d6 per level of the spell slot you expend.
+
+	• You gain temporary hit points equal to your artificer level.
+
+	• You can force the target to make a Strength saving throw. On a failed save they are knocked prone.
+
+You can use this ability a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 8 (Homebrew)</text><optional>1</optional></feat><feat><name>Machinist (HB): Efficient Production</name><text>Starting at 9th level, when you expend an artificer spell slot to create an Automaton, you create a number of Automatons equal to the level of the spell slot expended. You cannot use this feature to exceed your maximum number of Automatons.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 9 (Homebrew)</text><optional>1</optional></feat><feat><name>Puppeteer (HB): Nimble Fingers</name><text>Your ability to control and amplify the abilities of others has increased. Starting at 9th level, you can have two creatures attached to separate Marionette Strings at one time. You must have a free hand to control each of these creatures. The two creatures can be any distance apart, so long as they each individually remain within the range of your Strings.
+
+In addition, the length of your Marionette Strings, and the range of your Puppeteer abilities, becomes 60 feet.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 10 (Homebrew)</text><optional>1</optional></feat><feat><name>Alternate Alchemist (HB): Resorative Reagents</name><text>Beginning at 9th level, whenever a creature drinks one of your Elixirs, they gain temporary hit points equal to 2d6 + your Intelligence modifier, in addition to the Elixir&#39;s effect.
+
+Also, you can cast lesser restoration without expending a spell slot, even if you don&#39;t have it prepared, provided you use your alchemist&#39;s supplies as the spellcasting focus.
+
+You can cast lesser restoration in this way a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 11 (Homebrew)</text><optional>1</optional></feat><tracker><label>Defensive Field</label><resetType>2</resetType><value>4</value><formula>4</formula></tracker><tracker><label>Mise en Place</label><resetType>2</resetType><value>4</value><formula>4</formula></tracker></autolevel><autolevel><level>10</level><slots>3,4,3,2,0,0,0,0,0,0,</slots><feat><name>Magic Item Adept</name><text>When you reach 10th level, you&#39;ve achieved a profound understanding of how to use and make magic items:
+
+	• You can attune to up to four magic items at once.
+	• If you craft a magic item with a rarity of common or uncommon, it takes you a quarter of the normal time, and it costs you half as much of the usual gold.
+
+Source:	Eberron: Rising from the Last War p. 57,
+		Tasha&#39;s Cauldron of Everything p. 13</text></feat></autolevel><autolevel><level>11</level><slots>3,4,3,3,0,0,0,0,0,0,</slots><feat><name>Spell-Storing Item</name><text>At 11th level, you can now store a spell in an object. Whenever you finish a long rest, you can touch one simple or martial weapon or one item that you can use as a spellcasting focus, and you store a spell in it, choosing a 1st- or 2nd-level spell from the artificer spell list that requires 1 action to cast (you needn&#39;t have it prepared).
+
+While holding the object, a creature can take an action to produce the spell&#39;s effect from it, using your spellcasting ability modifier. If the spell requires concentration, the creature must concentrate. The spell stays in the object until it&#39;s been used a number of times equal to twice your Intelligence modifier (minimum of twice) or until you use this feature again to store a spell in an object.
+
+Source:	Eberron: Rising from the Last War p. 58,
+		Tasha&#39;s Cauldron of Everything p. 13</text></feat></autolevel><autolevel><level>12</level><scoreImprovement>1</scoreImprovement><slots>3,4,3,3,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+Source:	Eberron: Rising from the Last War p. 57,
+		Tasha&#39;s Cauldron of Everything p. 13</text></feat></autolevel><autolevel><level>13</level><slots>3,4,3,3,1,0,0,0,0,0,</slots><tracker><label>Defensive Field</label><resetType>2</resetType><value>5</value><formula>5</formula></tracker></autolevel><autolevel><level>14</level><slots>4,4,3,3,1,0,0,0,0,0,</slots><feat><name>Magic Item Savant</name><text>At 14th level, your skill with magic items deepens:
+
+	• You can attune to up to five magic items at once.
+	• You ignore all class, race, spell, and level requirements on attuning to or using a magic item.
+
+Source:	Eberron: Rising from the Last War p. 58,
+		Tasha&#39;s Cauldron of Everything p. 14</text></feat><feat><name>Archivist (UA): Pure Information</name><text>At 14th level, your Artificial Mind is able to receive and transmit more information than ever before.
+
+Archivist: Mind Overload
+When you expend a spell slot to increase the damage of Information Overload, the target must succeed on an Intelligence saving throw against your spell save DC or be stunned until the end of your next turn.
+
+Archivist: Infoportation
+As an action while your Artificial Mind magic item is on your person, you cause the mind to turn you into pure information, teleporting you to the unoccupied space nearest to the spectral mind or to an item bearing one of your artificer infusions, where you physically reappear.
+
+You can teleport in this way once for free and must finish a long rest before doing so again. You can also use this special ability by expending a spell slot of 2nd level or higher.
+
+Source:	Unearthed Arcana: Artificer Revisited p. 7</text><optional>1</optional></feat></autolevel><autolevel><level>15</level><slots>4,4,3,3,2,0,0,0,0,0,</slots><feat><name>Alchemist: Chemical Mastery</name><text>By 15th level, you have been exposed to so many chemicals that they pose little risk to you, and you can use them to quickly end certain ailments:
+
+	• You gain resistance to acid damage and poison damage, and you are immune to the poisoned condition.
+	• You can cast greater restoration and heal without expending a spell slot, without preparing the spell, and without material components, provided you use alchemist&#39;s supplies as the spellcasting focus. Once you cast either spell with this feature, you can&#39;t cast that spell with it again until you finish a long rest.
+
+Source:	Eberron: Rising from the Last War p. 59,
+		Tasha&#39;s Cauldron of Everything p. 15</text><optional>1</optional></feat><feat><name>Armorer: Perfected Armor</name><text>At 15th level, your Arcane Armor gains additional benefits based on its model, as shown below.
+
+Guardian:
+When a Huge or smaller creature you can see ends its turn within 30 feet of you, you can use your reaction to magically force it to make a Strength saving throw against your spell save DC. On a failed save, you pull the creature up to 25 feet directly to an unoccupied space.
+
+You can use this reaction a number of times equal to your proficiency bonus and you regain all expended uses of it when you finish a long rest.
+
+Infiltrator:
+Any creature that takes lightning damage from your Lightning Launcher glimmers with magical light until the start of your next turn. The glimmering creature sheds dim light in a 5-foot radius,and it has disadvantage on attack rolls against you, as the light jolts it if it attacks you. In addition, the next attack roll against it has advantage, and if that attack hits, the target takes an extra 1d6 lightning damage.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 17</text><optional>1</optional></feat><feat><name>Artillerist: Fortified Position</name><text>Starting at 15th level, you&#39;re a master at forming well-defended emplacements using Eldritch Cannon:
+
+	• You and your allies have half cover while within 10 feet of a cannon you create with Eldritch Cannon, as a result of a shimmering field of magical protection that the cannon emits.
+	• You can now have two cannons at the same time. You can create two with the same action (but not the same spell slot), and you can activate both of them with the same bonus action. You determine whether the cannons are identical to each other or different. You can&#39;t create a third cannon while you have two.
+
+Source:	Eberron: Rising from the Last War p. 60,
+		Tasha&#39;s Cauldron of Everything p. 18</text><optional>1</optional></feat><feat><name>Battle Smith: Improved Defender</name><text>At 15th level, your Arcane Jolt and steel defender become more powerful:
+
+	• The extra damage and the healing of your Arcane Jolt both increase to 4d6.
+	• Your steel defender gains a +2 bonus to Armor Class.
+	• Whenever your steel defender uses its Deflect Attack, the attacker takes force damage equal to 1d4 + your Intelligence modifier.
+
+Source:	Eberron: Rising from the Last War p. 61,
+		Tasha&#39;s Cauldron of Everything p. 20</text><optional>1</optional></feat><feat><name>Effigist (HB): Complete Control</name><text>By 15th level, you have become a master of control. You can cast dominate monster on a represented creature once without expending a spell slot, provided that you use your effigy as the spellcasting focus. Once you have used this feature, you cannot use it again until you finish a long rest.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 1 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Kobold Engineer (HB): Look Over There!</name><text>When you see a creature take the Dash, Dodge, Help, Hide, or Search action, you can use your reaction to take the same action or to use one of your prepared Improvised Attacks.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 7 (Homebrew)</text><optional>1</optional></feat><feat><name>Kobold Engineer (HB): Look Over There!</name><text>When you see a creature take the Dash, Dodge, Help, Hide, or Search action, you can use your reaction to take the same action or to use one of your prepared Improvised Attacks.
+
+Source:	Tasha&#39;s Crucible of Everything Else, Volume 2 p. 7 (Homebrew)</text><optional>1</optional></feat><feat><name>Baker (HB): Master Baker</name><text>At 15th level, you can the ability to bake two spells simultaneously within your cookbook. You can release both on the same turn, with one as a bonus action and the other as an action on the same turn.
+
+Treats now grant temporary hit points equal to three times your Intelligence modifier.
+
+Source:	Subclasses That Shouldn&#39;t Exist v1 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Aeronaut (HB): Master Aeronaut</name><text>You have become a master of Aeronaut artifice. Beginning at 15th level, while wearing your Flying Machine and you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed, and only half damage if you fail.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 2 (Homebrew)</text><optional>1</optional></feat><feat><name>Archivist (HB): Master Archivist</name><text>You are a master of Archivist artifice. Starting at 15th level, you can take an action on your turn to transform into pure information and teleport to an unoccupied space that you can see within 60 feet, or an unoccupied space within 5 feet of a creature or object bearing one of your artificer Infusions.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 3 (Homebrew)</text><optional>1</optional></feat><feat><name>Biomancer (HB): Master Biomancer</name><text>You have become a master amongst Biomancer artificers. Beginning at 15th level, when you target a creature with a Biomancer Spell, you can grant a single target (additional) temporary hit points equal to your artificer level.
+
+In addition, when merged with your Chimera, you are resistant to bludgeoning, piercing, and slashing damage.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 4 (Homebrew)</text><optional>1</optional></feat><feat><name>Chronothief (HB): Master Chronothief</name><text>You are considered a master in the field of Chronomancy. Starting at 15th level, you can overload your Chronometer, expending any remaining charges, to cast time stop.
+
+Once you cast time stop in this way, you must finish a long rest before you can do so again.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 5 (Homebrew)</text><optional>1</optional></feat><feat><name>Composer (HB): Master Composer</name><text>You have mastered the theory and applications of musical. Beginning at 15th level, you gain the following benefits:
+
+	• You are immune to thunder damage and being deafened.
+
+	• Your Musical Apparatus gains both Weaponized effects.
+
+	• Your Thunderous Note feature effects Huge or smaller creatures. Large or smaller creatures that fail the saving throw fall prone at the end of their forced movement.
+
+	• The damage of Resonant Frequency becomes to 4d8.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 6 (Homebrew)</text><optional>1</optional></feat><feat><name>Dungeoneer (HB): Master Dungeoneer</name><text>You have become a master of Dungeoneering. Beginning at 15th level, creatures have disadvantage on saving throws for your Dungeoncraft Objects and Dunegoneer spells.
+
+In addition, you learn to cast a ritual version of both the passwall and wall of stone spells. Casting them in this way takes 1 hour, doesn&#39;t consume a spell slot, and the structure created becomes permanent at the end of the ritual casting.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 7 (Homebrew)</text><optional>1</optional></feat><feat><name>Forgewright (HB): Master Forgewright</name><text>You have become a master among Forgewright artificers. Starting at 15th level, you can extend the power within your Arcane Armament to your allies. As an action, choose a number of weapons equal to your Intelligence modifier (minimum of 1) within 30 feet. For the next minute these weapons deal an additional 1d6 force damage on hit.
+
+You can use this feature once per long rest, unless you spend a spell slot of 3rd level or higher to use it again.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 8 (Homebrew)</text><optional>1</optional></feat><feat><name>Machinist (HB): Master Machinist</name><text>You have become a master amongst Machinist artificers. Starting at 15th level, you can control up to three Automatons at one time, and at the end of a long rest you create three Automatons of your choice, without expending a spell slot.
+
+Also, when you are forced to make a saving throw or are hit by an attack, you can use your reaction to switch places with one of your Automatons within 60 feet. The Automaton then becomes the target of the attack or saving throw.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 9 (Homebrew)</text><optional>1</optional></feat><feat><name>Puppeteer (HB): Master Puppeteer</name><text>You have become a master amongst Puppeteer artificers. Starting at 15th level, you can use an action on your turn to cast the Irresistible Dance spell, without expending a spell slot, or requiring your concentration. You can only have once instance of this spell active at a time. When a creature makes a saving throw to resist the spell, you can expend a use of your Marionette Strings to impose disadvantage.
+
+Once you cast Irresistible Dance in this way, you must finish a long rest before you can do so again, or expend a use of your Marionette Strings ability to use this ability again.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 10 (Homebrew)</text><optional>1</optional></feat><feat><name>Alternate Alchemist (HB): Master Alchemist</name><text>You have become a master among Alchemist artificers. Upon reaching 15th level, you gain resistance to acid and poison damage, and immunity to the poisoned condition.
+
+In addition, you can cast both greater restoration and heal without expending a spell slot, without preparing the spell, and without providing the material component, provided you use your alchemist&#39;s supplies as the spellcasting focus.
+
+You can cast each of these spells once with this feature, and you must finish a long rest before you can do so again.
+
+Source:	LaserLlama: Artificer Specialists v2.1.0 p. 11 (Homebrew)</text><optional>1</optional></feat><tracker><label>Perfected Armor</label><resetType>2</resetType><value>5</value><formula>5</formula></tracker><tracker><label>Mise en Place</label><resetType>2</resetType><value>6</value><formula>6</formula></tracker></autolevel><autolevel><level>16</level><scoreImprovement>1</scoreImprovement><slots>4,4,3,3,2,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+Source:	Eberron: Rising from the Last War p. 57,
+		Tasha&#39;s Cauldron of Everything p. 13</text></feat></autolevel><autolevel><level>17</level><slots>4,4,3,3,3,1,0,0,0,0,</slots><tracker><label>Defensive Field</label><resetType>2</resetType><value>6</value><formula>6</formula></tracker><tracker><label>Perfected Armor</label><resetType>2</resetType><value>6</value><formula>6</formula></tracker></autolevel><autolevel><level>18</level><slots>4,4,3,3,3,1,0,0,0,0,</slots><feat><name>Magic Item Master</name><text>Starting at 18th level, you can now attune to up to six magic items at once.
+
+Source:	Eberron: Rising from the Last War p. 58,
+		Tasha&#39;s Cauldron of Everything p. 14</text></feat></autolevel><autolevel><level>19</level><scoreImprovement>1</scoreImprovement><slots>4,4,3,3,3,2,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+Source:	Eberron: Rising from the Last War p. 57,
+		Tasha&#39;s Cauldron of Everything p. 13</text></feat></autolevel><autolevel><level>20</level><slots>4,4,3,3,3,2,0,0,0,0,</slots><feat><name>Soul of Artifice</name><text>At 20th level, you have developed a mystical connection to your magic items, which you can draw on for protection:
+
+	• You gain a +1 bonus to all saving throws per magic item you are currently attuned to.
+	• If you&#39;re reduced to 0 hit points but not killed outright, you can use your reaction to end one of your artificer infusions, causing you to drop to 1 hit point instead of 0.
+
+Source:	Eberron: Rising from the Last War p. 58,
+		Tasha&#39;s Cauldron of Everything p. 14</text></feat></autolevel><spellAbility>3</spellAbility><spell><name>Catapult</name><school>8</school><level>1</level><time>1 action</time><range>60 feet</range><s>1</s><duration>Instantaneous</duration><text>Choose one object weighing 1 to 5 pounds within range that isn&#39;t being worn or carried. The object flies in a straight line up to 90 feet in a direction you choose before falling to the ground, stopping early if it impacts against a solid surface. If the object would strike a creature, that creature must make a Dexterity saving throw. On a failed save, the object strikes the target and stops moving. When the object strikes something, the object and what it strikes each take 3d8 bludgeoning damage.
+
+At Higher Levels:
+When you cast this spell using a spell slot of 2nd level or higher, the maximum weight of objects that you can target with this spell increases by 5 pounds, and the damage increases by 1d8, for each slot level above 1st.
+
+Source:	Xanathar&#39;s Guide to Everything p. 150,
+		Elemental Evil Player&#39;s Companion p. 15</text><prepared>1</prepared><roll>3d8</roll><roll>4d8</roll><roll>5d8</roll><roll>6d8</roll><roll>7d8</roll><roll>8d8</roll><roll>9d8</roll><roll>10d8</roll><roll>11d8</roll><sclass>School: Transformation</sclass><sclass>Sorcerer</sclass><sclass>Wizard</sclass><sclass>Artificer</sclass><sclass>Cleric (Mysticism (HB))</sclass><sclass>Paladin (Mysticism (HB))</sclass><sclass>Warlock (Titan (HB))</sclass><sclass>Psion (LaserLlama)</sclass><sclass>Psion (LaserLlama) (Enlightened)</sclass></spell><spell><name>Cure Wounds</name><school>5</school><level>1</level><time>1 action</time><range>Touch</range><v>1</v><s>1</s><duration>Instantaneous</duration><text>A creature you touch regains a number of hit points equal to 1d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.
+
+At Higher Levels:
+When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d8 for each slot level above 1st.
+
+Source:	Player&#39;s Handbook p. 230</text><prepared>1</prepared><roll>1d8+%0</roll><roll>2d8+%0</roll><roll>3d8+%0</roll><roll>4d8+%0</roll><roll>5d8+%0</roll><roll>6d8+%0</roll><roll>7d8+%0</roll><roll>8d8+%0</roll><roll>9d8+%0</roll><sclass>School: Evocation</sclass><sclass>Bard</sclass><sclass>Cleric</sclass><sclass>Druid</sclass><sclass>Paladin</sclass><sclass>Ranger</sclass><sclass>Cleric (Life)</sclass><sclass>Warlock (Celestial)</sclass><sclass>Sorcerer (Divine Soul)</sclass><sclass>Artificer</sclass><sclass>Druid (Wildfire)</sclass><sclass>Mark of Healing</sclass><sclass>Druid (Mage of Witherbloom)</sclass><sclass>Warlock (Mage of Witherbloom)</sclass><sclass>Touch Spells</sclass><sclass>Tamer (HB)</sclass><sclass>School: Biomancy</sclass><sclass>Barbarian (Warden (HB))</sclass></spell><spell><name>Tasha&#39;s Caustic Brew</name><school>5</school><level>1</level><time>1 action</time><range>Self (30-foot line)</range><v>1</v><s>1</s><m>1</m><materials>a bit of rotten food</materials><duration>Concentration, up to 1 minute</duration><text>A stream of acid emanates from you in a line 30 feet long and 5 feet wide in a direction you choose. Each creature in the line must succeed on a Dexterity saving throw or be covered in acid for the spell&#39;s duration or until a creature uses its action to scrape or wash the acid off itself or another creature. A creature covered in the acid takes 2d4 acid damage at start of each of its turns.
+
+At Higher Levels:
+When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 2d4 for each slot level above 1st.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 115</text><prepared>1</prepared><roll>2d4</roll><roll>4d4</roll><roll>6d4</roll><roll>8d4</roll><roll>10d4</roll><roll>12d4</roll><roll>14d4</roll><roll>16d4</roll><roll>18d4</roll><sclass>School: Evocation</sclass><sclass>Artificer</sclass><sclass>Sorcerer</sclass><sclass>Wizard</sclass></spell><spell><name>Mending</name><school>8</school><time>1 minute</time><range>Touch</range><v>1</v><s>1</s><m>1</m><materials>two lodestones</materials><duration>Instantaneous</duration><text>This spell repairs a single break or tear in an object you touch, such as broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.
+
+This spell can physically repair a magic item or construct, but the spell can&#39;t restore magic to such an object.
+
+Source:	Player&#39;s Handbook p. 259</text><sclass>School: Transformation</sclass><sclass>Fighter (Eldritch Knight)</sclass><sclass>Rogue (Arcane Trickster)</sclass><sclass>Bard</sclass><sclass>Cleric</sclass><sclass>Druid</sclass><sclass>Sorcerer</sclass><sclass>Wizard</sclass><sclass>Artificer</sclass><sclass>Touch Spells</sclass></spell><spell><name>Detect Magic</name><school>3</school><ritual>1</ritual><level>1</level><time>1 action</time><range>Self</range><v>1</v><s>1</s><duration>Concentration, up to 10 minutes</duration><text>For the duration, you sense the presence of magic within 30 feet of you. If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any.
+
+The spell can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+Source:	Player&#39;s Handbook p. 231</text><prepared>1</prepared><sclass>School: Divination</sclass><sclass>Bard</sclass><sclass>Cleric</sclass><sclass>Druid</sclass><sclass>Paladin</sclass><sclass>Ranger</sclass><sclass>Sorcerer</sclass><sclass>Wizard</sclass><sclass>Artificer</sclass><sclass>Paladin (Watchers)</sclass><sclass>Cleric (Arcana)</sclass><sclass>Mark of Detection</sclass><sclass>Cleric (Entropy)</sclass><sclass>Ritual Caster</sclass><sclass>Fighter (Witch Hunter (HB))</sclass><sclass>Paladin (Inquisition (HB))</sclass><sclass>Warlock (Seeker (HB))</sclass><sclass>Cleric (Seership (HB))</sclass><sclass>Tamer (HB)</sclass><sclass>Magus (LaserLlama)</sclass><sclass>Psion (LaserLlama)</sclass><sclass>Warlock (The DM (HB))</sclass></spell><spell><name>Acid Splash</name><school>2</school><time>1 action</time><range>60 feet</range><v>1</v><s>1</s><duration>Instantaneous</duration><text>You hurl a bubble of acid. Choose one creature you can see within range, or choose two creatures you can see within range that are within 5 feet of each other. A target must succeed on a Dexterity saving throw or take 1d6 acid damage.
+
+This spell&#39;s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6).
+
+Source:	Player&#39;s Handbook p. 211</text><roll>1d6</roll><roll>2d6</roll><roll>3d6</roll><roll>4d6</roll><sclass>School: Conjuration</sclass><sclass>Fighter (Eldritch Knight)</sclass><sclass>Rogue (Arcane Trickster)</sclass><sclass>Sorcerer</sclass><sclass>Wizard</sclass><sclass>Artificer</sclass><sclass>Sorcerer (Primordial Chaos (HB))</sclass><sclass>Magus (LaserLlama)</sclass><sclass>Wizard (School of Invention)</sclass><sclass>Druid</sclass></spell></class><background><name>Guild Artisan</name><align>Chaotic Neutral</align><personality>Silly nice old man who tries to help.</personality><ideals>Freedom. Everyone should be free to pursue his or her own livelihood.</ideals><bonds>Helping my village.</bonds><flaws>I’m horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I’m surrounded by rivals.</flaws><feat><name>Description</name><text>You are a member of an artisan&#39;s guild, skilled in a particular field and closely associated with other artisans. You are a well-established part of the mercantile world, freed by talent and wealth from the constraints of a feudal social order. You learned your skills as an apprentice to a master artisan, under the sponsorship of your guild, until you became a master in your own right.
+
+	• Skill Proficiencies: Insight, Persuasion
+	• Tool Proficiencies: One type of artisan&#39;s tools
+	• Languages: One of your choice
+	• Equipment: A set of artisan&#39;s tools (one of your choice), a letter of introduction from your guild, a set of traveler&#39;s clothes, and a belt pouch containing 15 gp
+
+Source:	Player&#39;s Handbook p. 132</text></feat><feat><name>Feature: Guild Membership</name><text>As an established and respected member of a guild, you can rely on certain benefits that membership provides. Your fellow guild members will provide you with lodging and food if necessary, and pay for your funeral if needed. In some cities and towns, a guildhall offers a central place to meet other members of your profession, which can be a good place to meet potential patrons, allies, or hirelings.
+
+Guilds often wield tremendous political power. If you are accused of a crime, your guild will support you if a good case can be made for your innocence or the crime is justifiable. You can also gain access to powerful political figures through the guild, if you are a member in good standing. Such connections might require the donation of money or magic items to the guild&#39;s coffers.
+
+You must pay dues of 5 gp per month to the guild. If you miss payments, you must make up back dues to remain in the guild&#39;s good graces.</text><expanded>0</expanded></feat><feat><name>Guild Business</name><text>Guilds are generally found in cities large enough to support several artisans practicing the same trade. However, your guild might instead be a loose network of artisans who each work in a different village within a larger realm. Work with your DM to determine the nature of your guild.
+
+You can select your guild business from the Guild Business table or roll randomly.
+
+Guild Business:
+d20 | Guild Business
+1 | Alchemists and apothecaries
+2 | Armorers, locksmiths, and finesmiths
+3 | Brewers, distillers, and vintners
+4 | Calligraphers, scribes, and scriveners
+5 | Carpenters, roofers, and plasterers
+6 | Cartographers, surveyors, and chart-makers
+7 | Cobblers and shoemakers
+8 | Cooks and bakers
+9 | Glassblowers and glaziers
+10 | Jewelers and gemcutters
+11 | Leatherworkers, skinners, and tanners
+12 | Masons and stonecutters
+13 | Painters, limners, and sign-makers
+14 | Potters and tile-makers
+15 | Shipwrights and sailmakers
+16 | Smiths and metal-forgers
+17 | Tinkers, pewterers, and casters
+18 | Wagon-makers and wheelwrights
+19 | Weavers and dyers
+20 | Woodcarvers, coopers, and bowyers
+
+As a member of your guild, you know the skills needed to create finished items from raw materials (reflected in your proficiency with a certain kind of artisan&#39;s tools), as well as the principles of trade and good business practices. The question now is whether you abandon your trade for adventure, or take on the extra effort to weave adventuring and trade together.</text><expanded>0</expanded></feat><feat><name>Suggested Characteristics</name><text>Guild artisans are among the most ordinary people in the world — until they set down their tools and take up an adventuring career. They understand the value of hard work and the importance of community, but they&#39;re vulnerable to sins of greed and covetousness.
+
+d8 | Personality Trait
+1 | I believe that anything worth doing is worth doing right. I can&#39;t help it — I&#39;m a perfectionist.
+2 | I&#39;m a snob who looks down on those who can&#39;t appreciate fine art.
+3 | I always want to know how things work and what makes people tick.
+4 | I&#39;m full of witty aphorisms and have a proverb for every occasion.
+5 | I&#39;m rude to people who lack my commitment to hard work and fair play.
+6 | I like to talk at length about my profession.
+7 | I don&#39;t part with my money easily and will haggle tirelessly to get the best deal possible.
+8 | I&#39;m well known for my work, and I want to make sure everyone appreciates it. I&#39;m always taken aback when people haven&#39;t heard of me.
+
+d6 | Ideal
+1 | Community. It is the duty of all civilized people to strengthen the bonds of community and the security of civilization. (Lawful)
+2 | Generosity. My talents were given to me so that I could use them to benefit the world. (Good)
+3 | Freedom. Everyone should be free to pursue his or her own livelihood. (Chaotic)
+4 | Greed. I&#39;m only in it for the money. (Evil)
+5 | People. I&#39;m committed to the people I care about, not to ideals. (Neutral)
+6 | Aspiration. I work hard to be the best there is at my craft. (Any)
+
+d6 | Bond
+1 | The workshop where I learned my trade is the most important place in the world to me.
+2 | I created a great work for someone, and then found them unworthy to receive it. I&#39;m still looking for someone worthy.
+3 | I owe my guild a great debt for forging me into the person I am today.
+4 | I pursue wealth to secure someone&#39;s love.
+5 | One day I will return to my guild and prove that I am the greatest artisan of them all.
+6 | I will get revenge on the evil forces that destroyed my place of business and ruined my livelihood.
+
+d6 | Flaw
+1 | I&#39;ll do anything to get my hands on something rare or priceless.
+2 | I&#39;m quick to assume that someone is trying to cheat me.
+3 | No one must ever learn that I once stole money from guild coffers.
+4 | I&#39;m never satisfied with what I have — I always want more.
+5 | I would kill to acquire a noble title.
+6 | I&#39;m horribly jealous of anyone who can outshine my handiwork. Everywhere I go, I&#39;m surrounded by rivals.</text><expanded>0</expanded></feat><proficiency>113</proficiency><proficiency>106</proficiency></background>
+<unarmed>1</unarmed><slots>2,2,0,0,0,0,0,0,0,0,</slots><slotsCurrent>2,2,0,0,0,0,0,0,0,0,</slotsCurrent><attack><name>Acid Splash</name><type>2</type><damage>1d6</damage><damageType>4</damageType></attack><attack><name>Catapult</name><type>2</type><damage>3d8</damage><damageType>1</damageType></attack><item><name>Studded Leather Armor</name><detail>common</detail><text>Made from tough but flexible leather, studded leather is reinforced with close-set rivets or spikes.
+
+Source:	Player&#39;s Handbook p. 144</text><type>1</type><slot>5</slot><value>45.0</value><weight>13.0</weight><ac>12</ac></item><item><name>Light Crossbow</name><detail>common</detail><text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+
+If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see &#34;Improvised Weapons&#34;).
+
+Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon&#39;s normal range in feet, and the second indicates the weapon&#39;s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can&#39;t attack a target beyond the weapon&#39;s long range.
+
+Loading: Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
+
+Two-Handed: This weapon requires two hands when you attack with it.
+
+Proficiency: simple, light crossbow
+Source:	Player&#39;s Handbook p. 149</text><type>6</type><slot>3</slot><value>25.0</value><weight>5.0</weight><damage1H>1d8</damage1H><damageType>2</damageType><weaponProperty>273</weaponProperty><weaponRange>80</weaponRange><weaponLongRange>320</weaponLongRange><mod><type>1</type></mod></item><item><name>Dagger</name><detail>common</detail><text>Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+
+Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
+
+Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon&#39;s normal range in feet, and the second indicates the weapon&#39;s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can&#39;t attack a target beyond the weapon&#39;s long range.
+
+Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+
+Proficiency: simple, dagger
+Source:	Player&#39;s Handbook p. 149</text><type>5</type><value>2.0</value><weight>1.0</weight><damage1H>1d4</damage1H><damageType>2</damageType><weaponProperty>138</weaponProperty><weaponRange>20</weaponRange><weaponLongRange>60</weaponLongRange><mod><type>1</type></mod></item><item><name>Crossbow Bolt</name><detail>common</detail><text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+
+Source:	Player&#39;s Handbook p. 150</text><type>7</type><quantity>20</quantity><value>0.05</value><weight>0.075</weight></item><item><name>Gold (gp)</name><type>15</type><quantity>37</quantity><value>1.0</value><weight>0.02</weight></item><item><name>Quarterstaff</name><detail>common</detail><text>Versatile: This weapon can be used with one or two hands. A damage value in parentheses appears with the property—the damage when the weapon is used with two hands to make a melee Attack.
+
+Proficiency: simple, quarterstaff
+Source:	Player&#39;s Handbook p. 149</text><type>5</type><value>0.2</value><weight>4.0</weight><damage1H>1d6</damage1H><damage2H>1d8</damage2H><damageType>1</damageType><weaponProperty>512</weaponProperty><mod><type>1</type></mod></item><container><label>Explorer&#39;s Pack</label><name>Backpack</name><value>10.0</value><weight>5.0</weight><carried>1</carried><item><name>Thieves&#39; Tools</name><detail>Tools</detail><text>This set of tools includes a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers. Proficiency with these tools lets you add your proficiency bonus to any ability checks you make to disarm traps or open locks.
+
+Perhaps the most common tools used by adventurers, thieves&#39; tools are designed for picking locks and foiling traps. Proficiency with the tools also grants you a general knowledge of traps and locks.
+
+Components: Thieves&#39; tools include a small file, a set of lock picks, a small mirror mounted on a metal handle, a set of narrow-bladed scissors, and a pair of pliers.
+
+History: Your knowledge of traps grants you insight when answering questions about locations that are renowned for their traps.
+
+Investigation and Perception: You gain additional insight when looking for traps, because you have learned a variety of common signs that betray their presence.
+
+Set a Trap: Just as you can disable traps, you can also set them. As part of a short rest, you can create a trap using items you have on hand. The total of your check becomes the DC for someone else&#39;s attempt to discover or disable the trap. The trap deals damage appropriate to the materials used in crafting it (such as poison or a weapon) or damage equal to half the total of your check, whichever the DM deems appropriate.
+
+Thieves&#39; Tools:
+Activity | DC
+Pick a lock | Varies
+Disable a trap | Varies
+
+Source:	Player&#39;s Handbook p. 154</text><value>25.0</value><weight>1.0</weight></item><item><name>Alchemist&#39;s Supplies</name><detail>Artisan Tools</detail><text>These special tools include the items needed to pursue a craft or trade. Proficiency with a set of artisan&#39;s tools lets you add your proficiency bonus to any ability checks you make using the tools in your craft. Each type of artisan&#39;s tools requires a separate proficiency.
+
+Alchemist&#39;s supplies enable a character to produce useful concoctions, such as acid or alchemist&#39;s fire.
+
+Components: Alchemist&#39;s supplies include two glass beakers, a metal frame to hold a beaker in place over an open flame, a glass stirring rod, a small mortar and pestle, and a pouch of common alchemical ingredients, including salt, powdered iron, and purified water.
+
+Arcana: Proficiency with alchemist&#39;s supplies allows you to unlock more information on Arcana checks involving potions and similar materials.
+
+Investigation: When you inspect an area for clues, proficiency with alchemist&#39;s supplies grants additional insight into any chemicals or other substances that might have been used in the area.
+
+Alchemical Crafting: You can use this tool proficiency to create alchemical items. A character can spend money to collect raw materials, which weigh 1 pound for every 50 gp spent. The DM can allow a character to make a check using the indicated skill with advantage. As part of a long rest, you can use alchemist&#39;s supplies to make one dose of acid, alchemist&#39;s fire, antitoxin, oil, perfume, or soap. Subtract half the value of the created item from the total gp worth of raw materials you are carrying.
+
+Alchemist&#39;s Supplies:
+Activity | DC
+Create a puff of thick smoke | 10
+Identify a poison | 10
+Identify a substance | 15
+Start a fire | 15
+Neutralize acid | 20
+
+Source:	Player&#39;s Handbook p. 154,
+		Xanathar&#39;s Guide of Everything p. 79</text><value>50.0</value><weight>8.0</weight></item><item><name>Rope, hempen (50 feet)</name><weight>10.0</weight></item><item><name>Waterskin</name><text>A waterskin can hold up to 4 pints of liquid.
+
+Source:	Player&#39;s Handbook p. 153</text><value>0.2</value><weight>5.0</weight></item><item><name>Rations (1 day)</name><text>Rations consist of dry foods suitable for extended travel, including jerky, dried fruit, hardtack, and nuts.
+
+Source:	Player&#39;s Handbook p. 153</text><quantity>10</quantity><value>0.5</value><weight>2.0</weight></item><item><name>Tinderbox</name><text>This small container holds flint, fire steel, and tinder (usually dry cloth soaked in light oil) used to kindle a fire. Using it to light a torch—or anything else with abundant, exposed fuel—takes an action. Lighting any other fire takes 1 minute.
+
+Source:	Player&#39;s Handbook p. 153</text><value>0.5</value><weight>1.0</weight></item><item><name>Torch</name><text>A torch burns for 1 hour, providing bright light in a 20-foot radius and dim light for an additional 20 feet. If you make a melee attack with a burning torch and hit, it deals 1 fire damage.
+
+Source:	Player&#39;s Handbook p. 153</text><quantity>10</quantity><value>0.01</value><weight>1.0</weight></item><item><name>Piton</name><text>Source:	Player&#39;s Handbook p. 150</text><quantity>10</quantity><value>0.05</value><weight>0.25</weight></item><item><name>Hammer</name><text>Source:	Player&#39;s Handbook p. 150</text><value>1.0</value><weight>3.0</weight></item><item><name>Crowbar</name><detail>light hammer, common</detail><text>Using a crowbar grants advantage to Strength checks where the crowbar&#39;s leverage can be applied.
+
+Thrown: If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
+
+Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon&#39;s normal range in feet, and the second indicates the weapon&#39;s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can&#39;t attack a target beyond the weapon&#39;s long range.
+
+Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+
+Proficiency: simple, light hammer
+Source:	Homebrew: Vianna&#39;s Silly Reflavoured Items,
+		Player&#39;s Handbook p. 149</text><type>5</type><value>2.0</value><weight>5.0</weight><damage1H>1d4</damage1H><damageType>1</damageType><weaponProperty>136</weaponProperty><weaponRange>20</weaponRange><weaponLongRange>60</weaponLongRange><mod><type>1</type></mod></item></container><note><name>Treasure</name><text>Treasures and Trinkets</text></note><note><name>Allies and Organizations</name><text>People your character is familiar with.</text></note><note><name>Roleplaying Characteristics</name><text>Alignment:
+
+Personality Traits:
+	• 
+
+Ideals:
+	• 
+
+Bonds:
+	• 
+
+Flaws:
+	• 
+</text></note><note><name>Backstory</name><text>Your character&#39;s origin story or background goes here.</text></note><note><name>Actions</name><text>	• Attack
+	• Dash
+	• Disengage
+	• Dodge
+	• Help
+	• Hide
+	• Ready
+	• Search
+	• Use an Object
+	• List other Action features here</text></note><note><name>Concentration Spells</name><text>The spells your character knows which use concentration.
+
+	• </text></note><note><name>Reactions</name><text>	• Make an opportunity attack
+	• Take a readied action</text></note><note><name>Bonus Actions</name><text>	• Make an offhand attack
+	• List other bonus action features here</text></note><abilities>10,14,12,15,13,8,</abilities><hpMax>10</hpMax><hpCurrent>10</hpCurrent></character></pc>

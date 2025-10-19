@@ -1,0 +1,995 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pc version="5">
+<character><version>38</version><uid>7952</uid><name>Vulong</name><race><name>Vulpine</name><feat><name>Description</name><text>The leonin guard the shining lands of Oreskos, a golden plain where even the gods rarely trespass. Prides of these nomadic, lion-like humanoids rarely interact with other peoples, having all they need in their shimmering homeland and knowing the treachery of strangers. Still, some leonin wonder what lies beyond Oreskos&#39;s border mountains and seek to test themselves in a wider world.
+
+Source:	Mythic Odysseys of Theros p. 20</text><expanded>0</expanded></feat><feat><name>Life Span</name><text>Leonin mature and age at about the same rate as humans.
+</text><expanded>0</expanded></feat><feat><name>Alignment</name><text>Leonin tend toward good alignments. Leonin who are focused on the pride lean toward lawful good.
+</text><expanded>0</expanded></feat><feat><name>Size</name><text>Leonin are typically over 6 feet tall, with some standing over 7 feet. Your size is Medium.
+
+Here&#39;s how to determine your height and weight randomly, starting with rolling a size modifier:
+
+Size modifier = 2d10
+Height= 5 feet + 6 inches + your size modifier in inches
+Weight in pounds = 180 + (2d6 × your size modifier)
+</text><expanded>0</expanded></feat><feat><name>Darkvision</name><text>You can see in dim light within 60 feet of you as if it were bright light and in darkness as if it were dim light. You can&#39;t discern color in darkness, only shades of gray.
+</text><expanded>0</expanded></feat><feat><name>Claws</name><text>Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you can deal slashing damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+</text><expanded>0</expanded></feat><feat><name>Hunter&#39;s Instincts</name><text>You have proficiency in one of the following skills of your choice: Athletics, Intimidation, Perception, or Survival.
+</text><expanded>0</expanded></feat><feat><name>Daunting Roar</name><text>As a bonus action, you can let out an especially menacing roar. Creatures of your choice within 10 feet of you that can hear you must succeed on a Wisdom saving throw or become frightened of you until the end of your next turn. The DC of the save equals 8 + your proficiency bonus + your Constitution modifier. Once you use this trait, you can&#39;t use it again until you finish a short or long rest.
+</text><expanded>0</expanded></feat><feat><name>Languages</name><text>You can speak, read, and write Common and Leonin.
+</text><expanded>0</expanded></feat><mod><category>1</category><type>1</type><value>2</value></mod><mod><category>1</category><type>4</type><value>1</value></mod></race><class><id>7942</id><name>Ranger</name><level>6</level><hd>3</hd><hdCurrent>6</hdCurrent><wealth>5d4x10</wealth><proficiency>101</proficiency><proficiency>110</proficiency><proficiency>0</proficiency><proficiency>1</proficiency><numClassSkills>3</numClassSkills><armor>light armor, medium armor, shields</armor><weapons>simple weapons, martial weapons</weapons><tools>none</tools><slots>0,4,2,0,0,0,0,0,0,0,</slots><slotsCurrent>0,3,0,0,0,0,0,0,0,0,</slotsCurrent><feat><name>Starting Ranger</name><text>As a 1st-level Ranger, you begin play with 10 + your Constitution modifier hit points.
+
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+
+	• Armor: light armor, medium armor, shields
+	• Weapons: simple weapons, martial weapons
+	• Tools: none
+	• Skills: Choose 3 from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival
+
+You begin play with the following equipment, in addition to any equipment provided by your background.
+
+	• (a) scale mail or (b) leather armor
+	• (a) two shortsword or (b) two simple melee weapons
+	• (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack
+	• A longbow and a quiver of arrows (20)
+
+Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
+
+Source:	Player&#39;s Handbook p. 89</text><optional>1</optional></feat><feat><name>Favored Enemy</name><text>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
+
+Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnoll and orc) as favored enemies.
+
+You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
+
+When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
+
+You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
+
+Source:	Player&#39;s Handbook p. 91</text></feat><feat><name>Natural Explorer</name><text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you&#39;re proficient in.
+
+While traveling for an hour or more in your favored terrain, you gain the following benefits:
+
+	• Difficult terrain doesn&#39;t slow your group&#39;s travel.
+	• Your group can&#39;t become lost except by magical means.
+	• Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+	• If you are traveling alone, you can move stealthily at a normal pace.
+	• When you forage, you find twice as much food as you normally would.
+	• While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+
+You choose additional favored terrain types at 6th and 10th level.
+
+Source:	Player&#39;s Handbook p. 91</text></feat><feat><name>Favored Foe</name><text>1st-level ranger optional class features, which replaces the Favored Enemy feature and works with the Foe Slayer feature
+
+When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell).
+
+The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by 1d4.
+
+You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+This feature&#39;s extra damage increases when you reach certain levels in this class: to 1d6 at 6th level and to 1d8 at 14th level.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 56</text><expanded>0</expanded></feat><feat><name>Deft Explorer</name><text>1st-level ranger optional class features, which replaces the Natural Explorer feature
+
+You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 56</text></feat><feat><name>Deft Explorer: Canny (1st Level)</name><text>Choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen skill.
+
+You can also speak, read, and write two additional languages of your choice.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 56</text><optional>1</optional></feat><feat><name>Fighting Style</name><text>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can&#39;t take a Fighting Style option more than once, even if you later get to choose again.
+
+Source:	Player&#39;s Handbook p. 91</text></feat><feat><name>Fighting Style: Archery</name><text>You gain a +2 bonus to attack rolls you make with ranged weapons.
+
+Source:	Player&#39;s Handbook p. 91</text><optional>1</optional><mod><type>5</type><value>2</value></mod><special>0</special></feat><feat><name>Spellcasting</name><text>By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of spellcasting and chapter 11 for the ranger spell list.
+
+Spell Slots:
+The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell&#39;s level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell animal friendship and have a 1st-level and a 2nd-level spell slot available, you can cast animal friendship using either slot.
+
+Spells Known of 1st Level and Higher:
+You know two 1st-level spells of your choice from the ranger spell list.
+
+The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.
+
+Spellcasting Ability:
+Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
+
+Ranger Spells Known
+Level | Spells Known
+1 | -
+2 | 2
+3 | 3
+4 | 3
+5 | 4
+6 | 4
+7 | 5
+8 | 5
+9 | 6
+10 | 6
+11 | 7
+12 | 7
+13 | 8
+14 | 8
+15 | 9
+16 | 9
+17 | 10
+18 | 10
+19 | 11
+20 | 11
+
+Source:	Player&#39;s Handbook p. 91</text></feat><feat><name>Spellcasting Focus</name><text>2nd-level ranger optional class features
+You can use a druidic focus as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 56</text><expanded>0</expanded></feat><feat><name>Primeval Awareness</name><text>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn&#39;t reveal the creatures&#39; location or number.
+
+Source:	Player&#39;s Handbook p. 89</text><expanded>0</expanded></feat><feat><name>Ranger Archetype</name><text>At 3rd level, you choose an archetype that you strive to emulate from the list of available archetypes. Your choice grants features at 3rd level, and again at 7th, 11th, and 15th level.
+
+Source:	Player&#39;s Handbook p. 89</text><expanded>0</expanded></feat><feat><name>Ranger Archetype: Beast Master</name><text>The Beast Master archetype embodies a friendship between the civilized races and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with an animal as its companion and friend.
+
+Source:	Player&#39;s Handbook p. 93</text><expanded>0</expanded><optional>1</optional></feat><feat><name>Beast Master: Ranger&#39;s Companion</name><text>You gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast&#39;s AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher. Like any creature, the beast can spend Hit Dice during a short rest.
+
+The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, or Help action. If you don&#39;t issue a command, the beast takes the Dodge action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action.
+
+If you are incapacitated or absent, your beast companion acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack.
+
+While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.
+
+If the beast dies, you can obtain another one by spending 8 hours magically bonding with another beast that isn&#39;t hostile to you, either the same type of beast as before or a different one.
+
+Source:	Player&#39;s Handbook p. 93</text><expanded>0</expanded><optional>1</optional></feat><feat><name>Primal Awareness</name><text>3rd-level ranger optional class features, which replaces the Primeval Awareness feature
+
+You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don&#39;t already know them, as shown in the Primal Awareness Spells table. These spells don&#39;t count against the number of ranger spells you know.
+
+Primal Awareness Spells:
+Ranger Level | Spell
+3rd | speak with animals
+5th | beast sense
+9th | speak with plants
+13th | locate creature
+17th | commune with nature
+You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can&#39;t do so again until you finish a long rest.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 56</text><expanded>0</expanded></feat><feat><name>Ability Score Improvement</name><text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+Source:	Player&#39;s Handbook p. 89</text><expanded>0</expanded></feat><feat><name>Martial Versatility</name><text>4th-level ranger optional class features
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 57</text><expanded>0</expanded></feat><feat><name>Extra Attack</name><text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+Source:	Player&#39;s Handbook (2014) p. 89</text><expanded>0</expanded></feat><feat><name>Favored Enemy Improvement</name><text>At 6th level, you choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures.
+
+Source:	Player&#39;s Handbook (2014) p. 89</text><expanded>0</expanded></feat><feat><name>Natural Explorer Improvement</name><text>At 6th level, you gain an additional favored terrain.
+
+Source:	Player&#39;s Handbook (2014) p. 89</text><expanded>0</expanded></feat><tracker><label>Detect Portal</label><resetType>1</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Spells Known</label><value>4</value><formula>4</formula></tracker><mod><name>Ability Score Improvement (4th Level)</name><category>1</category><type>5</type><value>1</value></mod><mod><name>Ability Score Improvement (4th Level)</name><category>1</category><type>3</type><value>1</value></mod><autolevel><slots>0,0,0,0,0,0,0,0,0,0,</slots><feat><name>Starting Ranger</name><text>As a 1st-level Ranger, you begin play with 10 + your Constitution modifier hit points.
+
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+
+	• Armor: light armor, medium armor, shields
+	• Weapons: simple weapons, martial weapons
+	• Tools: none
+	• Skills: Choose 3 from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth, Survival
+
+You begin play with the following equipment, in addition to any equipment provided by your background.
+
+	• (a) scale mail or (b) leather armor
+	• (a) two shortsword or (b) two simple melee weapons
+	• (a) a dungeoneer&#39;s pack or (b) an explorer&#39;s pack
+	• A longbow and a quiver of arrows (20)
+
+Alternatively, you may start with 5d4 × 10 gp and choose your own equipment.
+
+Source:	Player&#39;s Handbook p. 89</text><optional>1</optional></feat><feat><name>Multiclass Ranger</name><text>If your group uses the optional rule on multiclassing in the Player&#39;s Handbook, here&#39;s what you need to know if you choose ranger as one of your classes.
+
+Ability Score Minimum:
+As a multiclass character, you must have at least the following ability score(s) to take a level in this class, or to take a level in another class if you are already a ranger.
+
+	• Dexterity 13
+	• Wisdom 13
+
+Proficiencies Gained:
+If ranger isn&#39;t your initial class, here are the proficiencies you gain when you take your first level as a ranger.
+
+	• Armor: light armor, medium armor, shields
+	• Weapons: simple weapons, martial weapons
+	• Tools: none
+	• Skills: Choose 1 from Animal Handling, Athletics, Insight, Investigation, Nature, Perception, Stealth and Survival.
+
+Source:	Player&#39;s Handbook p. 89</text><optional>1</optional></feat><feat><name>Favored Enemy</name><text>Beginning at 1st level, you have significant experience studying, tracking, hunting, and even talking to a certain type of enemy.
+
+Choose a type of favored enemy: aberrations, beasts, celestials, constructs, dragons, elementals, fey, fiends, giants, monstrosities, oozes, plants, or undead. Alternatively, you can select two races of humanoid (such as gnoll and orc) as favored enemies.
+
+You have advantage on Wisdom (Survival) checks to track your favored enemies, as well as on Intelligence checks to recall information about them.
+
+When you gain this feature, you also learn one language of your choice that is spoken by your favored enemies, if they speak one at all.
+
+You choose one additional favored enemy, as well as an associated language, at 6th and 14th level. As you gain levels, your choices should reflect the types of monsters you have encountered on your adventures.
+
+Source:	Player&#39;s Handbook p. 91</text></feat><feat><name>Natural Explorer</name><text>You are particularly familiar with one type of natural environment and are adept at traveling and surviving in such regions. Choose one type of favored terrain: arctic, coast, desert, forest, grassland, mountain, swamp, or the Underdark. When you make an Intelligence or Wisdom check related to your favored terrain, your proficiency bonus is doubled if you are using a skill that you&#39;re proficient in.
+
+While traveling for an hour or more in your favored terrain, you gain the following benefits:
+
+	• Difficult terrain doesn&#39;t slow your group&#39;s travel.
+	• Your group can&#39;t become lost except by magical means.
+	• Even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger.
+	• If you are traveling alone, you can move stealthily at a normal pace.
+	• When you forage, you find twice as much food as you normally would.
+	• While tracking other creatures, you also learn their exact number, their sizes, and how long ago they passed through the area.
+
+You choose additional favored terrain types at 6th and 10th level.
+
+Source:	Player&#39;s Handbook p. 91</text></feat><feat><name>Favored Foe</name><text>1st-level ranger optional class features, which replaces the Favored Enemy feature and works with the Foe Slayer feature
+
+When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell).
+
+The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you can increase that damage by 1d4.
+
+You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+This feature&#39;s extra damage increases when you reach certain levels in this class: to 1d6 at 6th level and to 1d8 at 14th level.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 56</text></feat><feat><name>Deft Explorer</name><text>1st-level ranger optional class features, which replaces the Natural Explorer feature
+
+You are an unsurpassed explorer and survivor, both in the wilderness and in dealing with others on your travels. You gain the Canny benefit below, and you gain an additional benefit below when you reach 6th level and 10th level in this class.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 56</text></feat><feat><name>Deft Explorer: Canny (1st Level)</name><text>Choose one of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses the chosen skill.
+
+You can also speak, read, and write two additional languages of your choice.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 56</text><optional>1</optional></feat></autolevel><autolevel><level>2</level><slots>0,2,0,0,0,0,0,0,0,0,</slots><feat><name>Fighting Style</name><text>At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can&#39;t take a Fighting Style option more than once, even if you later get to choose again.
+
+Source:	Player&#39;s Handbook p. 91</text></feat><feat><name>Fighting Style: Archery</name><text>You gain a +2 bonus to attack rolls you make with ranged weapons.
+
+Source:	Player&#39;s Handbook p. 91</text><optional>1</optional><mod><type>5</type><value>2</value></mod><special>0</special></feat><feat><name>Fighting Style: Defense</name><text>While you are wearing armor, you gain a +1 bonus to AC.
+
+Source:	Player&#39;s Handbook p. 91</text><optional>1</optional><special>1</special></feat><feat><name>Fighting Style: Dueling</name><text>When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+
+Source:	Player&#39;s Handbook p. 89</text><optional>1</optional><special>2</special></feat><feat><name>Fighting Style: Two-Weapon Fighting</name><text>When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+
+Source:	Player&#39;s Handbook p. 89</text><optional>1</optional><special>11</special></feat><feat><name>Spellcasting</name><text>By the time you reach 2nd level, you have learned to use the magical essence of nature to cast spells, much as a druid does. See chapter 10 for the general rules of spellcasting and chapter 11 for the ranger spell list.
+
+Spell Slots:
+The Ranger table shows how many spell slots you have to cast your ranger spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell&#39;s level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell animal friendship and have a 1st-level and a 2nd-level spell slot available, you can cast animal friendship using either slot.
+
+Spells Known of 1st Level and Higher:
+You know two 1st-level spells of your choice from the ranger spell list.
+
+The Spells Known column of the Ranger table shows when you learn more ranger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the ranger spells you know and replace it with another spell from the ranger spell list, which also must be of a level for which you have spell slots.
+
+Spellcasting Ability:
+Wisdom is your spellcasting ability for your ranger spells, since your magic draws on your attunement to nature. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
+
+Ranger Spells Known
+Level | Spells Known
+1 | -
+2 | 2
+3 | 3
+4 | 3
+5 | 4
+6 | 4
+7 | 5
+8 | 5
+9 | 6
+10 | 6
+11 | 7
+12 | 7
+13 | 8
+14 | 8
+15 | 9
+16 | 9
+17 | 10
+18 | 10
+19 | 11
+20 | 11
+
+Source:	Player&#39;s Handbook p. 91</text></feat><feat><name>Fighting Style: Blind Fighting</name><text>You have blindsight with a range of 10 feet. Within that range, you can effectively see anything that isn&#39;t behind total cover, even if you&#39;re blinded or in darkness. Moreover, you can see an invisible creature within that range, unless the creature successfully hides from you.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 57</text><optional>1</optional></feat><feat><name>Fighting Style: Druidic Warrior</name><text>You learn two cantrips of your choice from the druid spell list. They count as ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a level in this class, you can replace one of these cantrips with another cantrip from the druid spell list.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 57</text><optional>1</optional></feat><feat><name>Fighting Style: Thrown Weapon Fighting</name><text>You can draw a weapon that has the thrown property as part of the attack you make with the weapon.
+
+In addition, when you hit with a ranged attack using a thrown weapon, you gain a +2 bonus to the damage roll.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 57</text><optional>1</optional></feat><feat><name>Spellcasting Focus</name><text>2nd-level ranger optional class features
+You can use a druidic focus as a spellcasting focus for your ranger spells. A druidic focus might be a sprig of mistletoe or holly, a wand or rod made of yew or another special wood, a staff drawn whole from a living tree, or an object incorporating feathers, fur, bones, and teeth from sacred animals.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 56</text></feat><feat><name>Fighting Style: Close Quarters Shooter (UA)</name><text>When making a ranged attack while you are within 5 feet of a hostile creature, you do not have disadvantage on the attack roll. Your ranged attacks ignore half cover and three-quarters cover against targets within 30 feet of you. You have a +1 bonus to attack rolls on ranged attacks.
+
+Source:	Unearthed Arcana: Light Dark Underdark p. 89</text><optional>1</optional><mod><type>5</type><value>1</value></mod></feat><feat><name>Fighting Style: Tunnel Fighter (UA)</name><text>As a bonus action, you can enter a defensive stance that lasts until the start of your next turn. While in your defensive stance, you can make opportunity attacks without using your reaction, and you can use your reaction to make a melee attack against a creature that moves more than 5 feet while within your reach.
+
+Source:	Unearthed Arcana: Light Dark Underdark p. 89</text><optional>1</optional></feat><feat><name>Fighting Style: Mariner (UA)</name><text>As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.
+
+Source:	Unearthed Arcana: Waterborne Adventures p. 3</text><optional>1</optional></feat></autolevel><autolevel><level>3</level><slots>0,3,0,0,0,0,0,0,0,0,</slots><feat><name>Primeval Awareness</name><text>Beginning at 3rd level, you can use your action and expend one ranger spell slot to focus your awareness on the region around you. For 1 minute per level of the spell slot you expend, you can sense whether the following types of creatures are present within 1 mile of you (or within up to 6 miles if you are in your favored terrain): aberrations, celestials, dragons, elementals, fey, fiends, and undead. This feature doesn&#39;t reveal the creatures&#39; location or number.
+
+Source:	Player&#39;s Handbook p. 89</text></feat><feat><name>Ranger Archetype</name><text>At 3rd level, you choose an archetype that you strive to emulate from the list of available archetypes. Your choice grants features at 3rd level, and again at 7th, 11th, and 15th level.
+
+Source:	Player&#39;s Handbook p. 89</text></feat><feat><name>Ranger Archetype: Beast Master</name><text>The Beast Master archetype embodies a friendship between the civilized races and the beasts of the world. United in focus, beast and ranger work as one to fight the monstrous foes that threaten civilization and the wilderness alike. Emulating the Beast Master archetype means committing yourself to this ideal, working in partnership with an animal as its companion and friend.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Beast Master: Ranger&#39;s Companion</name><text>You gain a beast companion that accompanies you on your adventures and is trained to fight alongside you. Choose a beast that is no larger than Medium and that has a challenge rating of 1/4 or lower. Add your proficiency bonus to the beast&#39;s AC, attack rolls, and damage rolls, as well as to any saving throws and skills it is proficient in. Its hit point maximum equals its normal maximum or four times your ranger level, whichever is higher. Like any creature, the beast can spend Hit Dice during a short rest.
+
+The beast obeys your commands as best as it can. It takes its turn on your initiative. On your turn, you can verbally command the beast where to move (no action required by you). You can use your action to verbally command it to take the Attack, Dash, Disengage, or Help action. If you don&#39;t issue a command, the beast takes the Dodge action. Once you have the Extra Attack feature, you can make one weapon attack yourself when you command the beast to take the Attack action.
+
+If you are incapacitated or absent, your beast companion acts on its own, focusing on protecting you and itself. It never requires your command to use its reaction, such as when making an opportunity attack.
+
+While traveling through your favored terrain with only the beast, you can move stealthily at a normal pace.
+
+If the beast dies, you can obtain another one by spending 8 hours magically bonding with another beast that isn&#39;t hostile to you, either the same type of beast as before or a different one.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Ranger Archetype: Hunter</name><text>Emulating the Hunter archetype means accepting your place as a bulwark between civilization and the terrors of the wilderness. As you walk the Hunter&#39;s path, you learn specialized techniques for fighting the threats you face, from rampaging ogres and hordes of orcs to towering giants and terrifying dragons.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Hunter: Hunter&#39;s Prey</name><text>At 3rd level, you gain one of the following features of your choice.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Hunter&#39;s Prey: Colossus Slayer</name><text>Your tenacity can wear down the most potent foes. When you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it&#39;s below its hit point maximum. You can deal this extra damage only once per turn.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Hunter&#39;s Prey: Horde Breaker</name><text>Once on each of your turns when you make a weapon attack, you can make another attack with the same weapon against a different creature that is within 5 feet of the original target and within range of your weapon.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Hunter&#39;s Prey: Giant Killer</name><text>When a Large or larger creature within 5 feet of you hits or misses you with an attack, you can use your reaction to attack that creature immediately after its attack, provided that you can see the creature.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Ranger Archetype: Gloom Stalker</name><text>Gloom Stalkers are at home in the darkest places: deep under the earth, in gloomy alleyways, in primeval forests, and wherever else the light dims. Most folk enter such places with trepidation, but a Gloom Stalker ventures boldly into the darkness, seeking to ambush threats before they can reach the broader world. Such rangers are often found in the Underdark, but they will go any place where evil lurks in the shadows.
+
+Source:	Xanathar&#39;s Guide to Everything p. 41</text><optional>1</optional></feat><feat><name>Gloom Stalker: Gloom Stalker Magic</name><text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Gloom Stalker Spells table. The spell counts as a ranger spell for you, but it doesn&#39;t count against the number of ranger spells you know.
+
+Gloom Stalker Spells:
+Ranger Level | Spells
+3rd | disguise self
+5th | rope trick
+9th | fear
+13th | greater invisibility
+17th | seeming
+
+Source:	Xanathar&#39;s Guide to Everything p. 41</text><optional>1</optional></feat><feat><name>Gloom Stalker: Dread Ambusher</name><text>At 3rd level, you master the art of the ambush. You can give yourself a bonus to your initiative rolls equal to your Wisdom modifier.
+
+At the start of your first turn of each combat, your walking speed increases by 10 feet, which lasts until the end of that turn. If you take the Attack action on that turn, you can make one additional weapon attack as part of that action. If that attack hits, the target takes an extra 1d8 damage of the weapon&#39;s damage type.
+
+Source:	Xanathar&#39;s Guide to Everything p. 41</text><optional>1</optional></feat><feat><name>Gloom Stalker: Umbral Sight</name><text>At 3rd level, you gain darkvision out to a range of 60 feet. If you already have darkvision from your race, its range increases by 30 feet.
+
+You are also adept at evading creatures that rely on darkvision. While in darkness, you are invisible to any creature that relies on darkvision to see you in that darkness.
+
+Source:	Xanathar&#39;s Guide to Everything p. 41</text><optional>1</optional></feat><feat><name>Ranger Archetype: Horizon Walker</name><text>Horizon Walkers guard the world against threats that originate from other planes or that seek to ravage the mortal realm with otherworldly magic. They seek out planar portals and keep watch over them, venturing to the Inner Planes and the Outer Planes as needed to pursue their foes. These rangers are also friends to any forces in the multiverse—especially benevolent dragons, fey, and elementals—that work to preserve life and the order of the planes.
+
+Source:	Xanathar&#39;s Guide to Everything p. 42</text><optional>1</optional></feat><feat><name>Horizon Walker: Horizon Walker Magic</name><text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Horizon Walker Spells table. The spell counts as a ranger spell for you, but it doesn&#39;t count against the number of ranger spells you know.
+
+Horizon Walker Spells:
+Ranger Level | Spells
+3rd | protection from evil and good
+5th | misty step
+9th | haste
+13th | banishment
+17th | teleportation circle
+
+Source:	Xanathar&#39;s Guide to Everything p. 42</text><optional>1</optional></feat><feat><name>Horizon Walker: Detect Portal</name><text>At 3rd level, you gain the ability to magically sense the presence of a planar portal. As an action, you detect the distance and direction to the closest planar portal within 1 mile of you.
+
+Once you use this feature, you can&#39;t use it again until you finish a short or long rest.
+
+See the &#34;Planar Travel&#34; section in chapter 2 of the Dungeon Master&#39;s Guide for examples of planar portals.
+
+Source:	Xanathar&#39;s Guide to Everything p. 42</text><optional>1</optional></feat><feat><name>Horizon Walker: Planar Warrior</name><text>At 3rd level, you learn to draw on the energy of the multiverse to augment your attacks.
+
+As a bonus action, choose one creature you can see within 30 feet of you. The next time you hit that creature on this turn with a weapon attack, all damage dealt by the attack becomes force damage, and the creature takes an extra 1d8 force damage from the attack. When you reach 11th level in this class, the extra damage increases to 2d8.
+
+Source:	Xanathar&#39;s Guide to Everything p. 42</text><optional>1</optional></feat><feat><name>Ranger Archetype: Monster Slayer</name><text>You have dedicated yourself to hunting down creatures of the night and wielders of grim magic. A Monster Slayer seeks out vampires, dragons, evil fey, fiends, and other magical threats. Trained in supernatural techniques to overcome such monsters, slayers are experts at unearthing and defeating mighty, mystical foes.
+
+Source:	Xanathar&#39;s Guide to Everything p. 43</text><optional>1</optional></feat><feat><name>Monster Slayer: Monster Slayer Magic</name><text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Monster Slayer Spells table. The spell counts as a ranger spell for you, but it doesn&#39;t count against the number of ranger spells you know.
+
+Monster Slayer Spells:
+Ranger Level | Spells
+3rd | protection from evil and good
+5th | zone of truth
+9th | magic circle
+13th | banishment
+17th | hold monster
+
+Source:	Xanathar&#39;s Guide to Everything p. 43</text><optional>1</optional></feat><feat><name>Monster Slayer: Hunter&#39;s Sense</name><text>At 3rd level, you gain the ability to peer at a creature and magically discern how best to hurt it. As an action, choose one creature you can see within 60 feet of you. You immediately learn whether the creature has any damage immunities, resistances, or vulnerabilities and what they are. If the creature is hidden from divination magic, you sense that it has no damage immunities, resistances, or vulnerabilities.
+
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once). You regain all expended uses of it when you finish a long rest.
+
+Source:	Xanathar&#39;s Guide to Everything p. 43</text><optional>1</optional></feat><feat><name>Monster Slayer: Slayer&#39;s Prey</name><text>Starting at 3rd level, you can focus your ire on one foe, increasing the harm you inflict on it. As a bonus action, you designate one creature you can see within 60 feet of you as the target of this feature. The first time each turn that you hit that target with a weapon attack, it takes an extra 1d6 damage from the weapon.
+
+This benefit lasts until you finish a short or long rest. It ends early if you designate a different creature.
+
+Source:	Xanathar&#39;s Guide to Everything p. 43</text><optional>1</optional></feat><feat><name>Ranger Archetype: Fey Wanderer</name><text>A fey mystique surrounds you, thanks to the boon of an archfey, the shining fruit you ate from a talking tree, the magic spring you swam in, or some other auspicious event. However you acquired your fey magic, you are now a Fey Wanderer, a ranger who represents both the mortal and the fey realms. As you wander the multiverse, your joyful laughter brightens the hearts of the downtrodden, and your martial prowess strikes terror in your foes, for great is the mirth of the fey and dreadful is their fury.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 58</text><optional>1</optional></feat><feat><name>Fey Wanderer: Fey Wanderer Magic</name><text>3rd-level Fey Wanderer feature
+
+You learn an additional spell when you reach certain levels in this class, as shown in the Fey Wanderer Spells table. Each spell counts as a ranger spell for you, but it doesn&#39;t count against the number of ranger spells you know.
+
+Fey Wanderer Spells:
+Ranger Level | Spells
+3rd | charm person
+5th | misty step
+9th | dispel magic
+13th | dimension door
+17th | mislead
+You also possess a preternatural blessing from a fey ally or a place of fey power. Choose your blessing from the Feywild Gifts table or determine it randomly.
+
+Feywild Gifts:
+d6 | Gift
+1 | Illusory butterflies flutter around you while you take a short or long rest.
+2 | Fresh, seasonal flowers sprout from your hair each dawn.
+3 | You faintly smell of cinnamon, lavender, nutmeg, or another comforting herb or spice.
+4 | Your shadow dances while no one is looking directly at it.
+5 | Horns or antlers sprout from your head.
+6 | Your skin and hair change color to match the season at each dawn.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 58</text><optional>1</optional></feat><feat><name>Fey Wanderer: Dreadful Strikes</name><text>3rd-level Fey Wanderer feature
+
+You can augment your weapon strikes with mind-scarring magic, drawn from the gloomy hollows of the Feywild. When you hit a creature with a weapon, you can deal an extra 1d4 psychic damage to the target, which can take this extra damage only once per turn.
+
+The extra damage increases to 1d6 when you reach 11th level in this class.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 58</text><optional>1</optional></feat><feat><name>Fey Wanderer: Otherworldly Glamour</name><text>3rd-level Fey Wanderer feature
+
+Your fey qualities give you a supernatural charm. As a result, whenever you make a Charisma check, you gain a bonus to the check equal to your Wisdom modifier (minimum of +1).
+
+In addition, you gain proficiency in one of the following skills of your choice: Deception, Performance, or Persuasion.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 58</text><optional>1</optional></feat><feat><name>Ranger Archetype: Swarmkeeper</name><text>Feeling a deep connection to the environment around them, some rangers reach out through their magical connection to the world and bond with a swarm of nature spirits. The swarm becomes a potent force in battle, as well as helpful company for the ranger. Some Swarmkeepers are outcasts or hermits, keeping to themselves and their attendant swarms rather than dealing with the discomfort of others. Other Swarmkeepers enjoy building vibrant communities that work for the mutual benefit of all those they consider part of their swarm.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 59</text><optional>1</optional></feat><feat><name>Swarmkeeper: Swarmkeeper Magic</name><text>3rd-level Swarmkeeper feature
+
+You learn the mage hand cantrip if you don&#39;t already know it. When you cast it, the hand takes the form of your swarming nature spirits.
+
+You also learn an additional spell of 1st level or higher when you reach certain levels in this class, as shown in the Swarmkeeper Spells table. Each spell counts as a ranger spell for you, but it doesn&#39;t count against the number of ranger spells you know.
+
+Swarmkeeper Spells:
+Ranger Level | Spells
+3rd | faerie fire
+5th | web
+9th | gaseous form
+13th | arcane eye
+17th | insect plague
+
+Source:	Tasha&#39;s Cauldron of Everything p. 59</text><optional>1</optional></feat><feat><name>Swarmkeeper: Gathered Swarm</name><text>3rd-level Swarmkeeper feature
+
+A swarm of intangible nature spirits has bonded itself to you and can assist you in battle. Until you die, the swarm remains in your space, crawling on you or flying and skittering around you within your space. You determine its appearance, or you generate its appearance by rolling on the Swarm Appearance table.
+
+Swarm Appearance:
+d4 | Appearance
+1 | Swarming insects
+2 | Miniature twig blights
+3 | Fluttering birds
+4 | Playful pixies
+
+Once on each of your turns, you can cause the swarm to assist you in one of the following ways, immediately after you hit a creature with an attack:
+
+	• The attack&#39;s target takes 1d6 piercing damage from the swarm.
+	• The attack&#39;s target must succeed on a Strength saving throw against your spell save DC or be moved by the swarm up to 15 feet horizontally in a direction of your choice.
+	• You are moved by the swarm 5 feet horizontally in a direction of your choice.
+
+Swarmkeeper: It&#39;s Your Swarm
+A Swarmkeeper&#39;s swarm and spells are reflections of the character&#39;s bond with nature spirits. Take the opportunity to describe the swarm and the ranger&#39;s magic in play. For example, when your ranger casts gaseous form, they might appear to melt into the swarm, instead of a cloud of mist, or the arcane eye spell could create an extension of your swarm that spies for you. Such descriptions don&#39;t change the effects of spells, but they are an exciting opportunity to explore your character&#39;s narrative through their class abilities. For more guidance on customizing spells, see the &#34;Personalizing Spells&#34; section in chapter 3.
+
+Also, remember that the swarm&#39;s appearance is yours to customize, and don&#39;t feel confined to a single appearance. Perhaps the spirits&#39; look changes with the ranger&#39;s mood or with the seasons. You decide!
+
+Source:	Tasha&#39;s Cauldron of Everything p. 59</text><optional>1</optional></feat><feat><name>Primal Awareness</name><text>3rd-level ranger optional class features, which replaces the Primeval Awareness feature
+
+You can focus your awareness through the interconnections of nature: you learn additional spells when you reach certain levels in this class if you don&#39;t already know them, as shown in the Primal Awareness Spells table. These spells don&#39;t count against the number of ranger spells you know.
+
+Primal Awareness Spells:
+Ranger Level | Spell
+3rd | speak with animals
+5th | beast sense
+9th | speak with plants
+13th | locate creature
+17th | commune with nature
+You can cast each of these spells once without expending a spell slot. Once you cast a spell in this way, you can&#39;t do so again until you finish a long rest.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 56</text></feat><feat><name>Beast Master: Primal Companion</name><text>3rd-level ranger optional class features, which replaces the Ranger&#39;s Companion feature.
+
+You magically summon a primal beast, which draws strength from your bond with nature. The beast is friendly to you and your companions and obeys your commands. Choose its stat block—Beast of the Land, Beast of the Sea, or Beast of the Sky—which uses your proficiency bonus (PB) in several places. You also determine the kind of animal the beast is, choosing a kind appropriate for the stat block. Whatever kind you choose, the beast bears primal markings, indicating its mystical origin.
+
+In combat, the beast acts during your turn. It can move and use its reaction on its own, but the only action it takes is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Attack action. If you are incapacitated, the beast can take any action of its choice, not just Dodge.
+
+If the beast has died within the last hour, you can use your action to touch it and expend a spell slot of 1st level or higher. The beast returns to life after 1 minute with all its hit points restored.
+
+When you finish a long rest, you can summon a different primal beast. The new beast appears in an unoccupied space within 5 feet of you, and you choose its stat block and appearance. If you already have a beast from this feature, it vanishes when the new beast appears. The beast also vanishes if you die.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 61</text><optional>1</optional></feat><feat><name>Ranger Archetype: Drakewarden</name><text>Your connection to the natural world takes the form of a draconic spirit, which can manifest in physical form as a drake. As your powers grow, your drake grows as well, blossoming from a small four-legged companion to a majestic winged creature large and strong enough for you to ride. Along the way, you gain an increasing share of the awe-inspiring power of dragons.
+
+Consider the source of the draconic spirit you have bonded with. The Drakewarden Origin table offers examples.
+
+d6 | Origin
+1 | You studied a dragon&#39;s scale or claw, or a trinket from a dragon&#39;s hoard, creating your bond through that token&#39;s lingering draconic magic.
+2 | A secret order of rangers who collect and guard draconic lore taught you their ways.
+3 | A dragon gave you a geode or gemstone to care for. To your surprise, the drake hatched from that stone.
+4 | You ingested a few drops of dragon blood, forever infusing your nature magic with draconic power.
+5 | An ancient Draconic inscription on a standing stone empowered you when you read it aloud.
+6 | You had a vivid dream of a mysterious figure accompanied by seven yellow canaries, who warned you of impending doom. When you awoke, your drake was there, watching you.
+
+Source:	Fizban&#39;s Treasury of Dragons p. 15</text><optional>1</optional></feat><feat><name>Drakewarden: Draconic Gift</name><text>At 3rd level, the bond you share with your drake creates a connection to dragonkind, granting you understanding and empowering your presence. You gain the following benefits:
+
+	• Thaumaturgy. You learn the thaumaturgy cantrip, which is a ranger spell for you.
+
+ 	• Tongue of Dragons. You learn to speak, read, and write Draconic or one other language of your choice.
+
+Source:	Fizban&#39;s Treasury of Dragons p. 15</text><optional>1</optional></feat><feat><name>Drakewarden: Drake Companion</name><text>At 3rd level, as an action, you can magically summon the drake that is bound to you. It appears in an unoccupied space of your choice within 30 feet of you.
+
+The drake is friendly to you and your companions, and it obeys your commands. See its game statistics in the accompanying Drake Companion stat block, which uses your proficiency bonus (PB) in several places. Whenever you summon the drake, choose a damage type listed in its Draconic Essence trait. You can determine the cosmetic characteristics of the drake, such as its color, its scale texture, or any visible effect of its Draconic Essence; your choice has no effect on its game statistics.
+
+In combat, the drake shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the drake can take any action of its choice, not just Dodge.
+
+The drake remains until it is reduced to 0 hit points, until you use this feature to summon the drake again, or until you die. Anything the drake was wearing or carrying is left behind when the drake vanishes.
+
+Once you summon the drake, you can&#39;t do so again until you finish a long rest, unless you expend a spell slot of 1st level or higher to summon it.
+
+Source:	Fizban&#39;s Treasury of Dragons p. 15</text><optional>1</optional></feat><feat><name>Ranger Archetype: Feyfriend</name><text>Those who venture into the forests deep enough might find crossroads that connect the Feyrealm and the Material Plane. Often, mischievous fey dwell around these planar breaches, and if one can express the right attitude, they can be befriended. The fey respect those who understand their nature and are willing to become life-long allies over time.
+
+In Aglarion, feyfriend rangers have horrific stories to tell about the recent hardships of the few fey who have fled the Bleak Mire. Even with the crossroads blocked to this domain, the Feyrealm itself still helps these allied rangers upkeep their valued alliances.
+
+Source:	Crown of the Oathhbreaker p. 890</text><optional>1</optional></feat><feat><name>Feyfriend: Resist Lure</name><text>Starting at 3rd level, you learn how to resist enchantments.
+
+You gain advantage on saving throws against being charmed.
+
+Source:	Crown of the Oathhbreaker p. 890</text><optional>1</optional></feat><feat><name>Feyfriend: Fey Armament</name><text>Starting at 3rd level, the fey lords grant you the armament of a sprite.
+
+As an action, you can create one of the following weapons in your empty hand:
+
+	• Shortbow of the Sprite: A creature hit by this shortbow must succeed on a DC 10 Constitution saving throw or become poisoned for 1 minute. If its saving throw result is 5 or lower, the poisoned target falls unconscious for the same duration, or until it takes damage or another creature takes an action to shake it awake.
+
+	• Sword of the Elves: This extremely sharp longsword deals an extra 1d6 slashing damage.
+
+These weapons count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage. The weapon disappears after 1 minute, if it is more than 5 feet away from you for 1 round, if you dismiss the weapon (no action required), or if you die.
+
+Once you use this feature, you can&#39;t use it again until you finish a long rest.
+
+Source:	Crown of the Oathhbreaker p. 890</text><optional>1</optional></feat><feat><name>Feyfriend: Speak with Beasts and Plants</name><text>Starting at 3rd level, you can communicate with beasts and plants as if they shared a language with you.
+
+You learn how to read, write, and speak Sylvan.
+
+Source:	Crown of the Oathhbreaker p. 891</text><optional>1</optional></feat><feat><name>Ranger Archetype: Monster Tamer</name><text>A ranger with a knack for calming and controlling beasts and creatures with bestial intelligence, the monster tamer has dedicated its life to locating and dealing with such creatures. Usually, monster tamers are called in to handle threats from the wild, but sometimes they are merely essential personnel in keeping large beasts of burden in line. Some monster tamers use their skills to subjugate animals, some to care for them and nourish them in the wild. Their favored enemies are always beasts and monstrosities. In Aglarion, tamers can be found in the countryside or as the caretakers of the Monster Menagerie in Onadbyr.
+
+Source:	Crown of the Oathhbreaker p. 891</text><optional>1</optional></feat><feat><name>Monster Tamer: Monster Tamer Magic</name><text>You learn an additional spell of 1st level or higher when you reach certain levels in this class, as shown in the Monster Tamer Spell List table. Each spell counts as a ranger spell for you, but it doesn&#39;t count against the number of ranger spells you know.
+
+Monster Tamer Spell List
+Ranger Level | Spells
+3rd | speak with animals
+5th | locate animals or plants
+9th | conjure animals
+13th | dominate beast
+17th | hold monster
+
+Source:	Crown of the Oathhbreaker p. 891</text><optional>1</optional></feat><feat><name>Monster Tamer: Bestial Affinity</name><text>Starting at 3rd level, you can use your body language and soothing sounds to calm animals and monsters.
+
+You gain advantage on Wisdom (Animal Handling) skill checks made to calm beats and monstrosities with an Intelligence score of 3 or lower.
+
+Source:	Crown of the Oathhbreaker p. 890</text><optional>1</optional></feat><feat><name>Monster Tamer: Sense Beasts</name><text>Starting at 3rd level, you can detect hostile animals and monsters.
+
+You sense the direction to the location of the highest challenge rating beast or monstrosity, and you can tell its distance from you as long as the creature is within 1,000 feet of you. If the creature is moving, you know the direction of its movement.
+
+Once you use this feature, you can&#39;t use it again until you finish a short or long rest.
+
+Source:	Crown of the Oathhbreaker p. 891</text><optional>1</optional></feat><feat><name>Ranger Archetype: Siege Beast Master</name><text>Even the largest of beasts can be subdued and harnessed as siege weapons by a ranger of this enclave. A siege beast&#39;s power lies in its sheer size and ability to smash down walls or destroy siege weapons. As a result, they are at the forefront of armies, trampling anything and anyone who crosses their path, often serving as mounts for their ranger companions. Once bonded to a ranger, the siege beast becomes a force of devastation, gaining some magical abilities from its companion.
+
+Source:	Crown of the Oathhbreaker p. 892</text><optional>1</optional></feat><feat><name>Siege Beast Master: Beast Companion</name><text>Starting at 3rd level, you gain a beast companion that fights beside you.
+
+Choose a beast that is no larger than Large size and that has a challenge rating of 1 or lower. The beast obeys your commands and takes its turn on your initiative. On your turn, you can command the beast where to move or what actions to take, which require no actions on your part. If you are incapacitated or absent, the beast has free will and protects you and itself. If the beast dies, you can obtain another one by spending 8 hours to befriend another non-hostile beast.
+
+Source:	Crown of the Oathhbreaker p. 892</text><optional>1</optional></feat><feat><name>Ranger Archetype: Drakewarden (UA)</name><text>Drakewardens are rangers who use their magical connection with nature to form an enduring bond with a minor dragon, a drake. This bond allows the ranger to summon the drake to their side and to share in the awe-inspiring power wielded by dragons. Consider how your ranger gained their bond with the drake. The Drakewarden Origin table offers some examples.
+
+d6 | Origin
+1 | You studied a dragon&#39;s scale or claw, or a trinket from its hoard, and created your bond through the token&#39;s lingering draconic magic.
+2 | A secret order of rangers who collect and guard draconic lore taught you their ways.
+3 | A true dragon gave you a drake egg to care for. When it hatched, the drake bonded to you.
+4 | You drank a few drops of dragon blood, forever infusing your nature magic with draconic power.
+5 | An ancient Draconic inscription on a standing stone empowered you when you read it aloud.
+6 | You had a vivid dream of a mysterious man, accompanied by seven yellow canaries, who warned you of impending doom. When you awoke, your drake was there, watching you.
+
+Source:	Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text><optional>1</optional></feat><feat><name>Drakewarden (UA): Draconic Gift</name><text>3rd-level Drakewarden feature
+
+The bond you share with your drake creates a deeper connection to dragon kind, granting you understanding and empowering your presence. You gain the following benefits:
+
+	• If you can&#39;t already, you learn to speak, read, and write Draconic.
+	• You learn the thaumaturgy cantrip, which is a ranger spell for you.
+
+Source:	Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text><optional>1</optional></feat><feat><name>Drakewarden (UA): Drake Companion</name><text>3rd-level Drakewarden feature
+
+You can magically summon the drake bound to you. As an action, you can summon the drake, which appears in an unoccupied space of your choice that you can see within 30 feet of you.
+
+The drake is friendly to you and your companions and obeys your commands. See its game statistics in the Drake Companion stat block, which uses your proficiency bonus (PB) in several places. When you summon the drake, choose a damage type listed in its Draconic Essence trait. You can determine the cosmetic characteristics of the drake such as its color, scale texture, or any visible effect of its Draconic Essence; your choice has no effect on its game statistics.
+
+In combat, the drake shares your initiative count, but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action, unless you take a bonus action on your turn to command it to take another action. That action can be one in its stat block or some other action. If you are incapacitated, the drake can take any action of its choice, not just Dodge.
+
+Once you summon the drake, you can&#39;t do so again until you finish a long rest, unless you expend a spell slot of 1st level or higher to summon it.
+
+The drake remains for a number of hours equal to your proficiency bonus, until it is reduced to 0 hit points, until you use this feature to summon the drake again, or until you die. Anything the drake was wearing or carrying is left behind when the drake vanishes.
+
+Source:	Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text><optional>1</optional></feat><feat><name>Ranger Archetype: Primeval Guardian (UA)</name><text>Rangers of the Primeval Guardian Conclave follow an ancient tradition rooted in powerful druidic magic. These rangers learn to become one with nature, allowing them to channel the aspects of various beasts and plants in order to overcome their foes.
+
+These rangers dwell in the elder forests of the world. They venture out only rarely, as they consider it their sacred duty to protect the druidic groves and ancient trees that saw the earliest days of the world.
+
+Source:	Unearthed Arcana: Ranger And Rogue p. 2</text><optional>1</optional></feat><feat><name>Primeval Guardian (UA): Guardian Magic</name><text>Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Primeval Guardian Spells table. The spell counts as a ranger spell for you, and it doesn&#39;t count against the number of ranger spells you know.
+
+Primeval Guardian Spells:
+Ranger Level | Spells
+3rd | entangle
+5th | enhance ability
+9th | conjure animals
+13th | giant insect
+17th | insect plague
+
+Source:	Unearthed Arcana: Ranger And Rogue p. 2</text><optional>1</optional></feat><feat><name>Primeval Guardian (UA): Guardian Soul</name><text>Starting at 3rd level, you gain the ability to temporarily grow and take on the appearance of a treelike person, covered with leaves and bark. As a bonus action, you assume this guardian form, which lasts until you end it as a bonus action or until you are incapacitated.
+
+You undergo the following changes while in your guardian form:
+
+	• Your size becomes Large, unless you were larger.
+	• Any speed you have becomes 5 feet, unless the speed was lower.
+	• Your reach increases by 5 feet.
+	• You gain a number of temporary hit points at the start of each of your turns. The number equals half your ranger level. When the form ends, you lose any temporary hit points you have from it.
+
+Source:	Unearthed Arcana: Ranger And Rogue p. 2</text><optional>1</optional></feat><feat><name>Primeval Guardian (UA): Piercing Thorns</name><text>At 3rd level, your command of primal magic allows you to enhance your attacks with thorns. Once during each of your turns, you can deal an additional 1d6 piercing damage to one creature you hit with a weapon attack.
+
+Source:	Unearthed Arcana: Ranger And Rogue p. 2</text><optional>1</optional></feat><tracker><label>Detect Portal</label><resetType>1</resetType><value>1</value><formula>1</formula></tracker></autolevel><autolevel><level>4</level><scoreImprovement>1</scoreImprovement><slots>0,3,0,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 4th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+Source:	Player&#39;s Handbook p. 89</text></feat><feat><name>Martial Versatility</name><text>4th-level ranger optional class features
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 57</text></feat></autolevel><autolevel><level>5</level><slots>0,4,2,0,0,0,0,0,0,0,</slots><feat><name>Extra Attack</name><text>Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+Source:	Player&#39;s Handbook p. 89</text></feat></autolevel><autolevel><level>6</level><slots>0,4,2,0,0,0,0,0,0,0,</slots><feat><name>Favored Enemy and Natural Explorer improvements</name><text>At 6th level, you gain an additional favored terrain.
+
+At 6th level, you choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures.
+
+Source:	Player&#39;s Handbook p. 89</text></feat><feat><name>Deft Explorer: Roving (6th Level)</name><text>Your walking speed increases by 5, and you gain a climbing speed and a swimming speed equal to your walking speed.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 56</text><optional>1</optional><mod><type>13</type><value>5</value></mod></feat></autolevel><autolevel><level>7</level><slots>0,4,3,0,0,0,0,0,0,0,</slots><feat><name>Ranger Archetype feature</name><text>At 7th level, you gain a feature granted to you by your Ranger Archetype.
+
+Source:	Player&#39;s Handbook p. 89</text></feat><feat><name>Beast Master: Exceptional Training</name><text>Beginning at 7th level, on any of your turns when your beast companion doesn&#39;t attack, you can use a bonus action to command the beast to take the Dash, Disengage, or Help action on its turn. In addition, the beast&#39;s attacks now count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Hunter: Defensive Tactics</name><text>At 7th level, you gain one of the following features of your choice.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Hunter Defensive Tactics: Escape the Horde</name><text>Opportunity attacks against you are made with disadvantage.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Hunter Defensive Tactics: Multiattack Defense</name><text>When a creature hits you with an attack, you gain a +4 bonus to AC against all subsequent attacks made by that creature for the rest of the turn.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Hunter Defensive Tactics: Steel Will</name><text>You have advantage on saving throws against being frightened.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Gloom Stalker: Iron Mind</name><text>By 7th level, you have honed your ability to resist the mind-altering powers of your prey. You gain proficiency in Wisdom saving throws. If you already have this proficiency, you instead gain proficiency in Intelligence or Charisma saving throws (your choice).
+
+Source:	Xanathar&#39;s Guide to Everything p. 41</text><optional>1</optional><proficiency>4</proficiency></feat><feat><name>Horizon Walker: Ethereal Step</name><text>At 7th level, you learn to step through the Ethereal Plane. As a bonus action, you can cast the etherealness spell with this feature, without expending a spell slot, but the spell ends at the end of the current turn.
+
+Once you use this feature, you can&#39;t use it again until you finish a short or long rest.
+
+Source:	Xanathar&#39;s Guide to Everything p. 42</text><optional>1</optional></feat><feat><name>Monster Slayer: Supernatural Defense</name><text>At 7th level, you gain extra resilience against your prey&#39;s assaults on your mind and body. Whenever the target of your Slayer&#39;s Prey forces you to make a saving throw and whenever you make an ability check to escape that target&#39;s grapple, add 1d6 to your roll.
+
+Source:	Xanathar&#39;s Guide to Everything p. 43</text><optional>1</optional></feat><feat><name>Fey Wanderer: Beguiling Twist</name><text>7th-level Fey Wanderer feature
+
+The magic of the Feywild guards your mind. You have advantage on saving throws against being charmed or frightened.
+
+In addition, whenever you or a creature you can see within 120 feet of you succeeds on a saving throw against being charmed or frightened, you can use your reaction to force a different creature you can see within 120 feet of you to make a Wisdom saving throw against your spell save DC. If the save fails, the target is charmed or frightened by you (your choice) for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a successful save.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 58</text><optional>1</optional></feat><feat><name>Swarmkeeper: Writhing Tide</name><text>7th-level Swarmkeeper feature
+
+You can condense part of your swarm into a focused mass that lifts you up. As a bonus action, you gain a flying speed of 10 feet and can hover. This effect lasts for 1 minute or until you are incapacitated.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 59</text><optional>1</optional></feat><feat><name>Drakewarden: Bond of Fang and Scale</name><text>Beginning at 7th level, the bond you share with your drake intensifies, protecting you and stoking the drake&#39;s fury. When you summon your drake, it grows wings on its back and gains a flying speed equal to its walking speed.
+
+In addition, while your drake is summoned, you and the drake gain the following benefits:
+
+	• Drake Mount. The drake grows to Medium size. Reflecting your special bond, you can use the drake as a mount if your size is Medium or smaller. While you are riding your drake, it can&#39;t use the flying speed of this feature.
+
+	• Magic Fang. The drake&#39;s Bite attack deals an extra 1d6 damage of the type chosen for the drake&#39;s Draconic Essence.
+
+	• Resistance. You gain resistance to the damage type chosen for the drake&#39;s Draconic Essence.
+
+Source:	Fizban&#39;s Treasury of Dragons p. 16</text><optional>1</optional></feat><feat><name>Feyfriend: Sprite Companion</name><text>Starting at 7th level, the Feyrealm blesses you with a faithful sprite companion.
+
+The sprite acts on its own and has its own will, but it is always loyal to you. It disappears if it reaches 0 hit points but a new sprite arrives the next dawn to replace the previous one.
+
+Source:	Crown of the Oathhbreaker p. 891</text><optional>1</optional></feat><feat><name>Monster Tamer: Master of Monsters</name><text>Starting at 7th level, your spells can affect monstrosities the same way they affect beasts.
+
+You can substitute the beast creature type with the monstrosity creature type in any of your spells.
+
+Source:	Crown of the Oathhbreaker p. 892</text><optional>1</optional></feat><feat><name>Siege Beast Master: Siege Beast Companion</name><text>Starting at 7th level, the maximum challenge rating of the beast that you can have as your companion increases to 2. Your beast companion also gains the Siege Monster trait, allowing it to deal double damage to objects and structures.
+
+Source:	Crown of the Oathhbreaker p. 892</text><optional>1</optional></feat><feat><name>Drakewarden (UA): Bond of Fang and Scale</name><text>7th-level Drakewarden feature
+
+The bond you share with your drake intensifies, protecting you and stoking the drake&#39;s fury. While your drake is summoned, you and the drake gain the following benefits:
+
+	• You gain resistance to the damage type chosen for the drake&#39;s Draconic Essence.
+	• Choose one of the following: the drake gains a swimming speed of 40 feet and can breathe both air and water, or the drake grows wings and gains a flying speed of 40 feet.
+	• The drake&#39;s bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence.
+
+Source:	Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text><optional>1</optional></feat><feat><name>Primeval Guardian (UA): Ancient Fortitude</name><text>At 7th level, you gain the endurance of the ancient forests. Your hit point maximum and current hit points increase by 2 per ranger level when you assume your guardian form. This increase lasts until you leave the form; your hit point maximum then returns to normal, but your current hit points remain the same, unless they must decrease to abide by your hit point maximum.
+
+Source:	Unearthed Arcana: Ranger And Rogue p. 2</text><optional>1</optional></feat><tracker><label>Ethereal Step</label><resetType>1</resetType><value>1</value><formula>1</formula></tracker><tracker><label>Writhing Tide</label><resetType>2</resetType><value>3</value><formula>3</formula></tracker></autolevel><autolevel><level>8</level><scoreImprovement>1</scoreImprovement><slots>0,4,3,0,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 8th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+Source:	Player&#39;s Handbook p. 89</text></feat><feat><name>Land&#39;s Stride</name><text>Starting at 8th level, moving through nonmagical difficult terrain costs you no extra movement. You can also pass through nonmagical plants without being slowed by them and without taking damage from them if they have thorns, spines, or a similar hazard.
+
+In addition, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell.
+
+Source:	Player&#39;s Handbook p. 89</text></feat><feat><name>Martial Versatility</name><text>4th-level ranger optional class features
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 57</text></feat></autolevel><autolevel><level>9</level><slots>0,4,3,2,0,0,0,0,0,0,</slots><tracker><label>Writhing Tide</label><resetType>2</resetType><value>4</value><formula>4</formula></tracker></autolevel><autolevel><level>10</level><slots>0,4,3,2,0,0,0,0,0,0,</slots><feat><name>Hide in Plain Sight</name><text>Starting at 10th level, you can spend 1 minute creating camouflage for yourself. You must have access to fresh mud, dirt, plants, soot, and other naturally occurring materials with which to create your camouflage.
+
+Once you are camouflaged in this way, you can try to hide by pressing yourself up against a solid surface, such as a tree or wall, that is at least as tall and wide as you are. You gain a +10 bonus to Dexterity (Stealth) checks as long as you remain there without moving or taking actions. Once you move or take an action or a reaction, you must camouflage yourself again to gain this benefit.
+
+Source:	Player&#39;s Handbook p. 89</text></feat><feat><name>Natural Explorer improvement</name><text>You gain an additional favored terrain.
+
+Source:	Player&#39;s Handbook p. 89</text></feat><feat><name>Deft Explorer: Tireless (10th Level)</name><text>As an action, you can give yourself a number of temporary hit points equal to 1d8 + your Wisdom modifier (minimum of 1 temporary hit point). You can use this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+In addition, whenever you finish a short rest, your exhaustion level, if any, is decreased by 1.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 56</text><optional>1</optional></feat><feat><name>Nature&#39;s Veil</name><text>10th-level ranger optional class features, which replaces the Hide in Plain Sight feature
+
+You draw on the powers of nature to hide yourself from view briefly. As a bonus action, you can magically become invisible, along with any equipment you are wearing or carrying, until the start of your next turn.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 56</text></feat></autolevel><autolevel><level>11</level><slots>0,4,3,3,0,0,0,0,0,0,</slots><feat><name>Ranger Archetype feature</name><text>At 11th level, you gain a feature granted to you by your Ranger Archetype.
+
+Source:	Player&#39;s Handbook p. 89</text></feat><feat><name>Beast Master: Bestial Fury</name><text>Starting at 11th level, when you command your beast companion to take the Attack action, the beast can make two attacks, or it can take the Multiattack action if it has that action.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Hunter: Multiattack</name><text>At 11th level, you gain one of the following features of your choice.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Hunter Multiattack: Volley</name><text>You can use your action to make a ranged attack against any number of creatures within 10 feet of a point you can see within your weapon&#39;s range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Hunter: Whirlwind Attack</name><text>You can use your action to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Gloom Stalker: Stalker&#39;s Flurry</name><text>At 11th level, you learn to attack with such unexpected speed that you can turn a miss into another strike. Once on each of your turns when you miss with a weapon attack, you can make another weapon attack as part of the same action.
+
+Source:	Xanathar&#39;s Guide to Everything p. 41</text><optional>1</optional></feat><feat><name>Horizon Walker: Distant Strike</name><text>At 11th level, you gain the ability to pass between the planes in the blink of an eye. When you take the Attack action, you can teleport up to 10 feet before each attack to an unoccupied space you can see.
+
+If you attack at least two different creatures with the action, you can make one additional attack with it against a third creature.
+
+Source:	Xanathar&#39;s Guide to Everything p. 42</text><optional>1</optional></feat><feat><name>Monster Slayer: Magic-User&#39;s Nemesis</name><text>At 11th level, you gain the ability to thwart someone else&#39;s magic. When you see a creature casting a spell or teleporting within 60 feet of you, you can use your reaction to try to magically foil it. The creature must succeed on a Wisdom saving throw against your spell save DC, or its spell or teleport fails and is wasted.
+
+Once you use this feature, you can&#39;t use it again until you finish a short or long rest.
+
+Source:	Xanathar&#39;s Guide to Everything p. 43</text><optional>1</optional></feat><feat><name>Fey Wanderer: Fey Reinforcements</name><text>11th-level Fey Wanderer feature
+
+The royal courts of the Feywild have blessed you with the assistance of fey beings: you know summon fey. It doesn&#39;t count against the number of ranger spells you know, and you can cast it without a material component. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.
+
+Whenever you start casting the spell, you can modify it so that it doesn&#39;t require concentration. If you do so, the spell&#39;s duration becomes 1 minute for that casting.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 58</text><optional>1</optional></feat><feat><name>Swarmkeeper: Mighty Swarm</name><text>11th-level Swarmkeeper feature
+
+Your Gathered Swarm grows mightier in the following ways:
+
+	• The damage of Gathered Swarm increases to 1d8.
+	• If a creature fails its saving throw against being moved by Gathered Swarm, you can also cause the swarm to knock the creature prone.
+	• When you are moved by Gathered Swarm, it gives you half cover until the start of your next turn.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 59</text><optional>1</optional></feat><feat><name>Drakewarden: Drake&#39;s Breath</name><text>Starting at 11th level, as an action, you can exhale a 30-foot cone of damaging breath or cause your drake to exhale it. Choose acid, cold, fire, lightning, or poison damage (your choice doesn&#39;t have to match your drake&#39;s Draconic Essence). Each creature in the cone must make a Dexterity saving throw against your spell save DC, taking 8d6 damage on a failed save, or half as much damage on a successful one.
+
+This damage increases to 10d6 when you reach 15th level in this class.
+
+Once you use this feature, you can&#39;t do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use it again.
+
+Source:	Fizban&#39;s Treasury of Dragons p. 16</text><optional>1</optional></feat><feat><name>Feyfriend: Fey Reinforcements</name><text>Starting at 11th level, you can call fey creatures to help you.
+
+You can cast the conjure fey spell without expending a spell slot or material components.
+
+Once you use this feature, you can&#39;t use it again until you finish a long rest.
+
+Source:	Crown of the Oathhbreaker p. 891</text><optional>1</optional></feat><feat><name>Monster Tamer: Call of the Beasts</name><text>Starting at 11th level, you can conjure beasts and monsters to do your bidding.
+
+You can cast the conjure animals spell without expending a spell or material components and use it to summon a monstrosity with a challenge rating of 2 or lower and with an Intelligence score of 3 or lower.
+
+Once you use this feature, you can&#39;t use it again until you finish a short or long rest.
+
+Source:	Crown of the Oathhbreaker p. 892</text><optional>1</optional></feat><feat><name>Siege Beast Master: Magical Siege Beast Companion</name><text>Starting at 11th level, the maximum challenge rating of the beast that you can have as your companion increases to 3 and can be of Huge size.
+
+Your beast companion&#39;s natural attacks count as magical for the purposes of overcoming damage resistance.
+
+Source:	Crown of the Oathhbreaker p. 892</text><optional>1</optional></feat><feat><name>Drakewarden (UA): Drake&#39;s Breath</name><text>11th-level Drakewarden feature
+
+As an action, you can exhale a 30-foot cone of damaging breath or cause your drake to exhale it. Choose acid, cold, fire, lightning, or poison damage. Each creature in the cone must make a Dexterity saving throw against your spell save DC, taking 6d6 damage on a failed save, or half as much damage on a successful one.
+
+This damage increases to 8d6 when you reach 15th level in this class.
+
+Once you use this feature, you can&#39;t do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use it again.
+
+Source:	Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text><optional>1</optional></feat><feat><name>Primeval Guardian (UA): Rooted Defense</name><text>At 11th level, you gain the ability to twist and turn the ground beneath you. While you are in your guardian form, the ground within 30 feet of you is difficult terrain for your enemies.
+
+Source:	Unearthed Arcana: Ranger And Rogue p. 2</text><optional>1</optional></feat><tracker><label>Magic-User&#39;s Nemesis</label><resetType>1</resetType><value>1</value><formula>1</formula></tracker></autolevel><autolevel><level>12</level><scoreImprovement>1</scoreImprovement><slots>0,4,3,3,0,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 12th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+Source:	Player&#39;s Handbook p. 89</text></feat><feat><name>Martial Versatility</name><text>4th-level ranger optional class features
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 57</text></feat></autolevel><autolevel><level>13</level><slots>0,4,3,3,1,0,0,0,0,0,</slots><tracker><label>Writhing Tide</label><resetType>2</resetType><value>5</value><formula>5</formula></tracker></autolevel><autolevel><level>14</level><slots>0,4,3,3,1,0,0,0,0,0,</slots><feat><name>Vanish</name><text>Starting at 14th level, you can use the Hide action as a bonus action on your turn. Also, you can&#39;t be tracked by nonmagical means, unless you choose to leave a trail.
+
+Source:	Player&#39;s Handbook p. 89</text></feat><feat><name>Favored Enemy improvement</name><text>At 14th level, you choose one additional favored enemy, as well as an associated language. Your choice should reflect the types of monsters you have encountered on your adventures.
+
+Source:	Player&#39;s Handbook p. 89</text></feat></autolevel><autolevel><level>15</level><slots>0,4,3,3,2,0,0,0,0,0,</slots><feat><name>Ranger Archetype feature</name><text>At 15th level, you gain a feature granted to you by your Ranger Archetype.
+
+Source:	Player&#39;s Handbook p. 89</text></feat><feat><name>Beast Master: Share Spells</name><text>Beginning at 15th level, when you cast a spell targeting yourself, you can also affect your beast companion with the spell if the beast is within 30 feet of you.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Hunter: Superior Hunter&#39;s Defense</name><text>At 15th level, you gain one of the following features of your choice.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Superior Hunter&#39;s Defense: Evasion</name><text>You can nimbly dodge out of the way of certain area effects, such as a red dragon&#39;s fiery breath or a lightning bolt spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Superior Hunter&#39;s Defense: Stand Against the Tide</name><text>When a hostile creature misses you with a melee attack, you can use your reaction to force that creature to repeat the same attack against another creature (other than itself) of your choice.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Superior Hunter&#39;s Defense: Uncanny Dodge</name><text>When an attacker that you can see hits you with an attack, you can use your reaction to halve the attack&#39;s damage against you.
+
+Source:	Player&#39;s Handbook p. 93</text><optional>1</optional></feat><feat><name>Gloom Stalker: Shadowy Dodge</name><text>Starting at 15th level, you can dodge in unforeseen ways, with wisps of supernatural shadow around you. Whenever a creature makes an attack roll against you and doesn&#39;t have advantage on the roll, you can use your reaction to impose disadvantage on it. You must use this feature before you know the outcome of the attack roll.
+
+Source:	Xanathar&#39;s Guide to Everything p. 41</text><optional>1</optional></feat><feat><name>Horizon Walker: Spectral Defense</name><text>At 15th level, your ability to move between planes enables you to slip through the planar boundaries to lessen the harm done to you during battle. When you take damage from an attack, you can use your reaction to give yourself resistance to all of that attack&#39;s damage on this turn.
+
+Source:	Xanathar&#39;s Guide to Everything p. 42</text><optional>1</optional></feat><feat><name>Monster Slayer: Slayer&#39;s Counter</name><text>At 15th level, you gain the ability to counterattack when your prey tries to sabotage you. If the target of your Slayer&#39;s Prey forces you to make a saving throw, you can use your reaction to make one weapon attack against the quarry. You make this attack immediately before making the saving throw. If your attack hits, your save automatically succeeds, in addition to the attack&#39;s normal effects.
+
+Source:	Xanathar&#39;s Guide to Everything p. 43</text><optional>1</optional></feat><feat><name>Fey Wanderer: Misty Wanderer</name><text>15th-level Fey Wanderer feature
+
+You can slip in and out of the Feywild to move in a blink of an eye: you can cast misty step without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.
+
+In addition, whenever you cast misty step, you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 58</text><optional>1</optional></feat><feat><name>Swarmkeeper: Swarming Dispersal</name><text>15th-level Swarmkeeper feature
+
+You can discorporate into your swarm, avoiding danger. When you take damage, you can use your reaction to give yourself resistance to that damage. You vanish into your swarm and then teleport to an unoccupied space that you can see within 30 feet of you, where you reappear with the swarm.
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 59</text><optional>1</optional></feat><feat><name>Drakewarden: Perfected Bond</name><text>Beginning at 15th level, your bond to your drake reaches the pinnacle of its power. While your drake is summoned, you and the drake gain the following benefits:
+
+	• Empowered Bite. The drake&#39;s Bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence (for a total of 2d6 extra damage).
+
+	• Large Drake. The drake grows to Large size. When you ride your drake, it is no longer prohibited from using the flying speed of Bond of Fang and Scale.
+
+	• Reflexive Resistance. When either you or the drake takes damage while you&#39;re within 30 feet of each other, you can use your reaction to give yourself or the drake resistance to that instance of damage. You can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+Source:	Fizban&#39;s Treasury of Dragons p. 16</text><optional>1</optional></feat><feat><name>Feyfriend: Sanctuary of the Fey Court</name><text>Starting at 15th level, fey creatures and creatures of the natural world sense your connection to their kind and become hesitant to attack you.
+
+When a fey, beast or plant creature attacks you, that creature must make a Wisdom saving throw against your ranger spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours. The creature is aware of this effect before it makes its attack against you.
+
+Source:	Crown of the Oathhbreaker p. 891</text><optional>1</optional></feat><feat><name>Monster Tamer: Protection of the Pack</name><text>Starting at 15th level, when you surround yourself with allied beasts or monstrosities, the pack grants you benefits.
+
+You gain the following benefits if an allied beast or monstrosity, is within 5 ft. of you or if you are mounted on such a creature.
+
+	• You gain +2 to your AC.
+
+	• Whenever you are the target of a melee attack, the beast or monstrosity can make a melee attack against the attacking opponent as a reaction.
+
+	• When an attacker that you can see hits you with a melee attack, you can use your reaction to halve the attack&#39;s damage against you. However your beast or monstrosity ally takes the other half of the damage.
+
+Source:	Crown of the Oathhbreaker p. 892</text><optional>1</optional></feat><feat><name>Siege Beast Master: Greater Magical Siege Beast Companion</name><text>Starting at 15th level, the maximum challenge rating of the beast that you can have as your companion increases to 4.
+
+When you are mounted on your beast companion or within 5 feet of it, any creature that attacks you provokes an opportunity attack from your beast companion.
+
+Source:	Crown of the Oathhbreaker p. 892</text><optional>1</optional></feat><feat><name>Drakewarden (UA): Perfected Bond</name><text>15th-level Drakewarden feature
+
+Your bond to your drake reaches the pinnacle of its power. While your drake is summoned, you and the drake gain the following benefits:
+
+	• The drake grows to Large size.
+	• The drake&#39;s bite attack deals an extra 1d6 damage of the type chosen for its Draconic Essence (for a total of 2d6 extra damage).
+	• When either you or the drake takes damage while you&#39;re within 30 feet of each other, you can use your reaction to give yourself or the drake resistance to that instance of damage.
+
+Source:	Unearthed Arcana: 2020 Subclasses Pt5 p. 2</text><optional>1</optional></feat><feat><name>Primeval Guardian (UA): Guardian Aura</name><text>Starting at 15th level, your guardian form emanates a magical aura that fortifies your injured allies. When any ally starts their turn within 30 feet of your guardian form, that ally regains a number of hit points equal to half your ranger level. This aura has no effect on a creature that has half or more of its hit points, and it has no effect on undead and constructs.
+
+Source:	Unearthed Arcana: Ranger And Rogue p. 2</text><optional>1</optional></feat><tracker><label>Swarming Dispersal</label><resetType>2</resetType><value>5</value><formula>5</formula></tracker></autolevel><autolevel><level>16</level><scoreImprovement>1</scoreImprovement><slots>0,4,3,3,2,0,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 16th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+Source:	Player&#39;s Handbook p. 92</text></feat><feat><name>Martial Versatility</name><text>4th-level ranger optional class features
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 57</text></feat></autolevel><autolevel><level>17</level><slots>0,4,3,3,3,1,0,0,0,0,</slots><tracker><label>Writhing Tide</label><resetType>2</resetType><value>6</value><formula>6</formula></tracker><tracker><label>Swarming Dispersal</label><resetType>2</resetType><value>6</value><formula>6</formula></tracker></autolevel><autolevel><level>18</level><slots>0,4,3,3,3,1,0,0,0,0,</slots><feat><name>Feral Senses</name><text>At 18th level, you gain preternatural senses that help you fight creatures you can&#39;t see. When you attack a creature you can&#39;t see, your inability to see it doesn&#39;t impose disadvantage on your attack rolls against it. You are also aware of the location of any invisible creature within 30 feet of you, provided that the creature isn&#39;t hidden from you and you aren&#39;t blinded or deafened.
+
+Source:	Player&#39;s Handbook p. 92</text></feat></autolevel><autolevel><level>19</level><scoreImprovement>1</scoreImprovement><slots>0,4,3,3,3,2,0,0,0,0,</slots><feat><name>Ability Score Improvement</name><text>When you reach 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can&#39;t increase an ability score above 20 using this feature.
+
+If your DM allows the use of feats, you may instead take a feat.
+
+Source:	Player&#39;s Handbook p. 92</text></feat><feat><name>Martial Versatility</name><text>4th-level ranger optional class features
+Whenever you reach a level in this class that grants the Ability Score Improvement feature, you can replace a fighting style you know with another fighting style available to rangers. This replacement represents a shift of focus in your martial practice.
+
+Source:	Tasha&#39;s Cauldron of Everything p. 57</text></feat></autolevel><autolevel><level>20</level><slots>0,4,3,3,3,2,0,0,0,0,</slots><feat><name>Foe Slayer</name><text>At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll or the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied.
+
+Source:	Player&#39;s Handbook p. 92</text></feat></autolevel><spellAbility>4</spellAbility><spell><name>Hunter&#39;s Mark</name><school>3</school><level>1</level><time>1 bonus action</time><range>90 feet</range><v>1</v><duration>Concentration, up to 1 hour</duration><text>You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.
+
+At Higher Levels:
+When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.
+
+Source:	Player&#39;s Handbook p. 251</text><roll>1d6</roll><sclass>School: Divination</sclass><sclass>Ranger</sclass><sclass>Paladin (Vengeance)</sclass><sclass>Warlock (Dragon Patron)</sclass></spell><spell><name>Speak With Animals</name><school>3</school><ritual>1</ritual><level>1</level><time>1 action</time><range>Self</range><v>1</v><s>1</s><duration>10 minutes</duration><text>You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the DM&#39;s discretion.
+
+Source:	Player&#39;s Handbook p. 277</text><sclass>School: Divination</sclass><sclass>Bard</sclass><sclass>Druid</sclass><sclass>Ranger</sclass><sclass>Cleric (Nature)</sclass><sclass>Paladin (Ancients)</sclass><sclass>Barbarian (Totem Warrior)</sclass><sclass>Mark of Handling</sclass><sclass>Ranger (Monster Tamer)</sclass><sclass>Ritual Caster</sclass></spell></class><background><name>Outlander</name><feat><name>Description</name><text>You grew up in the wilds, far from civilization and the comforts of town and technology. You&#39;ve witnessed the migration of herds larger than forests, survived weather more extreme than any city-dweller could comprehend, and enjoyed the solitude of being the only thinking creature for miles in any direction. The wilds are in your blood, whether you were a nomad, an explorer, a recluse, a hunter-gatherer, or even a marauder. Even in places where you don&#39;t know the specific features of the terrain, you know the ways of the wild.
+
+	• Skill Proficiencies: Athletics, Survival.
+	• Tool Proficiencies: One type of musical instrument.
+	• Languages: One of your choice.
+	• Equipment: A staff, a hunting trap, a trophy from an animal you killed, a set of traveler&#39;s clothes, and a belt pouch containing 10 gp.
+
+Source:	Player&#39;s Handbook p. 136</text><expanded>0</expanded></feat><feat><name>Feature: Wanderer</name><text>You have an excellent memory for maps and geography, and you can always recall the general layout of terrain, settlements, and other features around you. In addition, you can find food and fresh water for yourself and up to five other people each day, provided that the land offers berries, small game, water, and so forth.
+</text><expanded>0</expanded></feat><feat><name>Specialty</name><text>You&#39;ve been to strange places and seen things that others cannot begin to fathom. Consider some of the distant lands you have visited, and how they impacted you. You can roll on the following table to determine your occupation during your time in the wild, or choose one that best fits your character.
+
+d10 | Origin
+1 | Forester
+2 | Trapper
+3 | Homesteader
+4 | Guide
+5 | Exile or outcast
+6 | Bounty hunter
+7 | Pilgrim
+8 | Tribal nomad
+9 | Hunter-gatherer
+10 | Tribal marauder
+</text><expanded>0</expanded></feat><feat><name>Suggested Characteristics</name><text>Often considered rude and uncouth among civilized folk, outlanders have little respect for the niceties of life in the cities. The ties of tribe, clan, family, and the natural world of which they are a part are the most important bonds to most outlanders.
+
+d8 | Personality Trait
+1 | I&#39;m driven by a wanderlust that led me away from home.
+2 | I watch over my friends as if they were a litter of newborn pups.
+3 | I once ran twenty-five miles without stopping to warn to my clan of an approaching orc horde. I&#39;d do it again if I had to.
+4 | I have a lesson for every situation, drawn from observing nature.
+5 | I place no stock in wealthy or well-mannered folk. Money and manners won&#39;t save you from a hungry owlbear.
+6 | I&#39;m always picking things up, absently fiddling with them, and sometimes accidentally breaking them.
+7 | I feel far more comfortable around animals than people.
+8 | I was, in fact, raised by wolves.
+
+d6 | Ideal
+1 | Change. Life is like the seasons, in constant change, and we must change with it. (Chaotic)
+2 | Greater Good. It is each person&#39;s responsibility to make the most happiness for the whole tribe. (Good)
+3 | Honor. If I dishonor myself, I dishonor my whole clan. (Lawful)
+4 | Might. The strongest are meant to rule. (Evil)
+5 | Nature. The natural world is more important than all the constructs of civilization. (Neutral)
+6 | Glory. I must earn glory in battle, for myself and my clan. (Any)
+
+d6 | Bond
+1 | My family, clan, or tribe is the most important thing in my life, even when they are far from me.
+2 | An injury to the unspoiled wilderness of my home is an injury to me.
+3 | I will bring terrible wrath down on the evildoers who destroyed my homeland.
+4 | I am the last of my tribe, and it is up to me to ensure their names enter legend.
+5 | I suffer awful visions of a coming disaster and will do anything to prevent it.
+6 | It is my duty to provide children to sustain my tribe.
+
+d6 | Flaw
+1 | I am too enamored of ale, wine, and other intoxicants.
+2 | There&#39;s no room for caution in a life lived to the fullest.
+3 | I remember every insult I&#39;ve received and nurse a silent resentment toward anyone who&#39;s ever wronged me.
+4 | I am slow to trust members of other races, tribes, and societies.
+5 | Violence is my answer to almost any challenge.
+6 | Don&#39;t expect me to save those who can&#39;t save themselves. It is nature&#39;s way that the strong thrive and the weak perish.
+</text><expanded>0</expanded></feat><proficiency>117</proficiency><proficiency>103</proficiency></background>
+<unarmed>1</unarmed><slots>0,4,2,0,0,0,0,0,0,0,</slots><slotsCurrent>0,4,2,0,0,0,0,0,0,0,</slotsCurrent><item><name>Gold (gp)</name><type>15</type><quantity>110</quantity><value>1.0</value><weight>0.02</weight></item><item><name>Leather Armor</name><detail>common</detail><text>The breastplate and shoulder protectors of this armor are made of leather that has been stiffened by being boiled in oil. The rest of the armor is made of softer and more flexible materials.
+
+Source:	Player&#39;s Handbook p. 144</text><type>1</type><slot>5</slot><value>10.0</value><weight>10.0</weight><ac>11</ac></item><item><name>Longbow</name><detail>common</detail><text>Ammunition: You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
+
+If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see &#34;Improvised Weapons&#34;).
+
+Range: A weapon that can be used to make a ranged attack has a range shown in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon&#39;s normal range in feet, and the second indicates the weapon&#39;s maximum range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can&#39;t attack a target beyond the weapon&#39;s long range.
+
+Two-Handed: This weapon requires two hands when you attack with it.
+
+Heavy: Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon&#39;s size and bulk make it too large for a Small creature to use effectively.
+
+Proficiency: martial, longbow
+Source:	Player&#39;s Handbook p. 149</text><type>6</type><value>50.0</value><weight>2.0</weight><damage1H>1d8</damage1H><damageType>2</damageType><weaponProperty>1285</weaponProperty><weaponRange>150</weaponRange><weaponLongRange>600</weaponLongRange><mod><type>1</type></mod></item><item><name>Shortsword</name><detail>common</detail><text>Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+
+Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+
+Proficiency: martial, shortsword
+Source:	Player&#39;s Handbook p. 149</text><type>5</type><slot>2</slot><value>10.0</value><weight>2.0</weight><damage1H>1d6</damage1H><damageType>2</damageType><weaponProperty>1034</weaponProperty><mod><type>1</type></mod></item><item><name>Shortsword</name><detail>common</detail><text>Finesse: When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
+
+Light: A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+
+Proficiency: martial, shortsword
+Source:	Player&#39;s Handbook p. 149</text><type>5</type><slot>4</slot><value>10.0</value><weight>2.0</weight><damage1H>1d6</damage1H><damageType>2</damageType><weaponProperty>1034</weaponProperty><mod><type>1</type></mod></item><monster><name>Wolf</name><type>beast</type><alignment>Unaligned</alignment><ac>13</ac><armor>natural armor</armor><hd>2d8+2</hd><speed>walk 40 ft.</speed><skill><id>11</id><modifier>3</modifier></skill><skill><id>16</id><modifier>4</modifier></skill><passive>13</passive><cr>-1</cr><text>Source:	Monster Manual p. 341,
+		Curse of Strahd,
+		Hoard of the Dragon Queen,
+		Lost Mine of Phandelver,
+		Princes of the Apocalypse,
+		Rise of Tiamat,
+		Storm King&#39;s Thunder,
+		Ghosts of Saltmarsh,
+		Explorer&#39;s Guide to Wildemount,
+		Icewind Dale: Rime of the Frostmaiden,
+		Tasha&#39;s Cauldron of Everything</text><environment>56</environment><trait><name>Keen Hearing and Smell</name><text>
+The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.</text></trait><trait><name>Pack Tactics</name><text>
+The wolf has advantage on an attack roll against a creature if at least one of the wolf&#39;s allies is within 5 feet of the creature and the ally isn&#39;t incapacitated.</text></trait><action><name>Bite</name><text>
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage.
+
+If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.</text><attack><name>Bite</name><attackBonus>+4</attackBonus><damage>2d4+2</damage></attack></action><abilities>12,15,12,3,12,6,</abilities><hpMax>11</hpMax><hpCurrent>11</hpCurrent></monster><abilities>13,15,10,13,13,15,</abilities><hpMax>40</hpMax><hpCurrent>40</hpCurrent></character></pc>
