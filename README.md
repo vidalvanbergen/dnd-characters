@@ -146,7 +146,3 @@ Fight Club exports also include other tags for character details and campaign re
 - Use XML parsing libraries if you need to extract or transform data.
 - Keep the root tag and `version="5"` intact when editing files.
 - Remove `<imageData>` if you only need textual character data.
-- For bulk export or analysis, convert the XML into JSON or CSV.
-
-### Conversion tool
-A Python converter is available in `tools/fightclub_to_charactercraft.py` to generate CharacterCraft-compatible JSON from Fight Club XML.
